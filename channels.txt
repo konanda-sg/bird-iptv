@@ -1,0 +1,1031 @@
+Group = Uncategorized
+Stream name = Aria (Promo)
+Logo = noimage.png
+EPG id = Dummy
+Stream URL = https://theariatv.github.io/aria2.mp4
+
+Group = 🇮🇸 Iceland
+Stream name = The New Bird IPTV is coming
+Logo = https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/320px-GitHub_Invertocat_Logo.svg.png
+EPG id = ###### GOLDTV 24/7 CHANNELS ######
+Stream URL = http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1018090
+
+Group = 🇬🇧 United Kingdom
+Stream name = UK: BTV
+Logo = https://raw.githubusercontent.com/birdtwelve/web/refs/heads/main/logos/sketch-1730568073626.png
+EPG id = Dummy
+Stream URL = https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
+
+Group = 🇬🇧 United Kingdom
+Stream name = UK: BKids
+Logo = https://raw.githubusercontent.com/birdtwelve/web/refs/heads/main/logos/sketch-1743261608974.png
+EPG id = Dummy
+Stream URL = https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
+
+Group = 🇬🇧 United Kingdom
+Stream name = UK: The Comedy Channel
+Logo = https://raw.githubusercontent.com/birdtwelve/web/refs/heads/main/logos/The_Comedy_Channel_BMC_2005.png
+EPG id = Dummy
+Stream URL = https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
+
+Group = 🇬🇧 United Kingdom
+Stream name = UK: The Power Station
+Logo = https://raw.githubusercontent.com/birdtwelve/web/refs/heads/main/logos/The_Power_Station_2000.png
+EPG id = Dummy
+Stream URL = https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
+
+Group = 🇬🇧 United Kingdom
+Stream name = UK: Rewind TV
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rewind-tv-uk.png
+EPG id = 353bc549d9bd72ed56cd252cebcdb551
+Stream URL = http://93.96.252.173:9981/stream/channelid/1237662517?ticket=7AD4AD2E63F5ABCE387F04D389A96365A9EFECCD&profile=pass
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: 8TV
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/8tv-my.png
+EPG id = MY: 8TV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699765
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: ABC Australia
+Logo = https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/2560px-ABC_Australia_logo.svg.png
+EPG id = MY: ABC Australia
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699766
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Adithya
+Logo = noimage.png
+EPG id = MY: Adithya
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699767
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: AEC
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-aec-my.png
+EPG id = MY: AEC
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699877
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: AI FM
+Logo = https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png
+EPG id = MY: AI FM
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699878
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Aljazeera Asia
+Logo = https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/2560px-Aljazeera_eng.svg.png
+EPG id = MY: Aljazeera Asia
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699769
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Animal Planet
+Logo = https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png
+EPG id = MY: Animal Planet
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699770
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: ARENA BOLA
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-arena-bola-my.png
+EPG id = MY: ARENA BOLA
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699879
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: ARENA BOLA 2
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-arena-bola-2-my.png
+EPG id = MY: ARENA BOLA 2
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699880
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Asian Food Network (AFN)
+Logo = https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/2560px-Asian_Food_Network.svg.png
+EPG id = MY: Asian Food Network (AFN)
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699775
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro AOD
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-aod-my.png
+EPG id = MY: Astro AOD
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699768
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Arena
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-arena-my.png
+EPG id = MY: Astro Arena
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699777
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Arena 2
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-arena-2-my.png
+EPG id = MY: Astro Arena 2
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699796
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Aura
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-aura-my.png
+EPG id = MY: Astro Aura
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699798
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Awani
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-awani-my.png
+EPG id = MY: Astro Awani
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699778
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Bola 3
+Logo = noimage.png
+EPG id = MY: Astro Bola 3
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699896
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Bola 4
+Logo = noimage.png
+EPG id = MY: Astro Bola 4
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699876
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Box Office (THANGATHIRAI)
+Logo = noimage.png
+EPG id = MY: Astro Box Office (THANGATHIRAI)
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699881
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Ceria
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-ceria-my.png
+EPG id = MY: Astro Ceria
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699787
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Cricket
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-cricket-my.png
+EPG id = MY: Astro Cricket
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699799
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Cricket 2
+Logo = noimage.png
+EPG id = MY: Astro Cricket 2
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699914
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Events 1
+Logo = noimage.png
+EPG id = MY: Astro Events 1
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699882
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Events 2
+Logo = noimage.png
+EPG id = MY: Astro Events 2
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699883
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Hua Hee Dai
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-hua-hee-dai-my.png
+EPG id = MY: Astro Hua Hee Dai
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699833
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Oasis
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-oasis-my.png
+EPG id = MY: Astro Oasis
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699782
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Premier
+Logo = noimage.png
+EPG id = MY: Astro Premier
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699783
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Rania
+Logo = noimage.png
+EPG id = MY: Astro Rania
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699784
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro SuperSport Badminton
+Logo = noimage.png
+EPG id = MY: Astro SuperSport Badminton
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699837
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro SuperSport Badminton 2
+Logo = noimage.png
+EPG id = MY: Astro SuperSport Badminton 2
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699874
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Supersport Football
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png
+EPG id = MY: Astro Supersport Football
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699790
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Supersport Grandstand
+Logo = noimage.png
+EPG id = MY: Astro Supersport Grandstand
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699788
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Supersport Plus
+Logo = noimage.png
+EPG id = MY: Astro Supersport Plus
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699838
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Supersport UHD/4K
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-sports-uhd-my.png
+EPG id = MY: Astro Supersport UHD/4K
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699759
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Tutor TV
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-tutor-tv-my.png
+EPG id = MY: Astro Tutor TV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699795
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Vaanavil
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-vaanavil-my.png
+EPG id = MY: Astro Vaanavil
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699776
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Astro Vellithirai
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-vellithirai-my.png
+EPG id = MY: Astro Vellithirai
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699797
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: ASYIK FM
+Logo = noimage.png
+EPG id = MY: ASYIK FM
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699884
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: AXN
+Logo = noimage.png
+EPG id = MY: AXN
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699801
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Barita
+Logo = noimage.png
+EPG id = MY: Barita
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699805
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: BAYU
+Logo = noimage.png
+EPG id = MY: BAYU
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699771
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: BBC CBeebies
+Logo = noimage.png
+EPG id = MY: BBC CBeebies
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699763
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: beIN Sports
+Logo = noimage.png
+EPG id = MY: beIN Sports
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699802
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: beIN Sports 2
+Logo = noimage.png
+EPG id = MY: beIN Sports 2
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699803
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: beIN Sports 3
+Logo = noimage.png
+EPG id = MY: beIN Sports 3
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699804
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: beIN Sports 4
+Logo = noimage.png
+EPG id = MY: beIN Sports 4
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699773
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Bein Sports 5
+Logo = noimage.png
+EPG id = MY: Bein Sports 5
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699779
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Bernama
+Logo = noimage.png
+EPG id = MY: Bernama
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699807
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Bloomberg TV
+Logo = noimage.png
+EPG id = MY: Bloomberg TV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699808
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: BOO
+Logo = noimage.png
+EPG id = MY: BOO
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699809
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Cartoon Network
+Logo = noimage.png
+EPG id = MY: Cartoon Network
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699789
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: CCTV4
+Logo = noimage.png
+EPG id = MY: CCTV4
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699841
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Celestial Classic Movies
+Logo = noimage.png
+EPG id = MY: Celestial Classic Movies
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699810
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Celestial Movies
+Logo = noimage.png
+EPG id = MY: Celestial Movies
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699811
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: CGTN
+Logo = noimage.png
+EPG id = MY: CGTN
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699812
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Cinemax
+Logo = noimage.png
+EPG id = MY: Cinemax
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699813
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: CITRA
+Logo = noimage.png
+EPG id = MY: CITRA
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699885
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: CLASSIC ROCK
+Logo = noimage.png
+EPG id = MY: CLASSIC ROCK
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699886
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: CNA
+Logo = noimage.png
+EPG id = MY: CNA
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699814
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: CNBC
+Logo = noimage.png
+EPG id = MY: CNBC
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699815
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Colors
+Logo = noimage.png
+EPG id = MY: Colors
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699827
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Crime & Investigation
+Logo = noimage.png
+EPG id = MY: Crime & Investigation
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699817
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: CTI Asia
+Logo = noimage.png
+EPG id = MY: CTI Asia
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699818
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Deutsche Welle (DW)
+Logo = noimage.png
+EPG id = MY: Deutsche Welle (DW)
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699887
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Discovery Asia
+Logo = noimage.png
+EPG id = MY: Discovery Asia
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699820
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Discovery Channel
+Logo = noimage.png
+EPG id = MY: Discovery Channel
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699819
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Dmax
+Logo = noimage.png
+EPG id = MY: Dmax
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699822
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: DreamWorks
+Logo = noimage.png
+EPG id = MY: DreamWorks
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699761
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: ERA
+Logo = noimage.png
+EPG id = MY: ERA
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699888
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Eurosport
+Logo = noimage.png
+EPG id = MY: Eurosport
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699823
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Food Network
+Logo = noimage.png
+EPG id = MY: Food Network
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699825
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: FRANCE24
+Logo = noimage.png
+EPG id = MY: FRANCE24
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699816
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: GEGAR
+Logo = noimage.png
+EPG id = MY: GEGAR
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699889
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Global Trekker
+Logo = noimage.png
+EPG id = MY: Global Trekker
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699762
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: GO XUAN
+Logo = noimage.png
+EPG id = MY: GO XUAN
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699891
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: GOLD
+Logo = noimage.png
+EPG id = MY: GOLD
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699890
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Golf Channel
+Logo = noimage.png
+EPG id = MY: Golf Channel
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699826
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: HBO
+Logo = noimage.png
+EPG id = MY: HBO
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699758
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: HBO Family
+Logo = noimage.png
+EPG id = MY: HBO Family
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699828
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: HBO Hits
+Logo = noimage.png
+EPG id = MY: HBO Hits
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699829
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: HGTV
+Logo = noimage.png
+EPG id = MY: HGTV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699791
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: History
+Logo = noimage.png
+EPG id = MY: History
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699830
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Hits
+Logo = noimage.png
+EPG id = MY: Hits
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699831
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Hits Movies
+Logo = noimage.png
+EPG id = MY: Hits Movies
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699832
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Hits Now
+Logo = noimage.png
+EPG id = MY: Hits Now
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699821
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: HITZ
+Logo = noimage.png
+EPG id = MY: HITZ
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699764
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: INDIA BEAT
+Logo = noimage.png
+EPG id = MY: INDIA BEAT
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699863
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: iQIYI
+Logo = noimage.png
+EPG id = MY: iQIYI
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699834
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: iQIYI
+Logo = noimage.png
+EPG id = MY: iQIYI
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699892
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: JAZZ
+Logo = noimage.png
+EPG id = MY: JAZZ
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699893
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: KBS World
+Logo = noimage.png
+EPG id = MY: KBS World
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699894
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: KENYALANG
+Logo = noimage.png
+EPG id = MY: KENYALANG
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699824
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: KPLUS
+Logo = noimage.png
+EPG id = MY: KPLUS
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699835
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: KTV
+Logo = noimage.png
+EPG id = MY: KTV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699780
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Lifetime
+Logo = noimage.png
+EPG id = MY: Lifetime
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699836
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: LITE
+Logo = noimage.png
+EPG id = MY: LITE
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699895
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Love Nature
+Logo = noimage.png
+EPG id = MY: Love Nature
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699760
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Maah TV
+Logo = noimage.png
+EPG id = MY: Maah TV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699806
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: MELODY
+Logo = noimage.png
+EPG id = MY: MELODY
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699772
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: MINNAL FM
+Logo = noimage.png
+EPG id = MY: MINNAL FM
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699897
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: MIX
+Logo = noimage.png
+EPG id = MY: MIX
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699898
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Moonbug Kids
+Logo = noimage.png
+EPG id = MY: Moonbug Kids
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699839
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: MTV
+Logo = noimage.png
+EPG id = MY: MTV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699840
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: MY Radio
+Logo = noimage.png
+EPG id = MY: MY Radio
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699899
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: MY: Astro Supersport Premier League 5
+Logo = noimage.png
+EPG id = MY: MY: Astro Supersport Premier League 5
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699918
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: NAS FM
+Logo = noimage.png
+EPG id = MY: NAS FM
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699900
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Nick JR
+Logo = noimage.png
+EPG id = MY: Nick JR
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699901
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Nickelodeon
+Logo = noimage.png
+EPG id = MY: Nickelodeon
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699842
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: NTV7
+Logo = noimage.png
+EPG id = MY: NTV7
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699843
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: One
+Logo = noimage.png
+EPG id = MY: One
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699845
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: OPUS
+Logo = noimage.png
+EPG id = MY: OPUS
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699902
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: OSAI
+Logo = noimage.png
+EPG id = MY: OSAI
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699800
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Paramount
+Logo = noimage.png
+EPG id = MY: Paramount
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699846
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Phoenix
+Logo = noimage.png
+EPG id = MY: Phoenix
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699847
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Phoenix News
+Logo = noimage.png
+EPG id = MY: Phoenix News
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699848
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: PremierSports
+Logo = noimage.png
+EPG id = MY: PremierSports
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699849
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: PRIMA
+Logo = noimage.png
+EPG id = MY: PRIMA
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699903
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: QJ
+Logo = noimage.png
+EPG id = MY: QJ
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699904
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: RAAGA
+Logo = noimage.png
+EPG id = MY: RAAGA
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699905
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: RIA
+Logo = noimage.png
+EPG id = MY: RIA
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699906
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: RTM Asean
+Logo = noimage.png
+EPG id = MY: RTM Asean
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699917
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: RTM Parmimen Dewan Negara
+Logo = noimage.png
+EPG id = MY: RTM Parmimen Dewan Negara
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699916
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: RTM Parmimen Dewan Rakyat
+Logo = noimage.png
+EPG id = MY: RTM Parmimen Dewan Rakyat
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699915
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Showcase Movies
+Logo = noimage.png
+EPG id = MY: Showcase Movies
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699850
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: SINAR
+Logo = noimage.png
+EPG id = MY: SINAR
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699774
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Sky News
+Logo = noimage.png
+EPG id = MY: Sky News
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699851
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: SPOTV
+Logo = noimage.png
+EPG id = MY: SPOTV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699852
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: SPOTV2
+Logo = noimage.png
+EPG id = MY: SPOTV2
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699853
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Star Vijay
+Logo = noimage.png
+EPG id = MY: Star Vijay
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699854
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: SUKAN
+Logo = noimage.png
+EPG id = MY: SUKAN
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699920
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Sun Life
+Logo = noimage.png
+EPG id = MY: Sun Life
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699781
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: SUN Music
+Logo = noimage.png
+EPG id = MY: SUN Music
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699856
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Sun Music TV
+Logo = noimage.png
+EPG id = MY: Sun Music TV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699919
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Sun News
+Logo = noimage.png
+EPG id = MY: Sun News
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699844
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: SUN TV
+Logo = noimage.png
+EPG id = MY: SUN TV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699855
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Supersport Premier League
+Logo = noimage.png
+EPG id = MY: Supersport Premier League
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699785
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Supersport Premier League 2
+Logo = noimage.png
+EPG id = MY: Supersport Premier League 2
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699786
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Supersport Premier League 3
+Logo = noimage.png
+EPG id = MY: Supersport Premier League 3
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699757
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Supersport Premier League 4
+Logo = noimage.png
+EPG id = MY: Supersport Premier League 4
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699756
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TLC
+Logo = noimage.png
+EPG id = MY: TLC
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699857
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TRAXX FM
+Logo = noimage.png
+EPG id = MY: TRAXX FM
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699907
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TV Alhijrah
+Logo = noimage.png
+EPG id = MY: TV Alhijrah
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699872
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TV Okey
+Logo = noimage.png
+EPG id = MY: TV Okey
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699858
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TV1
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv1-my.png
+EPG id = MY: TV1
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699859
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TV2
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv2-my.png
+EPG id = MY: TV2
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699860
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TV3
+Logo = https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv3-my.png
+EPG id = MY: TV3
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699861
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TV9
+Logo = noimage.png
+EPG id = MY: TV9
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699862
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TVB Classic
+Logo = noimage.png
+EPG id = MY: TVB Classic
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699865
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TVB E-News
+Logo = noimage.png
+EPG id = MY: TVB E-News
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699866
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TVB Jade
+Logo = noimage.png
+EPG id = MY: TVB Jade
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699867
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TVB Xing He
+Logo = noimage.png
+EPG id = MY: TVB Xing He
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699868
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TVBS Asia
+Logo = noimage.png
+EPG id = MY: TVBS Asia
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699864
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: tvN
+Logo = noimage.png
+EPG id = MY: tvN
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699869
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: tvN Movies
+Logo = noimage.png
+EPG id = MY: tvN Movies
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699870
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: TVS
+Logo = noimage.png
+EPG id = MY: TVS
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699871
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: V FM
+Logo = noimage.png
+EPG id = MY: V FM
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699910
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: VAANAVIL
+Logo = noimage.png
+EPG id = MY: VAANAVIL
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699908
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Vellithirai
+Logo = noimage.png
+EPG id = MY: Vellithirai
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699909
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: VINMEEN
+Logo = noimage.png
+EPG id = MY: VINMEEN
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699911
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: WAI FM
+Logo = noimage.png
+EPG id = MY: WAI FM
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699912
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Warner Bros
+Logo = noimage.png
+EPG id = MY: Warner Bros
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699913
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Warner TV
+Logo = noimage.png
+EPG id = MY: Warner TV
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699873
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: WSport (D)
+Logo = noimage.png
+EPG id = MY: WSport (D)
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699792
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: ZAYAN
+Logo = noimage.png
+EPG id = MY: ZAYAN
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699794
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: Zee Cinema
+Logo = noimage.png
+EPG id = MY: Zee Cinema
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699793
+
+Group = 🇲🇾 Malaysia
+Stream name = MY: ZEE Tamil
+Logo = noimage.png
+EPG id = MY: ZEE Tamil
+Stream URL = http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699875
