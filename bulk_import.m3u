@@ -1,0 +1,517 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Info", Aria (Promo)
+https://theariatv.github.io/aria2.mp4
+
+#EXTINF:-1 tvg-id="###### GOLDTV 24/7 CHANNELS ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/320px-GitHub_Invertocat_Logo.svg.png" group-title="Info", The New Bird IPTV is coming
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1018090
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/birdtwelve/web/refs/heads/main/logos/sketch-1730568073626.png" group-title="UNITED KINGDOM", UK: BTV
+https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/birdtwelve/web/refs/heads/main/logos/sketch-1743261608974.png" group-title="UNITED KINGDOM", UK: BKids
+https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/birdtwelve/web/refs/heads/main/logos/The_Comedy_Channel_BMC_2005.png" group-title="UNITED KINGDOM", UK: The Comedy Channel
+https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/birdtwelve/web/refs/heads/main/logos/The_Power_Station_2000.png" group-title="UNITED KINGDOM", UK: The Power Station
+https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
+
+#EXTINF:-1 tvg-id="353bc549d9bd72ed56cd252cebcdb551" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rewind-tv-uk.png" group-title="UNITED KINGDOM", UK: Rewind TV
+http://93.96.252.173:9981/stream/channelid/1237662517?ticket=7AD4AD2E63F5ABCE387F04D389A96365A9EFECCD&profile=pass
+
+#EXTINF:-1 tvg-id="MY: 8TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/8tv-my.png" group-title="MALAYSIA", MY: 8TV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699765
+
+#EXTINF:-1 tvg-id="MY: ABC Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/2560px-ABC_Australia_logo.svg.png" group-title="MALAYSIA", MY: ABC Australia
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699766
+
+#EXTINF:-1 tvg-id="MY: Adithya" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Adithya
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699767
+
+#EXTINF:-1 tvg-id="MY: AEC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-aec-my.png" group-title="MALAYSIA", MY: AEC
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699877
+
+#EXTINF:-1 tvg-id="MY: AI FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png" group-title="MALAYSIA", MY: AI FM
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699878
+
+#EXTINF:-1 tvg-id="MY: Aljazeera Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/2560px-Aljazeera_eng.svg.png" group-title="MALAYSIA", MY: Aljazeera Asia
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699769
+
+#EXTINF:-1 tvg-id="MY: Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="MALAYSIA", MY: Animal Planet
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699770
+
+#EXTINF:-1 tvg-id="MY: ARENA BOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-arena-bola-my.png" group-title="MALAYSIA", MY: ARENA BOLA
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699879
+
+#EXTINF:-1 tvg-id="MY: ARENA BOLA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-arena-bola-2-my.png" group-title="MALAYSIA", MY: ARENA BOLA 2
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699880
+
+#EXTINF:-1 tvg-id="MY: Asian Food Network (AFN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/2560px-Asian_Food_Network.svg.png" group-title="MALAYSIA", MY: Asian Food Network (AFN)
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699775
+
+#EXTINF:-1 tvg-id="MY: Astro AOD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-aod-my.png" group-title="MALAYSIA", MY: Astro AOD
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699768
+
+#EXTINF:-1 tvg-id="MY: Astro Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-arena-my.png" group-title="MALAYSIA", MY: Astro Arena
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699777
+
+#EXTINF:-1 tvg-id="MY: Astro Arena 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-arena-2-my.png" group-title="MALAYSIA", MY: Astro Arena 2
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699796
+
+#EXTINF:-1 tvg-id="MY: Astro Aura" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-aura-my.png" group-title="MALAYSIA", MY: Astro Aura
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699798
+
+#EXTINF:-1 tvg-id="MY: Astro Awani" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-awani-my.png" group-title="MALAYSIA", MY: Astro Awani
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699778
+
+#EXTINF:-1 tvg-id="MY: Astro Bola 3" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Bola 3
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699896
+
+#EXTINF:-1 tvg-id="MY: Astro Bola 4" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Bola 4
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699876
+
+#EXTINF:-1 tvg-id="MY: Astro Box Office (THANGATHIRAI)" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Box Office (THANGATHIRAI)
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699881
+
+#EXTINF:-1 tvg-id="MY: Astro Ceria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-ceria-my.png" group-title="MALAYSIA", MY: Astro Ceria
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699787
+
+#EXTINF:-1 tvg-id="MY: Astro Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-cricket-my.png" group-title="MALAYSIA", MY: Astro Cricket
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699799
+
+#EXTINF:-1 tvg-id="MY: Astro Cricket 2" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Cricket 2
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699914
+
+#EXTINF:-1 tvg-id="MY: Astro Events 1" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Events 1
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699882
+
+#EXTINF:-1 tvg-id="MY: Astro Events 2" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Events 2
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699883
+
+#EXTINF:-1 tvg-id="MY: Astro Hua Hee Dai" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-hua-hee-dai-my.png" group-title="MALAYSIA", MY: Astro Hua Hee Dai
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699833
+
+#EXTINF:-1 tvg-id="MY: Astro Oasis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-oasis-my.png" group-title="MALAYSIA", MY: Astro Oasis
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699782
+
+#EXTINF:-1 tvg-id="MY: Astro Premier" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Premier
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699783
+
+#EXTINF:-1 tvg-id="MY: Astro Rania" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Rania
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699784
+
+#EXTINF:-1 tvg-id="MY: Astro SuperSport Badminton" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro SuperSport Badminton
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699837
+
+#EXTINF:-1 tvg-id="MY: Astro SuperSport Badminton 2" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro SuperSport Badminton 2
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699874
+
+#EXTINF:-1 tvg-id="MY: Astro Supersport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-football-my.png" group-title="MALAYSIA", MY: Astro Supersport Football
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699790
+
+#EXTINF:-1 tvg-id="MY: Astro Supersport Grandstand" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Supersport Grandstand
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699788
+
+#EXTINF:-1 tvg-id="MY: Astro Supersport Plus" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Astro Supersport Plus
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699838
+
+#EXTINF:-1 tvg-id="MY: Astro Supersport UHD/4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-sports-uhd-my.png" group-title="MALAYSIA", MY: Astro Supersport UHD/4K
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699759
+
+#EXTINF:-1 tvg-id="MY: Astro Tutor TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-tutor-tv-my.png" group-title="MALAYSIA", MY: Astro Tutor TV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699795
+
+#EXTINF:-1 tvg-id="MY: Astro Vaanavil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-vaanavil-my.png" group-title="MALAYSIA", MY: Astro Vaanavil
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699776
+
+#EXTINF:-1 tvg-id="MY: Astro Vellithirai" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-vellithirai-my.png" group-title="MALAYSIA", MY: Astro Vellithirai
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699797
+
+#EXTINF:-1 tvg-id="MY: ASYIK FM" tvg-logo="noimage.png" group-title="MALAYSIA", MY: ASYIK FM
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699884
+
+#EXTINF:-1 tvg-id="MY: AXN" tvg-logo="noimage.png" group-title="MALAYSIA", MY: AXN
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699801
+
+#EXTINF:-1 tvg-id="MY: Barita" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Barita
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699805
+
+#EXTINF:-1 tvg-id="MY: BAYU" tvg-logo="noimage.png" group-title="MALAYSIA", MY: BAYU
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699771
+
+#EXTINF:-1 tvg-id="MY: BBC CBeebies" tvg-logo="noimage.png" group-title="MALAYSIA", MY: BBC CBeebies
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699763
+
+#EXTINF:-1 tvg-id="MY: beIN Sports" tvg-logo="noimage.png" group-title="MALAYSIA", MY: beIN Sports
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699802
+
+#EXTINF:-1 tvg-id="MY: beIN Sports 2" tvg-logo="noimage.png" group-title="MALAYSIA", MY: beIN Sports 2
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699803
+
+#EXTINF:-1 tvg-id="MY: beIN Sports 3" tvg-logo="noimage.png" group-title="MALAYSIA", MY: beIN Sports 3
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699804
+
+#EXTINF:-1 tvg-id="MY: beIN Sports 4" tvg-logo="noimage.png" group-title="MALAYSIA", MY: beIN Sports 4
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699773
+
+#EXTINF:-1 tvg-id="MY: Bein Sports 5" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Bein Sports 5
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699779
+
+#EXTINF:-1 tvg-id="MY: Bernama" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Bernama
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699807
+
+#EXTINF:-1 tvg-id="MY: Bloomberg TV" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Bloomberg TV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699808
+
+#EXTINF:-1 tvg-id="MY: BOO" tvg-logo="noimage.png" group-title="MALAYSIA", MY: BOO
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699809
+
+#EXTINF:-1 tvg-id="MY: Cartoon Network" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Cartoon Network
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699789
+
+#EXTINF:-1 tvg-id="MY: CCTV4" tvg-logo="noimage.png" group-title="MALAYSIA", MY: CCTV4
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699841
+
+#EXTINF:-1 tvg-id="MY: Celestial Classic Movies" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Celestial Classic Movies
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699810
+
+#EXTINF:-1 tvg-id="MY: Celestial Movies" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Celestial Movies
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699811
+
+#EXTINF:-1 tvg-id="MY: CGTN" tvg-logo="noimage.png" group-title="MALAYSIA", MY: CGTN
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699812
+
+#EXTINF:-1 tvg-id="MY: Cinemax" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Cinemax
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699813
+
+#EXTINF:-1 tvg-id="MY: CITRA" tvg-logo="noimage.png" group-title="MALAYSIA", MY: CITRA
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699885
+
+#EXTINF:-1 tvg-id="MY: CLASSIC ROCK" tvg-logo="noimage.png" group-title="MALAYSIA", MY: CLASSIC ROCK
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699886
+
+#EXTINF:-1 tvg-id="MY: CNA" tvg-logo="noimage.png" group-title="MALAYSIA", MY: CNA
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699814
+
+#EXTINF:-1 tvg-id="MY: CNBC" tvg-logo="noimage.png" group-title="MALAYSIA", MY: CNBC
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699815
+
+#EXTINF:-1 tvg-id="MY: Colors" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Colors
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699827
+
+#EXTINF:-1 tvg-id="MY: Crime & Investigation" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Crime & Investigation
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699817
+
+#EXTINF:-1 tvg-id="MY: CTI Asia" tvg-logo="noimage.png" group-title="MALAYSIA", MY: CTI Asia
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699818
+
+#EXTINF:-1 tvg-id="MY: Deutsche Welle (DW)" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Deutsche Welle (DW)
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699887
+
+#EXTINF:-1 tvg-id="MY: Discovery Asia" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Discovery Asia
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699820
+
+#EXTINF:-1 tvg-id="MY: Discovery Channel" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Discovery Channel
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699819
+
+#EXTINF:-1 tvg-id="MY: Dmax" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Dmax
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699822
+
+#EXTINF:-1 tvg-id="MY: DreamWorks" tvg-logo="noimage.png" group-title="MALAYSIA", MY: DreamWorks
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699761
+
+#EXTINF:-1 tvg-id="MY: ERA" tvg-logo="noimage.png" group-title="MALAYSIA", MY: ERA
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699888
+
+#EXTINF:-1 tvg-id="MY: Eurosport" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Eurosport
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699823
+
+#EXTINF:-1 tvg-id="MY: Food Network" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Food Network
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699825
+
+#EXTINF:-1 tvg-id="MY: FRANCE24" tvg-logo="noimage.png" group-title="MALAYSIA", MY: FRANCE24
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699816
+
+#EXTINF:-1 tvg-id="MY: GEGAR" tvg-logo="noimage.png" group-title="MALAYSIA", MY: GEGAR
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699889
+
+#EXTINF:-1 tvg-id="MY: Global Trekker" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Global Trekker
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699762
+
+#EXTINF:-1 tvg-id="MY: GO XUAN" tvg-logo="noimage.png" group-title="MALAYSIA", MY: GO XUAN
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699891
+
+#EXTINF:-1 tvg-id="MY: GOLD" tvg-logo="noimage.png" group-title="MALAYSIA", MY: GOLD
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699890
+
+#EXTINF:-1 tvg-id="MY: Golf Channel" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Golf Channel
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699826
+
+#EXTINF:-1 tvg-id="MY: HBO" tvg-logo="noimage.png" group-title="MALAYSIA", MY: HBO
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699758
+
+#EXTINF:-1 tvg-id="MY: HBO Family" tvg-logo="noimage.png" group-title="MALAYSIA", MY: HBO Family
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699828
+
+#EXTINF:-1 tvg-id="MY: HBO Hits" tvg-logo="noimage.png" group-title="MALAYSIA", MY: HBO Hits
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699829
+
+#EXTINF:-1 tvg-id="MY: HGTV" tvg-logo="noimage.png" group-title="MALAYSIA", MY: HGTV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699791
+
+#EXTINF:-1 tvg-id="MY: History" tvg-logo="noimage.png" group-title="MALAYSIA", MY: History
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699830
+
+#EXTINF:-1 tvg-id="MY: Hits" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Hits
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699831
+
+#EXTINF:-1 tvg-id="MY: Hits Movies" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Hits Movies
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699832
+
+#EXTINF:-1 tvg-id="MY: Hits Now" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Hits Now
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699821
+
+#EXTINF:-1 tvg-id="MY: HITZ" tvg-logo="noimage.png" group-title="MALAYSIA", MY: HITZ
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699764
+
+#EXTINF:-1 tvg-id="MY: INDIA BEAT" tvg-logo="noimage.png" group-title="MALAYSIA", MY: INDIA BEAT
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699863
+
+#EXTINF:-1 tvg-id="MY: iQIYI" tvg-logo="noimage.png" group-title="MALAYSIA", MY: iQIYI
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699834
+
+#EXTINF:-1 tvg-id="MY: iQIYI" tvg-logo="noimage.png" group-title="MALAYSIA", MY: iQIYI
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699892
+
+#EXTINF:-1 tvg-id="MY: JAZZ" tvg-logo="noimage.png" group-title="MALAYSIA", MY: JAZZ
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699893
+
+#EXTINF:-1 tvg-id="MY: KBS World" tvg-logo="noimage.png" group-title="MALAYSIA", MY: KBS World
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699894
+
+#EXTINF:-1 tvg-id="MY: KENYALANG" tvg-logo="noimage.png" group-title="MALAYSIA", MY: KENYALANG
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699824
+
+#EXTINF:-1 tvg-id="MY: KPLUS" tvg-logo="noimage.png" group-title="MALAYSIA", MY: KPLUS
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699835
+
+#EXTINF:-1 tvg-id="MY: KTV" tvg-logo="noimage.png" group-title="MALAYSIA", MY: KTV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699780
+
+#EXTINF:-1 tvg-id="MY: Lifetime" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Lifetime
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699836
+
+#EXTINF:-1 tvg-id="MY: LITE" tvg-logo="noimage.png" group-title="MALAYSIA", MY: LITE
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699895
+
+#EXTINF:-1 tvg-id="MY: Love Nature" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Love Nature
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699760
+
+#EXTINF:-1 tvg-id="MY: Maah TV" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Maah TV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699806
+
+#EXTINF:-1 tvg-id="MY: MELODY" tvg-logo="noimage.png" group-title="MALAYSIA", MY: MELODY
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699772
+
+#EXTINF:-1 tvg-id="MY: MINNAL FM" tvg-logo="noimage.png" group-title="MALAYSIA", MY: MINNAL FM
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699897
+
+#EXTINF:-1 tvg-id="MY: MIX" tvg-logo="noimage.png" group-title="MALAYSIA", MY: MIX
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699898
+
+#EXTINF:-1 tvg-id="MY: Moonbug Kids" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Moonbug Kids
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699839
+
+#EXTINF:-1 tvg-id="MY: MTV" tvg-logo="noimage.png" group-title="MALAYSIA", MY: MTV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699840
+
+#EXTINF:-1 tvg-id="MY: MY Radio" tvg-logo="noimage.png" group-title="MALAYSIA", MY: MY Radio
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699899
+
+#EXTINF:-1 tvg-id="MY: MY: Astro Supersport Premier League 5" tvg-logo="noimage.png" group-title="MALAYSIA", MY: MY: Astro Supersport Premier League 5
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699918
+
+#EXTINF:-1 tvg-id="MY: NAS FM" tvg-logo="noimage.png" group-title="MALAYSIA", MY: NAS FM
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699900
+
+#EXTINF:-1 tvg-id="MY: Nick JR" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Nick JR
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699901
+
+#EXTINF:-1 tvg-id="MY: Nickelodeon" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Nickelodeon
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699842
+
+#EXTINF:-1 tvg-id="MY: NTV7" tvg-logo="noimage.png" group-title="MALAYSIA", MY: NTV7
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699843
+
+#EXTINF:-1 tvg-id="MY: One" tvg-logo="noimage.png" group-title="MALAYSIA", MY: One
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699845
+
+#EXTINF:-1 tvg-id="MY: OPUS" tvg-logo="noimage.png" group-title="MALAYSIA", MY: OPUS
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699902
+
+#EXTINF:-1 tvg-id="MY: OSAI" tvg-logo="noimage.png" group-title="MALAYSIA", MY: OSAI
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699800
+
+#EXTINF:-1 tvg-id="MY: Paramount" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Paramount
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699846
+
+#EXTINF:-1 tvg-id="MY: Phoenix" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Phoenix
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699847
+
+#EXTINF:-1 tvg-id="MY: Phoenix News" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Phoenix News
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699848
+
+#EXTINF:-1 tvg-id="MY: PremierSports" tvg-logo="noimage.png" group-title="MALAYSIA", MY: PremierSports
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699849
+
+#EXTINF:-1 tvg-id="MY: PRIMA" tvg-logo="noimage.png" group-title="MALAYSIA", MY: PRIMA
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699903
+
+#EXTINF:-1 tvg-id="MY: QJ" tvg-logo="noimage.png" group-title="MALAYSIA", MY: QJ
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699904
+
+#EXTINF:-1 tvg-id="MY: RAAGA" tvg-logo="noimage.png" group-title="MALAYSIA", MY: RAAGA
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699905
+
+#EXTINF:-1 tvg-id="MY: RIA" tvg-logo="noimage.png" group-title="MALAYSIA", MY: RIA
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699906
+
+#EXTINF:-1 tvg-id="MY: RTM Asean" tvg-logo="noimage.png" group-title="MALAYSIA", MY: RTM Asean
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699917
+
+#EXTINF:-1 tvg-id="MY: RTM Parmimen Dewan Negara" tvg-logo="noimage.png" group-title="MALAYSIA", MY: RTM Parmimen Dewan Negara
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699916
+
+#EXTINF:-1 tvg-id="MY: RTM Parmimen Dewan Rakyat" tvg-logo="noimage.png" group-title="MALAYSIA", MY: RTM Parmimen Dewan Rakyat
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699915
+
+#EXTINF:-1 tvg-id="MY: Showcase Movies" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Showcase Movies
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699850
+
+#EXTINF:-1 tvg-id="MY: SINAR" tvg-logo="noimage.png" group-title="MALAYSIA", MY: SINAR
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699774
+
+#EXTINF:-1 tvg-id="MY: Sky News" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Sky News
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699851
+
+#EXTINF:-1 tvg-id="MY: SPOTV" tvg-logo="noimage.png" group-title="MALAYSIA", MY: SPOTV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699852
+
+#EXTINF:-1 tvg-id="MY: SPOTV2" tvg-logo="noimage.png" group-title="MALAYSIA", MY: SPOTV2
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699853
+
+#EXTINF:-1 tvg-id="MY: Star Vijay" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Star Vijay
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699854
+
+#EXTINF:-1 tvg-id="MY: SUKAN" tvg-logo="noimage.png" group-title="MALAYSIA", MY: SUKAN
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699920
+
+#EXTINF:-1 tvg-id="MY: Sun Life" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Sun Life
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699781
+
+#EXTINF:-1 tvg-id="MY: SUN Music" tvg-logo="noimage.png" group-title="MALAYSIA", MY: SUN Music
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699856
+
+#EXTINF:-1 tvg-id="MY: Sun Music TV" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Sun Music TV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699919
+
+#EXTINF:-1 tvg-id="MY: Sun News" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Sun News
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699844
+
+#EXTINF:-1 tvg-id="MY: SUN TV" tvg-logo="noimage.png" group-title="MALAYSIA", MY: SUN TV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699855
+
+#EXTINF:-1 tvg-id="MY: Supersport Premier League" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Supersport Premier League
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699785
+
+#EXTINF:-1 tvg-id="MY: Supersport Premier League 2" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Supersport Premier League 2
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699786
+
+#EXTINF:-1 tvg-id="MY: Supersport Premier League 3" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Supersport Premier League 3
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699757
+
+#EXTINF:-1 tvg-id="MY: Supersport Premier League 4" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Supersport Premier League 4
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699756
+
+#EXTINF:-1 tvg-id="MY: TLC" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TLC
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699857
+
+#EXTINF:-1 tvg-id="MY: TRAXX FM" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TRAXX FM
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699907
+
+#EXTINF:-1 tvg-id="MY: TV Alhijrah" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TV Alhijrah
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699872
+
+#EXTINF:-1 tvg-id="MY: TV Okey" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TV Okey
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699858
+
+#EXTINF:-1 tvg-id="MY: TV1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv1-my.png" group-title="MALAYSIA", MY: TV1
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699859
+
+#EXTINF:-1 tvg-id="MY: TV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv2-my.png" group-title="MALAYSIA", MY: TV2
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699860
+
+#EXTINF:-1 tvg-id="MY: TV3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv3-my.png" group-title="MALAYSIA", MY: TV3
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699861
+
+#EXTINF:-1 tvg-id="MY: TV9" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TV9
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699862
+
+#EXTINF:-1 tvg-id="MY: TVB Classic" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TVB Classic
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699865
+
+#EXTINF:-1 tvg-id="MY: TVB E-News" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TVB E-News
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699866
+
+#EXTINF:-1 tvg-id="MY: TVB Jade" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TVB Jade
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699867
+
+#EXTINF:-1 tvg-id="MY: TVB Xing He" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TVB Xing He
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699868
+
+#EXTINF:-1 tvg-id="MY: TVBS Asia" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TVBS Asia
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699864
+
+#EXTINF:-1 tvg-id="MY: tvN" tvg-logo="noimage.png" group-title="MALAYSIA", MY: tvN
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699869
+
+#EXTINF:-1 tvg-id="MY: tvN Movies" tvg-logo="noimage.png" group-title="MALAYSIA", MY: tvN Movies
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699870
+
+#EXTINF:-1 tvg-id="MY: TVS" tvg-logo="noimage.png" group-title="MALAYSIA", MY: TVS
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699871
+
+#EXTINF:-1 tvg-id="MY: V FM" tvg-logo="noimage.png" group-title="MALAYSIA", MY: V FM
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699910
+
+#EXTINF:-1 tvg-id="MY: VAANAVIL" tvg-logo="noimage.png" group-title="MALAYSIA", MY: VAANAVIL
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699908
+
+#EXTINF:-1 tvg-id="MY: Vellithirai" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Vellithirai
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699909
+
+#EXTINF:-1 tvg-id="MY: VINMEEN" tvg-logo="noimage.png" group-title="MALAYSIA", MY: VINMEEN
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699911
+
+#EXTINF:-1 tvg-id="MY: WAI FM" tvg-logo="noimage.png" group-title="MALAYSIA", MY: WAI FM
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699912
+
+#EXTINF:-1 tvg-id="MY: Warner Bros" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Warner Bros
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699913
+
+#EXTINF:-1 tvg-id="MY: Warner TV" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Warner TV
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699873
+
+#EXTINF:-1 tvg-id="MY: WSport (D)" tvg-logo="noimage.png" group-title="MALAYSIA", MY: WSport (D)
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699792
+
+#EXTINF:-1 tvg-id="MY: ZAYAN" tvg-logo="noimage.png" group-title="MALAYSIA", MY: ZAYAN
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699794
+
+#EXTINF:-1 tvg-id="MY: Zee Cinema" tvg-logo="noimage.png" group-title="MALAYSIA", MY: Zee Cinema
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699793
+
+#EXTINF:-1 tvg-id="MY: ZEE Tamil" tvg-logo="noimage.png" group-title="MALAYSIA", MY: ZEE Tamil
+http://jmrk.xyz:5050/andrea.morgan62@yahoo.com/HCp6pwX6tG/699875
+
