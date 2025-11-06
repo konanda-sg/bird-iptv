@@ -76,7 +76,7 @@ Stream URL = http://your-stream-url-here
 │   └── logs/                   # System logs
 ├── 📁 templates/           # 📋 Channel entry templates
 ├── 📁 backups/             # 💾 Automatic backups
-└── 📁 .forgejo/workflows/  # 🤖 Automation workflows
+└── 📁 .github/workflows/  # 🤖 Automation workflows
 ```
 
 ## 🧠 How It Works (The Smart Stuff)
