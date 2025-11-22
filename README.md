@@ -1,6 +1,6 @@
 # bird-iptv
 
-Build Status](https://img.shields.io/badge/build-passing-brightgreen)](../../actions)
+[Build Status](https://img.shields.io/badge/build-passing-brightgreen)](../../actions)
 [![Playlist Status](https://img.shields.io/badge/playlist-active-blue)](#)
 [![Last Updated](https://img.shields.io/badge/updated-auto-green)](#)
 [![Countries](https://img.shields.io/badge/countries-auto--detected-orange)](#)
