@@ -5,7 +5,7 @@ http://fl1.moveonjoy.com/ANE/index.m3u8
 #EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="TV", ABC
 https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png" group-title="TV", ABC Australia
+#EXTINF:-1 tvg-id="ABC.Australia.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png" group-title="TV", ABC Australia
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1163643&extension=ts&play_token=RrEwr4L2Ep
 
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV", ACC Network
