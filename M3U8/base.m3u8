@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/birdtwelve/bird-iptv/refs/heads/main/EPG/TV.xml"
 
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-chno="" tvg-name="9 Story Presents: Garfield and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87269d0e-0209-4bae-b5bc-aa42e2ba7aa5/Garfield_Friends_LogoColorRDX.png" group-title="Uncategorized",9 Story Presents: Garfield and Friends
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts
+
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV", A&E TV
 http://fl1.moveonjoy.com/ANE/index.m3u8
 
