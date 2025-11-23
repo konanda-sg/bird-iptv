@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/birdtwelve/bird-iptv/refs/heads/main/EPG/TV.xml"
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-chno="" tvg-name="9 Story Presents: Garfield and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87269d0e-0209-4bae-b5bc-aa42e2ba7aa5/Garfield_Friends_LogoColorRDX.png" group-title="Uncategorized",9 Story Presents: Garfield and Friends
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-chno="" tvg-name="9 Story Presents: Garfield and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87269d0e-0209-4bae-b5bc-aa42e2ba7aa5/Garfield_Friends_LogoColorRDX.png" group-title="TV",9 Story Presents: Garfield and Friends
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts
 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV", A&E TV
@@ -10,7 +10,7 @@ http://fl1.moveonjoy.com/ANE/index.m3u8
 https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.Australia.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png" group-title="TV", ABC Australia
-http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1163643&extension=ts&play_token=RrEwr4L2Ep
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1163643&extension=ts&
 
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV", ACC Network
 http://nocable.cc:8080/91161088/91161088/9273
@@ -264,6 +264,12 @@ https://a1xs.vip/700003
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://i.ibb.co/RpxSzY1R/Fox-Footy504.png" group-title="TV", Fox Sports 504 FHD
 https://a1xs.vip/700004
 
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" group-title="TV",France 2 HD
+http://176.65.146.240:7001/play/a07x/index.m3u8
+
+#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" group-title="TV",France 3
+http://176.65.146.240:7001/play/a080/index.m3u8
+
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="TV", Freeform TV
 http://nocable.cc:8080/91161088/91161088/13370
 
@@ -512,6 +518,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="TV", Tennis Channel
 https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="TV",TF1 HD
+http://176.65.146.240:7001/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="TV", The Weather Channel
 http://nocable.cc:8080/91161088/91161088/18926
