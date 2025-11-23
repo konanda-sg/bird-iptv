@@ -87,6 +87,12 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CSPAN.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="TV", C-SPAN
 http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 
+#EXTINF:-1 tvg-id="CANAL+.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-fr.png" group-title="TV",Canal+ HD
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507468&extension=ts&play_token=F3yaOUiTDd
+
+#EXTINF:-1 tvg-id="CANAL+CINEMA.S.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-cinemas-fr.png" group-title="TV",Canal+ Cinéma(s) HD
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507441&extension=ts&play_token=SMK4lUsIVC
+
 #EXTINF:-1 tvg-id="Cartoonito.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="TV", Cartoonito
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=164013&extension=ts
 
@@ -363,6 +369,9 @@ http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="TV", Lifetime Movie Network
 https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="TV",M6 HD
+http://176.65.146.240:7001/play/a081/index.m3u8
+
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="TV", Marquee Sports Network
 http://nocable.cc:8080/91161088/91161088/13379
 
@@ -384,7 +393,7 @@ https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="TV", MTV
 http://fl1.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-logo="https://i.ibb.co/qPqZ0KJ/MTV.png" group-title="TV", MTV FHD
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-logo="https://i.ibb.co/qPqZ0KJ/MTV.png" group-title="TV", MTV UK FHD
 https://a1xs.vip/1000037
 
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="TV", National Geographic
