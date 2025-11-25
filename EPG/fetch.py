@@ -10,6 +10,7 @@ import httpx
 epg_file = Path(__file__).parent / "TV.xml"
 
 epg_urls = [
+    "https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
