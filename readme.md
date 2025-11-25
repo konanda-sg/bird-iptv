@@ -1,6 +1,6 @@
-## Base Log @ 2025-11-25 03:36 UTC
+## Base Log @ 2025-11-25 08:51 UTC
 
-### ✅ Working Streams: 187<br>❌ Dead Streams: 13
+### ✅ Working Streams: 180<br>❌ Dead Streams: 20
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
