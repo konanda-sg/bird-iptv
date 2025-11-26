@@ -1,10 +1,9 @@
-## Base Log @ 2025-11-26 14:46 UTC
+## Base Log @ 2025-11-26 20:40 UTC
 
-### ✅ Working Streams: 183<br>❌ Dead Streams: 17
+### ✅ Working Streams: 179<br>❌ Dead Streams: 21
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| 9 Story Presents: Garfield and Friends | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 ---
 #### Base Channels URL
 ```
