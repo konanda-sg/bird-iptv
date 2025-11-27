@@ -5,12 +5,11 @@ from pathlib import Path
 
 from scrapers import (
     fawa,
-    hdstrmx,
-    lotus,
     pixel,
     ppv,
     roxie,
     shark,
+    sport9,
     streambtw,
     streameast,
     streamfree,
@@ -46,12 +45,11 @@ async def main() -> None:
 
     tasks = [
         asyncio.create_task(fawa.scrape(network.client)),
-        asyncio.create_task(hdstrmx.scrape(network.client)),
-        asyncio.create_task(lotus.scrape(network.client)),
         asyncio.create_task(pixel.scrape()),
         asyncio.create_task(ppv.scrape(network.client)),
         asyncio.create_task(roxie.scrape(network.client)),
         asyncio.create_task(shark.scrape(network.client)),
+        asyncio.create_task(sport9.scrape(network.client)),
         asyncio.create_task(streambtw.scrape(network.client)),
         asyncio.create_task(streameast.scrape(network.client)),
         asyncio.create_task(streamfree.scrape(network.client)),
@@ -64,12 +62,11 @@ async def main() -> None:
 
     additions = (
         fawa.urls
-        | hdstrmx.urls
-        | lotus.urls
         | pixel.urls
         | ppv.urls
         | roxie.urls
         | shark.urls
+        | sport9.urls
         | streambtw.urls
         | streameast.urls
         | strmd.urls
@@ -115,7 +112,7 @@ async def main() -> None:
     log.info(f"Base + Events saved to {COMBINED_FILE.resolve()}")
 
     EVENTS_FILE.write_text(
-        '#EXTM3U url-tvg="https://raw.githubusercontent.com/birdtwelve/bird-iptv/refs/heads/main/EPG/TV.xml"\n'
+        '#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml"\n'
         + "\n".join(live_events),
         encoding="utf-8",
     )
@@ -130,3 +127,4 @@ if __name__ == "__main__":
         asyncio.run(network.client.aclose())
     except Exception:
         pass
+
