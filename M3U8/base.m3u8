@@ -162,6 +162,12 @@ http://nocable.cc:8080/91161088/91161088/11868
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="TV", Crime & Investigation Network
 https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="CTV.Comedy.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png",CTV Comedy
+http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="ctv.drama.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-drama-channel-ca.png",CTV Drama
+http://38.143.48.212:9981/stream/channelid/133843306?profile=pass
+
 #EXTINF:-1 tvg-id="WKCF-DT.us_locals1" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="TV", CW
 http://nocable.cc:8080/91161088/91161088/120893
 
