@@ -564,6 +564,9 @@ https://a1xs.vip/2000024
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="TV", TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
 
+#EXTINF:-1 group-title="TV" tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png",Treehouse
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107536.ts
+
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="TV", truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
