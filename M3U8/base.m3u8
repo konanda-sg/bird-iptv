@@ -97,10 +97,25 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL+.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-fr.png" group-title="TV",Canal+ HD
-http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507468&extension=ts&play_token=F3yaOUiTDd
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507468&extension=ts
 
 #EXTINF:-1 tvg-id="CANAL+CINEMA.S.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-cinemas-fr.png" group-title="TV",Canal+ Cinéma(s) HD
-http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507441&extension=ts&play_token=SMK4lUsIVC
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507441&extension=ts
+
+#EXTINF:-1 tvg-id="CANAL+DOCS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-docs-fr.png" group-title="Canal+",Canal+ Docs HD
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=719108&extension=ts
+
+#EXTINF:-1 tvg-id="CANAL+FOOT.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-foot-fr.png" group-title="Canal+",Canal+ Foot HD
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=1002837&extension=ts
+
+#EXTINF:-1 tvg-id="CANAL+GRAND.ECRAN.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-grand-ecran-fr.png" group-title="Canal+",Canal+ Grand Écran HD
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=863794&extension=ts
+
+#EXTINF:-1 tvg-id="CANAL+KIDS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-kids-fr.png" group-title="Canal+",Canal+ Kids HD
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507439&extension=ts&play_token=R8ehVgigec
+
+#EXTINF:-1 tvg-id="CANAL+SPORT.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+",Canal+ Sport HD
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=506557&extension=ts&
 
 #EXTINF:-1 tvg-id="Cartoonito.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="TV", Cartoonito
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=164013&extension=ts
