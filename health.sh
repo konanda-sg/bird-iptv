@@ -125,7 +125,7 @@ write_readme() {
         echo "---"
         echo "#### Mirrors"
         echo -n "[GitHub](https://github.com/birdtwelve/bird-iptv) | "
-        echo -e "[GitLab](https://gitlab.com/doms9/iptv) | "
+        echo -e "[GitLab](https://gitlab.com/dapotinuoye/bird-iptv) "
         echo "---"
         echo "#### Legal Disclaimer"
         echo "This repository lists publicly accessible IPTV streams as found on the internet at the time of checking."
