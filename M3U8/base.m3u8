@@ -405,6 +405,9 @@ http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="TV", Lifetime Movie Network
 https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="692114" tvg-logo="https://canvas-lb.tubitv.com/opts/x_rvSRytPq3i6A==/559dcbc7-ce1e-4b6e-8f21-ef614bf9efca/CHgQeDoFMS4xLjhAAQ==" group-title="TV",LOL! Network
+https://live-manifest.production-public.tubi.io/live/79965fb8-680b-4e32-aa2a-4e93851cb4e2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="TV",M6 HD
 http://176.65.146.240:7001/play/a081/index.m3u8
 
@@ -500,6 +503,9 @@ https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6876f76054325376973fd314" tvg-id="5e20b730f2f8d5003d739db7-6876f76054325376973fd314" tvg-chno="" tvg-name="Pink Panther" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c31975b-e818-4f3b-bbe2-7e433a07d5f0/PinkPanther_logo_dark_-_Carl_HoffeldercolorwhittexteREX.png" group-title="TV",Pink Panther
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts
+
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-chno="" tvg-name="pocket.watch Game-On" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png" group-title="TV",pocket.watch Game-On
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8
 
 #EXTINF:-1 tvg-id="POP.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="TV", Pop TV
 https://fl1.moveonjoy.com/Pop_TV/index.m3u8
