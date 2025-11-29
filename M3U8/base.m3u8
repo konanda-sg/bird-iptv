@@ -112,10 +112,10 @@ http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=1002837&extension=t
 http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=863794&extension=ts
 
 #EXTINF:-1 tvg-id="CANAL+KIDS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-kids-fr.png" group-title="TV",Canal+ Kids HD
-http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507439&extension=ts&play_token=R8ehVgigec
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507439&extension=ts
 
 #EXTINF:-1 tvg-id="CANAL+SPORT.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" group-title="TV",Canal+ Sport HD
-http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=506557&extension=ts&
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=506557&extension=ts
 
 #EXTINF:-1 tvg-id="Cartoonito.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="TV", Cartoonito
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=164013&extension=ts
@@ -530,6 +530,15 @@ http://185.99.136.50:9981/stream/channelid/190697840?profile=pass
 
 #EXTINF:-1 tvg-id="RTEjr.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/RT%C3%89jr_logo.png" group-title="TV",RTÈjr
 http://78.16.222.22:9981/stream/channelid/548764789?ticket=9EAB471C4451E454C69F9CB667BC9A9AC5014901&profile=pass
+
+#EXTINF:-1 tvg-id="SABC.1.HD.za" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-1-za.png",SABC 1
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=131098&extension=ts
+
+#EXTINF:-1 tvg-id="SABC.2.HD.za" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-2-za.png",SABC 2
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=131099&extension=ts
+
+#EXTINF:-1 tvg-id="SABC.3.HD.za" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-3-za.png",SABC 3
+http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=131100&extension=ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="TV", SEC Network
 http://nocable.cc:8080/91161088/91161088/17608
