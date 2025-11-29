@@ -1,10 +1,12 @@
-## Base Log @ 2025-11-29 03:33 UTC
+## Base Log @ 2025-11-29 08:47 UTC
 
-### ✅ Working Streams: 191<br>❌ Dead Streams: 30
+### ✅ Working Streams: 196<br>❌ Dead Streams: 30
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
+| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
 ---
 #### Base Channels URL
 ```
@@ -28,7 +30,7 @@ https://s.id/d9EPG
 
 ---
 #### Mirrors
-[GitHub](https://github.com/birdtwelve/bird-iptv) | [GitLab](https://gitlab.com/doms9/iptv) | 
+[GitHub](https://github.com/birdtwelve/bird-iptv) | [GitLab](https://gitlab.com/dapotinuoye/bird-iptv) 
 ---
 #### Legal Disclaimer
 This repository lists publicly accessible IPTV streams as found on the internet at the time of checking.
