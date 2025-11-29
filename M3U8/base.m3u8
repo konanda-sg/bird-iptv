@@ -687,11 +687,29 @@ https://fl1.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="TV2.Comedy.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" group-title="TV",TV2 Comedy
 http://46.149.191.217:9007/play/a00x
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-jade-hk.png" group-title="TV", TVB Jade
+http://60.246.171.122:8889/bysid/1
+
+#EXTINF:-1 tvg-id="TVB.News.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-news-channel-hk.png" group-title="TV", TVB News Channel
+http://60.246.171.122:8892/bysid/83
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-pearl-hk.png" group-title="TV", TVB Pearl
+http://60.246.171.122:8892/bysid/2
+
+#EXTINF:-1 tvg-id="TVB.Plus.hk" tvg-logo="noimage.png" group-title="TV", TVB Plus
+http://60.246.171.122:8892/bysid/82
+
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV", USA East
 http://nocable.cc:8080/91161088/91161088/10252
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="TV", Vice TV
 http://nocable.cc:8080/91161088/91161088/46697
+
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/viu-tv-hk.png" group-title="TV", ViuTV
+http://60.246.171.122:8889/bysid/99
+
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/viu-tv-six-hk.png" group-title="TV", ViuTVsix
+http://60.246.171.122:8889/bysid/96
 
 #EXTINF:-1 tvg-id="Whakaata.MÄori.nz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/maori-television-nz.png" group-title="TV", Whakaata Māori
 https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/index_4.m3u8
