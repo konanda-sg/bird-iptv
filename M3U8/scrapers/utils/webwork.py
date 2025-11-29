@@ -174,7 +174,9 @@ class Network:
     ) -> tuple[Browser, BrowserContext]:
 
         if browser == "brave":
-            brwsr = await playwright.chromium.connect_over_cdp("http://localhost:9222")
+            brwsr = await playwright.chromium.launch("http://localhost:9222")
+            headless=True
+            args=["--no-sandbox"]
             context = brwsr.contexts[0]
         else:
             brwsr = await playwright.firefox.launch(headless=True)
