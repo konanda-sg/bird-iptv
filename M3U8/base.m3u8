@@ -57,6 +57,27 @@ http://nocable.cc:8080/91161088/91161088/9273
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="TV", Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 
+#EXTINF:-1 tvg-id="AFN.family/AFN.pulse.us2" group-title="TV" tvg-logo="",AFN Family/AFN Pulse
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118462.ts
+
+#EXTINF:-1 tvg-id="AFN.news.us2" group-title="TV" tvg-logo="",AFN News
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118464.ts
+
+#EXTINF:-1 tvg-id="AFN.prime.Atlantic.us2" group-title="TV" tvg-logo="",AFN Prime Atlantic
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118465.ts
+
+#EXTINF:-1 tvg-id="AFN.prime.Pacific.us2" group-title="TV" tvg-logo="",AFN Prime Pacific
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118466.ts
+
+#EXTINF:-1 tvg-id="AFN.spectrum.us2" group-title="TV" tvg-logo="",AFN Spectrum
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118467.ts
+
+#EXTINF:-1 tvg-id="AFN.sports.us2" group-title="TV" tvg-logo="",AFN Sports
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118468.ts
+
+#EXTINF:-1 tvg-id="AFN.sports2.us2" group-title="TV" tvg-logo="",AFN Sports 2
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118469.ts
+
 #EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="TV", Altitude Sports
 http://nocable.cc:8080/91161088/91161088/79545
 
