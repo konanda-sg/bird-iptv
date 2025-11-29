@@ -687,6 +687,18 @@ https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="TV",TF1 HD
 http://176.65.146.240:7001/play/a086/index.m3u8
 
+#EXTINF:-1 tvg-id="Thats.TV.uk" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png",That's TV 
+http://86.180.115.121:1990/stream/channelid/1980028771?profile=pass
+
+#EXTINF:-1 tvg-id="Thats.TV.2.uk" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/That%27s_TV_2.svg/revision/latest?cb=20240103151500",That's TV 2
+http://86.180.115.121:1990/stream/channelid/556880536?profile=pass
+
+#EXTINF:-1 tvg-id="Thats.Dance.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/That%27s_Oldies.png/revision/latest?cb=20250207172934" group-title="TV",That's Oldies
+http://193.237.220.135:55555/That's%20Dance
+
+#EXTINF:-1 tvg-id="Thats.Melody.uk" tvg-logo="https://i.ibb.co/pBR8mCHv/That-s-Melody.png" group-title="TV",That's Melody
+http://193.237.220.135:55555/That's%20Melody
+
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="TV", The Weather Channel
 http://nocable.cc:8080/91161088/91161088/18926
 
