@@ -1,5 +1,35 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/birdtwelve/bird-iptv/refs/heads/main/EPG/TV.xml"
 
+#EXTINF:-1 tvg-id="7Sydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741",7 Network
+http://115.69.40.212:55555/7HD%20Newcastle
+
+#EXTINF:-1 tvg-id="7TWOSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516",7two
+http://44.32.200.212:5004/auto/v72
+
+#EXTINF:-1 tvg-id="7mateSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/7mate_2020.svg/revision/latest?cb=20200710160634",7mate
+http://115.69.40.212:55555/7mateHD%20Newcastle
+
+#EXTINF:-1 tvg-id="7flixSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/7flix_2020.svg/revision/latest?cb=20200728124851",7flix
+http://115.69.40.212:55555/7flix
+
+#EXTINF:-1 tvg-id="7BravoSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest?cb=20240508040002",7bravo
+http://115.69.40.212:55555/7bravo
+
+#EXTINF:-1 tvg-id="9Sydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Nine_2023.svg/revision/latest?cb=20240111174930",9 Network
+http://115.69.40.212:55555/9HD%20Newcastle
+
+#EXTINF:-1 tvg-id="9GoSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/9Go%21_2017-.png/revision/latest?cb=20240610101234",9Go!
+http://115.69.40.212:55555/9Go!%20Newcastle
+
+#EXTINF:-1 tvg-id="9GemSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/9Gem_2017.svg/revision/latest?cb=20191126203640",9Gem
+http://115.69.40.212:55555/9GemHD%20Newcastle
+
+#EXTINF:-1 tvg-id="9LifeSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/9Life_2015-flat.svg/revision/latest?cb=20191126203559",9Life
+http://115.69.40.212:55555/9Life%20Newcastle
+
+#EXTINF:-1 tvg-id="9RushSydney.au" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/9-rush-au.png",9Rush
+http://44.32.200.212:5004/auto/v96
+
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-chno="" tvg-name="9 Story Presents: Garfield and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87269d0e-0209-4bae-b5bc-aa42e2ba7aa5/Garfield_Friends_LogoColorRDX.png" group-title="TV",9 Story Presents: Garfield and Friends
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts
 
