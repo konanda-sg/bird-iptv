@@ -45,34 +45,19 @@ async def main() -> None:
 
     tasks = [
         asyncio.create_task(fawa.scrape(network.client)),
-        asyncio.create_task(pixel.scrape()),
         asyncio.create_task(ppv.scrape(network.client)),
-        asyncio.create_task(roxie.scrape(network.client)),
-        asyncio.create_task(shark.scrape(network.client)),
-        asyncio.create_task(sport9.scrape(network.client)),
-        asyncio.create_task(streambtw.scrape(network.client)),
-        asyncio.create_task(streameast.scrape(network.client)),
-        asyncio.create_task(streamfree.scrape(network.client)),
-        asyncio.create_task(strmd.scrape(network.client)),
+        asyncio.create_task(roxie.scrape(network.client)), 
         asyncio.create_task(tvpass.scrape(network.client)),
-        asyncio.create_task(watchfooty.scrape(network.client)),
     ]
 
     await asyncio.gather(*tasks)
 
     additions = (
         fawa.urls
-        | pixel.urls
         | ppv.urls
         | roxie.urls
         | shark.urls
-        | sport9.urls
-        | streambtw.urls
-        | streameast.urls
-        | strmd.urls
-        | streamfree.urls
         | tvpass.urls
-        | watchfooty.urls
     )
 
     live_events: list[str] = []
