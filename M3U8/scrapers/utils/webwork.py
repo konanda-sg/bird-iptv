@@ -175,12 +175,9 @@ class Network:
 
         if browser == "brave":
             async with async_playwright() as playwright:
-
-    # connect to existing Brave/Chrome via CDP
-    brwsr = await playwright.chromium.connect_over_cdp("http://localhost:9222")
-
-    context = await brwsr.new_context()
-    page = await context.new_page()
+             brwsr = await playwright.chromium.connect_over_cdp("http://localhost:9222")
+             context = await brwsr.new_context()
+             page = await context.new_page()
         else:
             brwsr = await playwright.firefox.launch(headless=True)
 
