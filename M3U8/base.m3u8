@@ -522,10 +522,10 @@ http://nocable.cc:8080/91161088/91161088/10526
 #EXTINF:-1 tvg-id="ROOT.Sports.Northwest.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11062_dark_360w_270h.png" group-title="TV", Root Sports
 http://nocable.cc:8080/91161088/91161088/85232
 
-#EXTINF:-1 tvg-id="RTE.One.HD.ie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="TV",RTÉ One
+#EXTINF:-1 tvg-id="RTE.One.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rte-one-uk.png" group-title="TV",RTÉ One
 http://84.203.21.1:9981/stream/channelid/130762250?profile=pass
 
-#EXTINF:-1 tvg-id="RTE.Two.HD.ie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="TV",RTÉ2
+#EXTINF:-1 tvg-id="RTE.Two.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rte-2-uk.png" group-title="TV",RTÉ2
 http://185.99.136.50:9981/stream/channelid/190697840?profile=pass
 
 #EXTINF:-1 tvg-id="RTEjr.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/RT%C3%89jr_logo.png" group-title="TV",RTÈjr
