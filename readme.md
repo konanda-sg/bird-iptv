@@ -1,11 +1,10 @@
-## Base Log @ 2025-11-30 03:47 UTC
+## Base Log @ 2025-11-30 08:46 UTC
 
-### ✅ Working Streams: 221<br>❌ Dead Streams: 34
+### ✅ Working Streams: 218<br>❌ Dead Streams: 37
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
