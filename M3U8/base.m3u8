@@ -528,6 +528,9 @@ http://nocable.cc:8080/91161088/91161088/36
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://i.ibb.co/q3qWFwNG/Nicktoons.png" group-title="TV", Nicktoon UK
 https://a1xs.vip/100054
 
+#EXTINF:-1 tvg-id="OSN.TV.Kids.sa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/osn-tv-kids-ae.png" group-title="TV", OSN TV Kids
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=4759&extension=ts
+
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="TV", Outdoor Channel
 http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
