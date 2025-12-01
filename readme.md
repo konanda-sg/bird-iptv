@@ -1,13 +1,13 @@
-## Base Log @ 2025-12-01 08:55 UTC
+## Base Log @ 2025-12-01 14:50 UTC
 
-### ✅ Working Streams: 210<br>❌ Dead Streams: 48
+### ✅ Working Streams: 220<br>❌ Dead Streams: 38
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000005` |
-| Sky Sports Main Event FHD | HTTP Error (404) | `https://a1xs.vip/2000001` |
+| LOL! Network | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310.m3u8` |
 | Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
+| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
