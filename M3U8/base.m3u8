@@ -573,7 +573,7 @@ http://84.203.21.1:9981/stream/channelid/130762250?profile=pass
 #EXTINF:-1 tvg-id="RTE.Two.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rte-2-uk.png" group-title="TV",RTÉ2
 http://185.99.136.50:9981/stream/channelid/190697840?profile=pass
 
-#EXTINF:-1 tvg-id="RTEjr.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/RT%C3%89jr_logo.png" group-title="TV",RTÈjr
+#EXTINF:-1 tvg-id="RTEjr.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/RTÉ_KIDSjr.svg/960px-RTÉ_KIDSjr.svg.png" group-title="TV",RTÈ KIDSjr
 http://78.16.222.22:9981/stream/channelid/548764789?ticket=9EAB471C4451E454C69F9CB667BC9A9AC5014901&profile=pass
 
 #EXTINF:-1 tvg-id="SABC.1.HD.za" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-1-za.png",SABC 1
