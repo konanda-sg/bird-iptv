@@ -741,13 +741,13 @@ https://fl1.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="TV2.Comedy.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" group-title="TV",TV2 Comedy
 http://46.149.191.217:9007/play/a00x
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-jade-hk.png" group-title="TV", TVB Jade
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-jade-hk.png" group-title="TV", TVB Jade
 http://60.246.171.122:8889/bysid/1
 
 #EXTINF:-1 tvg-id="TVB.News.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-news-channel-hk.png" group-title="TV", TVB News Channel
 http://60.246.171.122:8892/bysid/83
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-pearl-hk.png" group-title="TV", TVB Pearl
+#EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-pearl-hk.png" group-title="TV", TVB Pearl
 http://60.246.171.122:8892/bysid/2
 
 #EXTINF:-1 tvg-id="TVB.Plus.hk" tvg-logo="noimage.png" group-title="TV", TVB Plus
