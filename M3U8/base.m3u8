@@ -432,6 +432,9 @@ https://a1xs.vip/1000014
 #EXTINF:-1 tvg-id="JimJam.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/jimjam-int.png" group-title="TV",JimJam 
 http://185.236.230.212:9981/play/a0c6
 
+#EXTINF:-1 tvg-id="KTV2.HD.sa" tvg-logo="noimage.png" group-title="TV", KTV2 
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1349&extension=ts
+
 #EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png" group-title="TV", La 1
 http://176.65.146.237:8401/play/a095/index.m3u8
 
