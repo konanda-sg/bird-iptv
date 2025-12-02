@@ -448,7 +448,7 @@ http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310" tvg-id="5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310" tvg-chno="" tvg-name="LOL! Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ccac86b4-f8b8-445a-89ce-1b79927b857c/1500_x_1000_Color_Logo_PLEX.png" group-title="TV",LOL! Network
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310.m3u8
+https://jmp2.uk/stvp-USBC1300009VM
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="TV",M6 HD
 http://176.65.146.240:7001/play/a081/index.m3u8
