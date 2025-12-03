@@ -381,9 +381,6 @@ https://fl1.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloob-br.png" group-title="TV",Gloob
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7155
 
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloobhino-br.png" group-title="TV",Gloobinho
-http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/22196
-
 #EXTINF:-1 tvg-id="Grit.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="TV", Grit TV
 http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 
