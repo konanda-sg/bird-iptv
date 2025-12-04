@@ -534,6 +534,15 @@ http://nocable.cc:8080/91161088/91161088/36
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://i.ibb.co/q3qWFwNG/Nicktoons.png" group-title="TV", Nicktoon UK
 https://a1xs.vip/100054
 
+#EXTINF:-1 tvg-id="NPO.1.nl" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-nl.png",NPO 1
+http://86.85.245.213:9981/stream/channelid/228930093?profile=pass
+
+#EXTINF:-1 tvg-id="NPO.2.nl" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-nl.png",NPO 2
+http://86.85.245.213:9981/stream/channelid/1091595793?profile=pass
+
+#EXTINF:-1 tvg-id="NPO.3.nl" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo3-nl.png",NPO 3
+http://86.85.245.213:9981/stream/channelid/1341758705?profile=pass
+
 #EXTINF:-1 tvg-id="OSN.TV.Kids.sa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/osn-tv-kids-ae.png" group-title="TV", OSN TV Kids
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=4759&extension=ts
 
