@@ -540,6 +540,9 @@ http://nocable.cc:8080/91161088/91161088/36
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://i.ibb.co/q3qWFwNG/Nicktoons.png" group-title="TV", Nicktoon UK
 https://a1xs.vip/100054
 
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://images.bfmtv.com/Q_UDNO97UTAUkivr_A7fbW7_tWw=/0x157:720x562/720x0/images/Le-logo-de-la-chaine-de-Ouest-France-NOVO19-2066003.jpg" group-title="TV",NOVO19 
+http://62.129.183.89:9981/stream/channelid/135417969?ticket=1F39720368FA2728A7F6DE1FA7D4F104D7690AD6&profile=pass
+
 #EXTINF:-1 tvg-id="NPO.1.nl" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-nl.png",NPO 1
 http://86.85.245.213:9981/stream/channelid/228930093?profile=pass
 
@@ -689,6 +692,9 @@ http://nocable.cc:8080/91161088/91161088/9299
 
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="TV", Syfy
 http://nocable.cc:8080/91161088/91161088/46685
+
+#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" group-title="TV",T18
+http://62.129.183.89:9981/stream/channelid/1742100987?ticket=FCD9F00F9C06779195F0D53532D32064574743BD&profile=pass
 
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="TV", TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
