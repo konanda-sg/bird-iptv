@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/birdtwelve/bird-iptv/refs/heads/main/EPG/TV.xml"
 
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/6ter-fr.png" group-title="TV",6ter
+http://176.65.146.138:8047/play/a07m/index.m3u8
+
 #EXTINF:-1 tvg-id="7Sydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741",7 Network
 http://115.69.40.212:55555/7HD%20Newcastle
 
