@@ -390,6 +390,9 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7155
 #EXTINF:-1 tvg-id="Grit.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="TV", Grit TV
 http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/gulli-fr.png" group-title="TV",Gulli
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="TV", Hallmark Channel
 http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
