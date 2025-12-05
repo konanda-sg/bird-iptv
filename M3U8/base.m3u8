@@ -150,6 +150,9 @@ http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=507439&extension=ts
 #EXTINF:-1 tvg-id="CANAL+SPORT.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" group-title="TV",Canal+ Sport HD
 http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=506557&extension=ts
 
+#EXTINF:-1 tvg-id="Canal.J.fr tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-j-fr.png" group-title="TV",Canal J
+http://45.90.106.7:9790/play/BfQm2084L6@U4N
+
 #EXTINF:-1 tvg-id="Cartoonito.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="TV", Cartoonito
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=164013&extension=ts
 
