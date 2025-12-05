@@ -1,12 +1,12 @@
-## Base Log @ 2025-12-04 20:47 UTC
+## Base Log @ 2025-12-05 03:41 UTC
 
-### ✅ Working Streams: 206<br>❌ Dead Streams: 58
+### ✅ Working Streams: 211<br>❌ Dead Streams: 53
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
+| Pink Panther | Unknown status (302) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
+| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
 ---
 #### Base Channels URL
 ```
