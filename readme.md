@@ -1,12 +1,14 @@
-## Base Log @ 2025-12-05 03:41 UTC
+## Base Log @ 2025-12-05 08:51 UTC
 
-### ✅ Working Streams: 211<br>❌ Dead Streams: 53
+### ✅ Working Streams: 207<br>❌ Dead Streams: 57
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| Pink Panther | Unknown status (302) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
-| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
+| 9 Story Presents: Garfield and Friends | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
+| Pink Panther | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
+| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
+| pocket.watch Game-On | HTTP Error (500) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
