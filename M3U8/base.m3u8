@@ -354,6 +354,12 @@ http://176.65.146.240:7001/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" group-title="TV",France 3
 http://176.65.146.240:7001/play/a080/index.m3u8
 
+#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-4-fr.png" group-title="TV",France 4
+http://176.65.146.138:8047/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png" group-title="TV",France 5
+http://176.65.146.138:8047/play/a07l/index.m3u8
+
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="TV", Freeform TV
 http://nocable.cc:8080/91161088/91161088/13370
 
@@ -386,6 +392,9 @@ https://fl1.moveonjoy.com/GOLF/index.m3u8
 
 #EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloob-br.png" group-title="TV",Gloob
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7155
+
+#EXTINF:-1 tvg-id="Great.TV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png" group-title="TV",Great! TV
+http://86.180.115.121:1990/stream/channelid/707188153?profile=pass
 
 #EXTINF:-1 tvg-id="Grit.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="TV", Grit TV
 http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
