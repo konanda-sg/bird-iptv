@@ -454,7 +454,7 @@ https://a1xs.vip/1000014
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=506578&extension=ts
 
 #EXTINF:-1 tvg-id="JimJam.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/jimjam-int.png" group-title="TV",JimJam 
-http://185.236.230.212:9981/play/a0c6
+http://192.168.1.135:9000/czsk/14516.ts
 
 #EXTINF:-1 tvg-id="KTV2.HD.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/KTV2.webp/500px-KTV2.webp.png" group-title="TV", KTV2 
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1349&extension=ts
