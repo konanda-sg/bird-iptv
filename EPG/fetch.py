@@ -14,6 +14,7 @@ epg_urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz",
