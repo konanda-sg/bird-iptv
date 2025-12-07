@@ -378,6 +378,9 @@ http://nocable.cc:8080/91161088/91161088/46699
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="TV", FYI TV
 http://fl1.moveonjoy.com/FYI/index.m3u8
 
+#EXTINF:-1 tvg-id="Game.One.fr tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Game_One_2024.jpg" group-title="TV",Game One
+http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
+
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="TV", Game Show Network
 http://nocable.cc:8080/91161088/91161088/120633
 
@@ -476,6 +479,9 @@ https://jmp2.uk/stvp-USBC1300009VM
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="TV",M6 HD
 http://176.65.146.240:7001/play/a081/index.m3u8
+
+#EXTINF:-1 tvg-id="Mangas.fr tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="TV",Mangas
+http://45.90.106.7:9790/play/TbZ4097U5@F5L
 
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="TV", Marquee Sports Network
 http://nocable.cc:8080/91161088/91161088/13379
