@@ -28,6 +28,7 @@ epg_urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
