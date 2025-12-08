@@ -90,8 +90,8 @@ http://nocable.cc:8080/91161088/91161088/20194
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="TV", BBC One FHD
 https://a1xs.vip/1000001
 
-#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://i.ibb.co/n8t4rCh/BBC-Three.png" group-title="TV", BBC Three / CBBC FHD
-https://a1xs.vip/1000003
+#EXTINF:-1 tvg-id="BBC.Three./.CBBC.ch" tvg-logo="https://i.ibb.co/n8t4rCh/BBC-Three.png" group-title="TV", BBC Three / CBBC FHD
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="TV", BBC Two FHD
 https://a1xs.vip/1000002
