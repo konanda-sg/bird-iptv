@@ -114,6 +114,9 @@ http://213.97.163.175:4022/udp/239.10.20.50:1234
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="TV", Boomerang
 http://nocable.cc:8080/91161088/91161088/14741
 
+#EXTINF:-1 tvg-id="Boomerang.fr tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/boomerang-fr.png" group-title="TV",Boomerang FR
+http://45.90.106.7:9790/play/BzW5096K3@L7V
+
 #EXTINF:-1 tvg-id="Boomerang.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="TV", Boomerang UK
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=45295&extension=ts
 
