@@ -1,11 +1,10 @@
-## Base Log @ 2025-12-08 20:46 UTC
+## Base Log @ 2025-12-09 03:40 UTC
 
-### ✅ Working Streams: 142<br>❌ Dead Streams: 142
+### ✅ Working Streams: 157<br>❌ Dead Streams: 127
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
 ---
 #### Base Channels URL
 ```
