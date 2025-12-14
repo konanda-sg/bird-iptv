@@ -1,14 +1,12 @@
-## Base Log @ 2025-12-14 14:42 UTC
+## Base Log @ 2025-12-14 20:43 UTC
 
-### ✅ Working Streams: 153<br>❌ Dead Streams: 132
+### ✅ Working Streams: 148<br>❌ Dead Streams: 137
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
-| Sky Sports Main Event FHD | HTTP Error (403) | `https://a1xs.vip/2000001` |
-| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 | Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
+| Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
 ---
 #### Base Channels URL
 ```
