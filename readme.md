@@ -1,10 +1,13 @@
-## Base Log @ 2025-12-15 03:54 UTC
+## Base Log @ 2025-12-15 08:57 UTC
 
-### ✅ Working Streams: 161<br>❌ Dead Streams: 124
+### ✅ Working Streams: 156<br>❌ Dead Streams: 129
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| Sky Sports Main Event FHD | HTTP Error (403) | `https://a1xs.vip/2000001` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
+| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
+| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
