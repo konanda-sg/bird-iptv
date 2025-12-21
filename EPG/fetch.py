@@ -37,6 +37,7 @@ epg_urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
     "https://i.mjh.nz/Plex/all.xml.gz",
+    "https://i.mjh.nz/PlutoTV/gb.xml.gz",
     "https://i.mjh.nz/Roku/all.xml.gz",
     "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml",
 ]
