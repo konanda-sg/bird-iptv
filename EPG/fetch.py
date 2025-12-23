@@ -41,6 +41,7 @@ epg_urls = [
     "https://i.mjh.nz/PlutoTV/gb.xml.gz",
     "https://i.mjh.nz/Roku/all.xml.gz",
     "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml",
+    "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz",
 ]
 
 client = httpx.AsyncClient(
