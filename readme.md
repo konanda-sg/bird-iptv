@@ -1,15 +1,15 @@
-## Base Log @ 2025-12-24 03:47 UTC
+## Base Log @ 2025-12-24 08:54 UTC
 
-### ✅ Working Streams: 208<br>❌ Dead Streams: 135
+### ✅ Working Streams: 206<br>❌ Dead Streams: 137
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
-| Pluto TV History | HTTP Error (500) | `https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8` |
 | Sky Cinema Family FHD | HTTP Error (403) | `https://a1xs.vip/210007` |
+| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
+| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
+| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
