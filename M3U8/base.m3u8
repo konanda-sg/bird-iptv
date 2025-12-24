@@ -777,6 +777,24 @@ http://nocable.cc:8080/91161088/91161088/17608
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="TV", Showtime
 http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="SIC.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-pt.png",SIC
+http://94.61.151.242:9981/stream/channelid/937468567?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png",SIC K
+http://94.61.151.242:9981/stream/channelid/1241709159?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC.Radical.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-radical-pt.png",SIC Radical
+http://94.61.151.242:9981/stream/channelid/1379380866?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC.Caras.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-caras-pt.png",SIC Caras
+http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC.Mulher.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-mulher-pt.png",SIC Mulher
+http://94.61.151.242:9981/stream/channelid/16607114?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC.Noticais.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png",SIC Noticias
+http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
+
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/sky-atlantic.png" group-title="TV",Sky Atlantic FHD
 https://a1xs.vip/210001
 
