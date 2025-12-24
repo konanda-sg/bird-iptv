@@ -1051,98 +1051,140 @@ https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 http://kstv.us:8080/live/Purn3542/38791114838/40663.ts
 
 
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Algeria vs Sudan 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Algeria vs Sudan 1 (FAWA)
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[AFC Champions League II] Al Ahli Doha vs Andijan (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[AFC Champions League II] Al Ahli Doha vs Andijan (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/VKKK.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[AFC Champions League II] Al Nassr vs Al Zawraa (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[AFC Champions League II] Al Nassr vs Al Zawraa (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/VKKKQQQQQ.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[AFC Champions League II] Al Wasl vs Al Wehdat (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[AFC Champions League II] Al Wasl vs Al Wehdat (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/VKKKQQQQ.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[AFC Champions League II] Al-Muharraq vs Esteghlal FC (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[AFC Champions League II] Al-Muharraq vs Esteghlal FC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/VKKKQQQ.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[AFC Champions League II] Arkadag vs Al Khalidiyah (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[AFC Champions League II] Arkadag vs Al Khalidiyah (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/VKKKQQ.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[AFC Champions League II] Goa vs Istiqlol Dushanbe (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[AFC Champions League II] Goa vs Istiqlol Dushanbe (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/VKKKQ.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Algeria vs Sudan 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Algeria vs Sudan 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.106.115/hls/PPPP.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Algeria vs Sudan 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Algeria vs Sudan 2 (FAWA)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Algeria vs Sudan 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Algeria vs Sudan 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.ddogezdqds.shop/hls/PPPP.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Burkina Faso vs Equatorial Guinea 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Burkina Faso vs Equatorial Guinea 1 (FAWA)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Cameroon vs Gabon 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Cameroon vs Gabon 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.106.115/hls/PPPP.m3u8
+http://205.237.104.56/hls/geeeQQ.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Burkina Faso vs Equatorial Guinea 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Burkina Faso vs Equatorial Guinea 2 (FAWA)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Cameroon vs Gabon 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Cameroon vs Gabon 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.ddogezdqds.shop/hls/PPPP.m3u8
+https://a.bysaosap.shop/hls/geeeQQ.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Cricket T20] Dubai Capitals vs Sharjah Warriors (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket T20] Dubai Capitals vs Sharjah Warriors (FAWA)
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Ivory Coast vs Mozambique 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Ivory Coast vs Mozambique 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.104.56/hls/geeeQQ.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Ivory Coast vs Mozambique 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Ivory Coast vs Mozambique 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/geeeQQ.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="[Albania Abissnet Superiore] AF Elbasani vs KF Tirana (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Albania Abissnet Superiore] AF Elbasani vs KF Tirana (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/ZZZZ.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[Albania Abissnet Superiore] Vllaznia vs Flamurtari (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Albania Abissnet Superiore] Vllaznia vs Flamurtari (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/ZZZZQ.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Live.Event.us" tvg-name="[Cricket T20] Dubai Capitals vs Sharjah Warriors (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket T20] Dubai Capitals vs Sharjah Warriors (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.ddogezdqds.shop/hls/RRRRR.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Egypt Cup] Kahrabaa Ismailia vs Al Ittihad (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Egypt Cup] Kahrabaa Ismailia vs Al Ittihad (FAWA)
+#EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[Egypt Cup] Arab Contractors vs El Gaish (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Egypt Cup] Arab Contractors vs El Gaish (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://a.bysaosap.shop/hls/geeeQ.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[Egypt Cup] Kahrabaa Ismailia vs Al Ittihad (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Egypt Cup] Kahrabaa Ismailia vs Al Ittihad (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.ddogezdqds.shop/hls/RRRRRQ.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Egypt Cup] Pharco vs Enppi (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Egypt Cup] Pharco vs Enppi (FAWA)
+#EXTINF:-1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Egypt Cup] Pharco vs Enppi (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Egypt Cup] Pharco vs Enppi (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.ddogezdqds.shop/hls/RRRRRQQ.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTINF:-1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://d.dvvregrgr.shop/hls/JJJJQ.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTINF:-1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://d.dvvregrgr.shop/hls/JJJJ.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[Malaysia Super League] Kelantan The Real Warriors vs Negeri Sembilan (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Malaysia Super League] Kelantan The Real Warriors vs Negeri Sembilan (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.ddogezdqds.shop/hls/BEEEE.m3u8
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[Malaysia Super League] Kuala Lumpur City vs Kuching City FC (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Malaysia Super League] Kuala Lumpur City vs Kuching City FC (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.ddogezdqds.shop/hls/evvvvQQQQQ.m3u8
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Live.Event.us" tvg-name="[Malaysia Super League] Melaka FC vs Imigresen (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Malaysia Super League] Melaka FC vs Imigresen (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.ddogezdqds.shop/hls/BEEEEQ.m3u8
-
-#EXTINF:-1 tvg-chno="13" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] California Golden Bears @ Hawaii Rainbow Warriors (TVP)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAAF] California Golden Bears @ Hawaii Rainbow Warriors (TVP)
+#EXTINF:-1 tvg-chno="21" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] California Golden Bears @ Hawaii Rainbow Warriors (TVP)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAAF] California Golden Bears @ Hawaii Rainbow Warriors (TVP)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[Thailand Thai league 1] Pathum United vs Kanchanaburi (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Thailand Thai league 1] Pathum United vs Kanchanaburi (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.ddogezdqds.shop/hls/evvvvQQQ.m3u8
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Boluspor vs Fethiyespor (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Turkey Cup] Boluspor vs Fethiyespor (FAWA)
+#EXTINF:-1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Keciorengucu vs Beyoglu Yeni Carsi (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Turkey Cup] Keciorengucu vs Beyoglu Yeni Carsi (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.ddogezdqds.shop/hls/evvvv.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Keciorengucu vs Beyoglu Yeni Carsi (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Turkey Cup] Keciorengucu vs Beyoglu Yeni Carsi (FAWA)
+#EXTINF:-1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Samsunspor vs Eyupspor (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Turkey Cup] Samsunspor vs Eyupspor (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.ddogezdqds.shop/hls/evvvv.m3u8
+https://a.bysaosap.shop/hls/geee.m3u8
