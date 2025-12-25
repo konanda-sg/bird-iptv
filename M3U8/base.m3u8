@@ -522,6 +522,9 @@ http://nocable.cc:8080/91161088/91161088/15017
 #EXTINF:-1 tvg-id="HLN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="TV", HLN TV
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 channel-id="9c7a717f25a15b9997c6e3fd5f43a1a6" tvg-id="9c7a717f25a15b9997c6e3fd5f43a1a6" tvg-chno="" tvg-name="Homeful" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9c7a717f25a15b9997c6e3fd5f43a1a6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684959086175_Homeful_Roku_HUDLogo_Centred_260x147.png" group-title="TV",Homeful
+https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8
+
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="TV", Investigation Discovery
 https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
