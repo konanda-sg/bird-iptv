@@ -267,8 +267,14 @@ http://nocable.cc:8080/91161088/91161088/2206
 #EXTINF:-1 tvg-id="Disney.Channel.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/disney-channel-de.png" group-title="TV",Disney Channel DE
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="Disney.Channel.dk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/disney-channel-dk.png",Disney Channel Nordic
+http://185.233.253.71:9981/stream/channelid/57476629?ticket=49EC5B3EB9B3E059206A2189D2605A2A501DE3C1&profile=pass
+
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV", Disney XD
 http://nocable.cc:8080/91161088/91161088/75621
+
+#EXTINF:-1 group-title="TV" tvg-id="dk4.dk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dk4-dk.png",dk4
+http://185.233.253.71:9981/stream/channelid/1957480935?ticket=12EAEA967B466D55D5A9C1976A074350E5778DD7&profile=pass
 
 #EXTINF:-1 tvg-id="DR1.dk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/1200px-DR1_logo_2020.svg.png" group-title="TV",DR 1
 http://185.233.253.71:9981/stream/channelid/1999834189?ticket=1C67C731CBEF27AE64AC0517124F32C9D9C43384&profile=pass
@@ -974,6 +980,12 @@ http://fl1.moveonjoy.com/TSN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="TV", Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TV.2.dk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-2-dk.png",TV2 DK
+http://185.233.253.71:9981/stream/channelid/1749613619?ticket=40BFADF5E8CB95789B9CCD3A77283FD5B3348054&profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="TV3.dk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-dk.png",TV3 DK
+http://185.233.253.71:9981/stream/channelid/1242761804?ticket=5B8C6AE6630DB4AE3793BB7EFC0BAE457D030189&profile=pass
 
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="TV", TV Land
 https://fl1.moveonjoy.com/TV_LAND/index.m3u8
