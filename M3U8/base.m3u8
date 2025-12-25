@@ -543,6 +543,15 @@ https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://i.ibb.co/JW60xfTZ/more4.png" group-title="TV", More4 FHD
 https://a1xs.vip/1000034
 
+#EXTINF:-1 channel-id="6532e6a9bdf3cf000887ab29" tvg-id="6532e6a9bdf3cf000887ab29" tvg-chno="" tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="TV",More True Crime
+https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
+
+#EXTINF:-1 channel-id="613260e4bdb71c00070d63fa" tvg-id="613260e4bdb71c00070d63fa" tvg-chno="" tvg-name="More TV Drama" tvg-logo="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png" group-title="TV",More TV Drama
+https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
+
+#EXTINF:-1 channel-id="6132619f9ddaa50007e7dd86" tvg-id="6132619f9ddaa50007e7dd86" tvg-chno="" tvg-name="More TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="TV",More TV Sitcoms
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="TV", MotorTrend TV
 http://nocable.cc:8080/91161088/91161088/10399
 
