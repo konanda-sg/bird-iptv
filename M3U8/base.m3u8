@@ -174,6 +174,9 @@ https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af8
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="TV", Cartoon Network
 http://nocable.cc:8080/91161088/91161088/46708
 
+#EXTINF:-1 tvg-id="Cartoon.Network.fr tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cartoon-network-fr.png" group-title="TV",Cartoon Network FR
+http://45.90.106.7:9790/play/VrQl2079K0@Y5B
+
 #EXTINF:-1 tvg-id="Cartoon.Netwrk.uk" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/cartoon-network.png" group-title="TV", Cartoon Network UK FHD
 https://a1xs.vip/1000050
 
@@ -1148,6 +1151,9 @@ http://60.246.171.122:8889/bysid/99
 
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/viu-tv-six-hk.png" group-title="TV", ViuTVsix
 http://60.246.171.122:8889/bysid/96
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png" group-title="TV",W9
+http://176.65.146.138:8047/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="Whakaata.MÄori.nz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/maori-television-nz.png" group-title="TV", Whakaata Māori
 https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/index_4.m3u8
