@@ -699,6 +699,9 @@ https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="TV", Paramount Network
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="PBS.America.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png" group-title="TV",PBS America
+http://portal5458.com:8080/live/DBeverly/2290061890/47800.ts
+
 #EXTINF:-1 channel-id="856fca464da0544784204ba8f6161dac" tvg-id="856fca464da0544784204ba8f6161dac" tvg-chno="" tvg-name="PBS Antiques Roadshow" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/856fca464da0544784204ba8f6161dac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666902922745_260x147_CenterAligned.png" group-title="TV",PBS Antiques Roadshow
 https://jmp2.uk/rok-856fca464da0544784204ba8f6161dac.m3u8
 
@@ -882,6 +885,21 @@ https://a1xs.vip/210005
 #EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png" group-title="TV",Sky Comedy
 http://portal5458.com:8080/live/DBeverly/2290061890/47825.ts
 
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-crime-uk.png" group-title="TV",Sky Crime
+http://portal5458.com:8080/live/DBeverly/2290061890/47826.ts
+
+#EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-documentaries-uk.png" group-title="TV",Sky Documentaries
+http://portal5458.com:8080/live/DBeverly/2290061890/47827.ts
+
+#EXTINF:-1 tvg-id="Sky.Max.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-max-uk.png" group-title="TV",Sky Max
+http://portal5458.com:8080/live/DBeverly/2290061890/47829.ts
+
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-nature-uk.png" group-title="TV",Sky Nature
+http://portal5458.com:8080/live/DBeverly/2290061890/47830.ts
+
+#EXTINF:-1 tvg-id="Sky.Showcase.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-uk.png" group-title="TV",Sky Showcase
+http://portal5458.com:8080/live/DBeverly/2290061890/47832.ts
+
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="TV",Sky Sports Main Event UHD
 https://a1xs.vip/2000015
 
@@ -923,6 +941,30 @@ https://a1xs.vip/2000012
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis FHD" tvg-logo="https://i.ibb.co/kVtPg1F5/Sky-Sports-Tennis.png" group-title="TV",Sky Sports Tennis FHD
 https://a1xs.vip/2000013
+
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="TV",SKY Sport 1 NZ
+https://a1xs.vip/700031
+
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="TV",SKY Sport 2 NZ
+https://a1xs.vip/700032
+
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://i.ibb.co/Fq4FLn9m/SSNZ3.png" group-title="TV",SKY Sport 3 NZ
+https://a1xs.vip/700033
+
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.ibb.co/qY3cr3zG/SSNZ4.png" group-title="TV",SKY Sport 4 NZ
+https://a1xs.vip/700034
+
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://i.ibb.co/WNhhmNN3/SSNZ5.png" group-title="TV",SKY Sport 5 NZ
+https://a1xs.vip/700035
+
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.ibb.co/4Z68jKjy/SSNZ6.png" group-title="TV",SKY Sport 6 NZ
+https://a1xs.vip/700036
+
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="TV",SKY Sport 7 NZ
+https://a1xs.vip/700037
+
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="TV",Sky Sport 8 - Premier League NZ
+https://a1xs.vip/700008
 
 #EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="TV", Smithsonian Channel
 http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
