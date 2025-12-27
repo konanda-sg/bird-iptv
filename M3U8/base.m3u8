@@ -621,6 +621,12 @@ https://a1xs.vip/1000037
 #EXTINF:-1 tvg-id="MTV.Hits.fr tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-hits-uk.png" group-title="TV",MTV Hits 
 http://45.90.106.7:9790/play/QmU5097K3@B4X
 
+#EXTINF:-1 group-title="TV" tvg-id="MTV.80s.sk" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" ,Music Box Classic
+https://dash2.antik.sk/live/mb_classic/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="MTV.Hits.sk" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png", Music Box Hits
+https://dash2.antik.sk/live/mb_hits/index.m3u8
+
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="TV", National Geographic
 http://fl1.moveonjoy.com/National_Geographic/index.m3u8
 
