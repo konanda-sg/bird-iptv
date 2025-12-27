@@ -810,6 +810,18 @@ https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-chno="" tvg-name="pocket.watch Game-On" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png" group-title="TV",pocket.watch Game-On
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="Polsat.1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png",Polsat
+https://tvh.cyn.cz/stream/channelid/75536366?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="Polsat.2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-2-pl.png",Polsat 2
+https://tvh.cyn.cz/stream/channelid/1337325095?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="Polsat.News.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-news-pl.png",Polsat News
+https://tvh.cyn.cz/stream/channelid/867587422?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="Polsat.Games.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-games-pl.png",Polsat Games
+https://tvh.cyn.cz/stream/channelid/525809616?profile=pass
+
 #EXTINF:-1 tvg-id="POP.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="TV", Pop TV
 https://fl1.moveonjoy.com/Pop_TV/index.m3u8
 
