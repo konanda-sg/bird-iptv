@@ -589,7 +589,7 @@
             const createReportURL = (channel) => {
                 const repoUrl = "https://github.com/birdtwelve/bird-iptv/issues/new";
                 const title = `Broken Stream: ${channel.name}`;
-                const sourceFile = channel.stable ? 'playlist.m3u';
+                const sourceFile = channel.stable ? 'base.m3u8';
                 const body = `
 **Channel Name:** ${channel.name}
 **Stream URL:** \`${channel.url}\`
@@ -702,7 +702,7 @@
                 const fetchAndParseData = async () => {
                     try {
                         const [playlistRes] = await Promise.all([ 
-                            fetch('playlist.m3u'), 
+                            fetch('base.m3u8'), 
                         ]);
                         const [platlistText] = await Promise.all([ 
                             playlistRes.text()
@@ -781,12 +781,12 @@
                         <div className="project-info">
                             <h2>About Bird-IPTV</h2>
                             <p>
-                                Bird IPTV provides a curated collection of IPTV channels from around the world. The channels are organized by their countries and categories. fuck aria and telepez, also fuck ronplay.
+                                Bird IPTV provides a curated collection of IPTV channels from around the world and also live events. The channels are organized by their countries and categories. fuck aria and telepez, also fuck ronplay.
                             </p>
                             <div className="playlist-links">
                                 <h3>Playlist Files</h3>
-                                <a href="./playlist.m3u" download className="playlist-link">
-                                    <strong>Download playlist.m3u</strong><br />
+                                <a href="./M3U8/base.m3u8" download className="playlist-link">
+                                    <strong>Download base.m3u8</strong><br />
                                     <small>Stable (and unstable) Streams</small>
                                 </a>
                             </div>
