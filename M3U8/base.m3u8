@@ -877,7 +877,7 @@ http://84.203.21.1:9981/stream/channelid/130762250?profile=pass
 http://185.99.136.50:9981/stream/channelid/190697840?profile=pass
 
 #EXTINF:-1 tvg-id="RTEjr.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/RTÉ_KIDSjr.svg/960px-RTÉ_KIDSjr.svg.png" group-title="TV",RTÈ KIDSjr
-http://78.16.222.22:9981/stream/channelid/548764789?ticket=9EAB471C4451E454C69F9CB667BC9A9AC5014901&profile=pass
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=139649&extension=ts&play_token=QZpfapwRN4
 
 #EXTINF:-1 tvg-id="SABC.1.HD.za" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-1-za.png",SABC 1
 http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=131098&extension=ts
