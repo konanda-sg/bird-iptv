@@ -1,18 +1,15 @@
-## Base Log @ 2025-12-27 20:45 UTC
+## Base Log @ 2025-12-28 03:59 UTC
 
-### ✅ Working Streams: 236<br>❌ Dead Streams: 159
+### ✅ Working Streams: 246<br>❌ Dead Streams: 149
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
+| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
 | Sky Cinema Family FHD | HTTP Error (403) | `https://a1xs.vip/210007` |
-| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
-| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
-| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
+| Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
-| Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
 ---
 #### Base Channels URL
 ```
