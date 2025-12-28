@@ -78,7 +78,7 @@ https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8
 #EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="TV", Aspire
 http://fl1.moveonjoy.com/Aspire/index.m3u8
 
-#EXTINF:-1 tvg-id="Astro.Aura.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-aura-my.png" group-title="TV", Astro Ceria
+#EXTINF:-1 tvg-id="Astro.Aura.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-aura-my.png" group-title="TV", Astro Aura
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1163662&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Ceria.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-ceria-my.png" group-title="TV", Astro Ceria
