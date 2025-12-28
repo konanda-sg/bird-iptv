@@ -198,6 +198,9 @@ https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="TV", CBS Sports Network
 http://nocable.cc:8080/91161088/91161088/10454
 
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challenge-uk.png" group-title="TV",Challenge
+http://173.229.4.245:5004/auto/v48
+
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://i.ibb.co/v3WBCFV/Channel-4.png" group-title="TV", Channel 4 FHD
 https://a1xs.vip/1000031
 
@@ -936,8 +939,14 @@ http://portal5458.com:8080/live/DBeverly/2290061890/47826.ts
 #EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-documentaries-uk.png" group-title="TV",Sky Documentaries
 http://portal5458.com:8080/live/DBeverly/2290061890/47827.ts
 
+#EXTINF:-1 tvg-id="Sky.Kids.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-kids-uk.png" group-title="TV",Sky Kids
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=288701&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Max.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-max-uk.png" group-title="TV",Sky Max
 http://portal5458.com:8080/live/DBeverly/2290061890/47829.ts
+
+#EXTINF:-1 tvg-id="Sky.Mix.HD.uk" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png",Sky Mix
+http://173.229.4.245:5004/auto/v11
 
 #EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-nature-uk.png" group-title="TV",Sky Nature
 http://portal5458.com:8080/live/DBeverly/2290061890/47830.ts
