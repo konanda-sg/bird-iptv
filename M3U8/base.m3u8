@@ -870,10 +870,10 @@ http://nocable.cc:8080/91161088/91161088/10526
 #EXTINF:-1 tvg-id="ROOT.Sports.Northwest.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11062_dark_360w_270h.png" group-title="TV", Root Sports
 http://nocable.cc:8080/91161088/91161088/85232
 
-#EXTINF:-1 tvg-id="RTE.One.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rte-one-uk.png" group-title="TV",RTÉ One
+#EXTINF:-1 tvg-id="RTE.One.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-one-ie.png" group-title="TV",RTÉ One
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=30522&extension=ts
 
-#EXTINF:-1 tvg-id="RTE.Two.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rte-2-uk.png" group-title="TV",RTÉ2
+#EXTINF:-1 tvg-id="RTE.Two.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-ie.png" group-title="TV",RTÉ2
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=30521&extension=ts
 
 #EXTINF:-1 tvg-id="RTEjr.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/RTÉ_KIDSjr.svg/960px-RTÉ_KIDSjr.svg.png" group-title="TV",RTÈ KIDSjr
@@ -1080,7 +1080,7 @@ http://176.65.146.240:7001/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="Thats.TV.uk" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png",That's TV 
 http://86.180.115.121:1990/stream/channelid/1980028771?profile=pass
 
-#EXTINF:-1 tvg-id="Thats.TV.2.uk" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/That%27s_TV_2.svg/revision/latest?cb=20240103151500",That's TV 2
+#EXTINF:-1 tvg-id="Thats.TV.2.uk" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/thats-tv-2-uk.png",That's TV 2
 http://86.180.115.121:1990/stream/channelid/556880536?profile=pass
 
 #EXTINF:-1 tvg-id="Thats.Dance.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/That%27s_Oldies.png/revision/latest?cb=20250207172934" group-title="TV",That's Oldies
