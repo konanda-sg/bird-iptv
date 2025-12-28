@@ -489,6 +489,9 @@ https://fl1.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloob-br.png" group-title="TV",Gloob
 http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=1921529&extension=ts
 
+#EXTINF:-1 tvg-id="GONG.fr tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="TV",GONG
+http://45.90.106.7:9790/play/EvS759O6@U5J
+
 #EXTINF:-1 tvg-id="GREAT!.tv.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png" group-title="TV",Great! TV
 http://86.180.115.121:1990/stream/channelid/707188153?profile=pass
 
@@ -1117,7 +1120,7 @@ https://a1xs.vip/2000024
 https://a1xs.vip/2000031
 
 #EXTINF:-1 group-title="TV" tvg-id="Treehouse.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png",Treehouse
-http://kstv.us:8080/live/Purn3542/38791114838/40652.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/3057.ts
 
 #EXTINF:-1 tvg-id="TRT1.HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TV",TRT 1
 http://212.252.72.103:7070/play/a007
@@ -1166,6 +1169,21 @@ http://60.246.171.122:8892/bysid/82
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV", USA East
 http://nocable.cc:8080/91161088/91161088/10252
+
+#EXTINF:-1 tvg-id="U.and.alibi.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-and-alibi-uk.png" group-title="TV",U&Alibi
+http://portal5458.com:8080/live/DBeverly/2290061890/47739.ts
+
+#EXTINF:-1 tvg-id="U.and.Drama.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-and-drama-uk.png" group-title="TV",U&Drama
+http://portal5458.com:8080/live/DBeverly/2290061890/47770.ts
+
+#EXTINF:-1 tvg-id="U.and.Dave.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-and-dave-uk.png" group-title="TV",U&Dave
+http://portal5458.com:8080/live/DBeverly/2290061890/47764.ts
+
+#EXTINF:-1 tvg-id="U.and.Eden.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-and-eden-uk.png" group-title="TV",U&Eden
+http://portal5458.com:8080/live/DBeverly/2290061890/47773.ts
+
+#EXTINF:-1 tvg-id="U.and.GOLD.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-and-gold-uk.png" group-title="TV",U&Gold
+http://portal5458.com:8080/live/DBeverly/2290061890/47777.ts
 
 #EXTINF:-1 channel-id="e5dcad2b1c055d4d86a9f7bba9438da7" tvg-id="e5dcad2b1c055d4d86a9f7bba9438da7" tvg-chno="" tvg-name="Vevo '70s" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e5dcad2b1c055d4d86a9f7bba9438da7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112924287_Info_HUD_Logo_260X147_center_%252818%2529.png" group-title="TV",Vevo '70s
 https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8
@@ -1219,5 +1237,5 @@ http://nocable.cc:8080/91161088/91161088/41979
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="YTV.ca2" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV
-http://kstv.us:8080/live/Purn3542/38791114838/40663.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/647755.ts
 
