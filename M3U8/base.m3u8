@@ -187,7 +187,7 @@ http://45.90.106.7:9790/play/VrQl2079K0@Y5B
 https://a1xs.vip/1000050
 
 #EXTINF:-1 group-title="TV" tvg-id="CBeebies.HD.uk" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/37/CBeebies_2023.png",CBeebies
-http://185.24.121.53:9981/stream/channelid/2094947627?profile=pass
+http://173.229.4.245:5004/auto/v202
 
 #EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="TV", CBS
 http://nocable.cc:8080/91161088/91161088/120749
@@ -560,6 +560,9 @@ https://a1xs.vip/1000013
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="TV", iTV4 FHD
 https://a1xs.vip/1000014
+
+#EXTINF:-1 tvg-id="ITV.Quiz.HD.uk" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-quiz-uk.png",ITV Quiz
+http://173.229.4.245:5004/auto/v28
 
 #EXTINF:-1 tvg-id="J-One.fr tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/J-One.png" group-title="TV",J-One
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=506578&extension=ts
@@ -1093,7 +1096,7 @@ http://193.237.220.135:55555/That's%20Melody
 http://nocable.cc:8080/91161088/91161088/18926
 
 #EXTINF:-1 group-title="TV" tvg-id="Tiny.Pop.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tiny-pop-uk.png",Tiny Pop
-http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=13622&extension=ts
+http://173.229.4.245:5004/auto/v206
 
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="TV", TLC
 http://nocable.cc:8080/91161088/91161088/12734
