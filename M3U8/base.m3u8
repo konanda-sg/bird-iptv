@@ -105,6 +105,9 @@ http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=116369
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="TV", BBC America
 http://nocable.cc:8080/91161088/91161088/20194
 
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png",BBC Four
+http://173.229.4.245:5004/auto/v09
+
 #EXTINF:-1 tvg-id="BBC.Nordic.dk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Nordic_2023.svg/1200px-BBC_Nordic_2023.svg.png" group-title="TV",BBC Nordic
 http://86.52.58.131:9981/stream/channelid/982754499?profile=pass
 
