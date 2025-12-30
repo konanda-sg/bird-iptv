@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/birdtwelve/bird-iptv/refs/heads/main/EPG/TV.xml"
 
+#EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="TV",5ACTION
+http://173.229.4.245:5004/auto/v33
+
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-star-uk.png" group-title="TV",5STAR
+http://173.229.4.245:5004/auto/v32
+
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-usa-uk.png" group-title="TV",5USA
+http://173.229.4.245:5004/auto/v21
+
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/6ter-fr.png" group-title="TV",6ter
 http://176.65.146.138:8047/play/a07m/index.m3u8
 
@@ -410,6 +419,9 @@ https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8
 
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="TV", Food Network
 http://nocable.cc:8080/91161088/91161088/7323
+
+#EXTINF:-1 tvg-id="Food.Network.uk" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/food-network-uk.png",Food Network UK
+http://173.229.4.245:5004/auto/v43
 
 #EXTINF:-1 tvg-id="WFLX-DT.us_locals1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="TV", Fox
 http://nocable.cc:8080/91161088/91161088/121595
@@ -915,6 +927,9 @@ http://94.61.151.242:9981/stream/channelid/16607114?profile=pass
 #EXTINF:-1 group-title="TV" tvg-id="SIC.Noticais.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png",SIC Noticias
 http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
 
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-arts-uk.png" group-title="TV",Sky Arts
+http://portal5458.com:8080/live/DBeverly/2290061890/47811.ts
+
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/sky-atlantic.png" group-title="TV",Sky Atlantic FHD
 https://a1xs.vip/210001
 
@@ -957,8 +972,14 @@ http://173.229.4.245:5004/auto/v11
 #EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-nature-uk.png" group-title="TV",Sky Nature
 http://portal5458.com:8080/live/DBeverly/2290061890/47830.ts
 
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="TV",Sky News
+http://173.229.4.245:5004/auto/v233
+
 #EXTINF:-1 tvg-id="Sky.Showcase.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-uk.png" group-title="TV",Sky Showcase
 http://portal5458.com:8080/live/DBeverly/2290061890/47832.ts
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-witness-uk.png" group-title="TV",Sky Witness
+http://portal5458.com:8080/live/DBeverly/2290061890/47833.ts
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="TV",Sky Sports Main Event UHD
 https://a1xs.vip/2000015
