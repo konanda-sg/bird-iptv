@@ -1212,6 +1212,9 @@ http://portal5458.com:8080/live/DBeverly/2290061890/47773.ts
 #EXTINF:-1 tvg-id="U.and.GOLD.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-and-gold-uk.png" group-title="TV",U&Gold
 http://portal5458.com:8080/live/DBeverly/2290061890/47777.ts
 
+#EXTINF:-1 tvg-id="U.and.W.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-and-w-uk.png" group-title="TV",U&W
+http://173.229.4.245:5004/auto/v25
+
 #EXTINF:-1 channel-id="e5dcad2b1c055d4d86a9f7bba9438da7" tvg-id="e5dcad2b1c055d4d86a9f7bba9438da7" tvg-chno="" tvg-name="Vevo '70s" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e5dcad2b1c055d4d86a9f7bba9438da7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112924287_Info_HUD_Logo_260X147_center_%252818%2529.png" group-title="TV",Vevo '70s
 https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8
 
