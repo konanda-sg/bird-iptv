@@ -708,7 +708,7 @@ https://a1xs.vip/1000052
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="TV", Nickelodeon
 http://nocable.cc:8080/91161088/91161088/38
 
-#EXTINF:-1 tvg-id="nick.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="Germany",Nickelodeon/Comedy Central+1
+#EXTINF:-1 tvg-id="nick.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="TV",Nickelodeon/Comedy Central+1
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Nickelodeon.png" group-title="TV", Nickelodeon UK FHD
