@@ -882,6 +882,12 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2160/index.m3u8
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="TV", Premier Sports 2
 http://109.61.81.147:1935/cdn7/1275/mpegts?token=0abb07758b53c286d3b6b7943b7c5405
 
+#EXTINF:-1 tvg-id="QUEST.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-uk.png" group-title="TV",Quest
+http://173.229.4.245:5004/auto/v12
+
+#EXTINF:-1 tvg-id="Quest.Red.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-uk.png" group-title="TV",Quest Red
+http://173.229.4.245:5004/auto/v40
+
 #EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="TV", Reelz Channel
 http://nocable.cc:8080/91161088/91161088/10526
 
