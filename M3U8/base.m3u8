@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/birdtwelve/bird-iptv/refs/heads/main/EPG/TV.xml"
 
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png" group-title="TV",4seven
+http://173.229.4.245:5004/auto/v49
+
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="TV",5ACTION
 http://173.229.4.245:5004/auto/v33
 
@@ -1187,6 +1190,9 @@ http://185.233.253.71:9981/stream/channelid/1749613619?ticket=40BFADF5E8CB95789B
 
 #EXTINF:-1 group-title="TV" tvg-id="TV3.dk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-dk.png",TV3 DK
 http://185.233.253.71:9981/stream/channelid/1242761804?ticket=5B8C6AE6630DB4AE3793BB7EFC0BAE457D030189&profile=pass
+
+#EXTINF:-1 tvg-id="Television.Jamaica.jm" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="TV",TVJ
+https://fl5.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
 
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="TV", TV Land
 https://fl1.moveonjoy.com/TV_LAND/index.m3u8
