@@ -4,18 +4,25 @@ import re
 from pathlib import Path
 
 from scrapers import (
+    cdnlivetv,
+    embedhd,
     fawa,
+    istreameast,
     pixel,
     ppv,
     roxie,
     shark,
     sport9,
     streambtw,
-    streameast,
+    streamcenter,
     streamfree,
+    streamhub,
+    streamsgate,
     strmd,
+    totalsportek,
     tvpass,
     watchfooty,
+    webcast,
 )
 from scrapers.utils import get_logger, network
 
