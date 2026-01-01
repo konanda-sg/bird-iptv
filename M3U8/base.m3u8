@@ -770,7 +770,7 @@ https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8
 
 #EXTINF:-1 channel-id="3ec371d7730f16b07a55ede8a4472261" tvg-id="3ec371d7730f16b07a55ede8a4472261" tvg-chno="" tvg-name="PBS Genealogy" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3ec371d7730f16b07a55ede8a4472261/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765907235017_260x147_CenterAligned1.png" group-title="TV",PBS Genealogy
 https://jmp2.uk/rok-3ec371d7730f16b07a55ede8a4472261.m3u8
-#
+
 #EXTINF:-1 channel-id="32fa723f285fc238ae786634f051f972" tvg-id="32fa723f285fc238ae786634f051f972" tvg-chno="" tvg-name="PBS Nature" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/32fa723f285fc238ae786634f051f972/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763400046282_260x147_CenterAligned.png" group-title="TV",PBS Nature
 https://jmp2.uk/rok-32fa723f285fc238ae786634f051f972.m3u8
 
@@ -910,13 +910,13 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=30521&ext
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=139649&extension=ts
 
 #EXTINF:-1 tvg-id="SABC.1.HD.za" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-1-za.png",SABC 1
-http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=131098&extension=ts
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=30377&extension=ts
 
 #EXTINF:-1 tvg-id="SABC.2.HD.za" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-2-za.png",SABC 2
-http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=131099&extension=ts
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=30378&extension=ts
 
 #EXTINF:-1 tvg-id="SABC.3.HD.za" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-3-za.png",SABC 3
-http://trxx.in:80/play/live.php?mac=00:1A:79:18:1D:A6&stream=131100&extension=ts
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=30380&extension=ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="TV", SEC Network
 http://nocable.cc:8080/91161088/91161088/17608
