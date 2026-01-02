@@ -1,13 +1,14 @@
-## Base Log @ 2026-01-02 03:54 UTC
+## Base Log @ 2026-01-02 08:55 UTC
 
-### ✅ Working Streams: 274<br>❌ Dead Streams: 157
+### ✅ Working Streams: 272<br>❌ Dead Streams: 159
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| 9 Story Presents: Garfield and Friends | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
+| FilmRise Classic TV | HTTP Error (404) | `https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8` |
+| PBS Antiques Roadshow | HTTP Error (404) | `https://jmp2.uk/rok-856fca464da0544784204ba8f6161dac.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
-| Pink Panther | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
+| Sky Cinema Comedy FHD | HTTP Error (401) | `https://a1xs.vip/210005` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 | pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
