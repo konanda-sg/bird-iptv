@@ -588,8 +588,11 @@ http://173.229.4.245:5004/auto/v28
 #EXTINF:-1 tvg-id="J-One.fr tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/J-One.png" group-title="TV",J-One
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=506578&extension=ts
 
-#EXTINF:-1 tvg-id="JimJam.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/jimjam-int.png" group-title="TV",JimJam 
+#EXTINF:-1 tvg-id="JimJam.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/jimjam-int.png" group-title="TV",JimJam 
 https://tvh.cyn.cz/stream/channelid/1256887444?profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="Nickelodeon.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/keedoo-gr.png",Keedoo
+http://193.92.205.210:666/stream/channelid/332003718?ticket=5A96C45C5BD1FCCFF6A32BC17251B02524EB6183&profile=pass
 
 #EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/kika-de.png" group-title="TV",KIKA
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
