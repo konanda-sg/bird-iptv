@@ -1,15 +1,14 @@
-## Base Log @ 2026-01-04 20:46 UTC
+## Base Log @ 2026-01-05 04:09 UTC
 
-### ✅ Working Streams: 242<br>❌ Dead Streams: 190
+### ✅ Working Streams: 245<br>❌ Dead Streams: 187
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| 9 Story Presents: Garfield and Friends | Unknown status (302) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
-| Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
+| Sky Cinema Comedy FHD | HTTP Error (403) | `https://a1xs.vip/210005` |
+| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
