@@ -1,6 +1,6 @@
-## Base Log @ 2026-01-07 08:56 UTC
+## Base Log @ 2026-01-07 14:52 UTC
 
-### ✅ Working Streams: 202<br>❌ Dead Streams: 230
+### ✅ Working Streams: 204<br>❌ Dead Streams: 228
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -35,8 +35,8 @@
 | Pluto TV Space | HTTP Error (403) | `https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8` |
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
-| SKY Sport 2 NZ | Unknown status (302) | `https://a1xs.vip/700032` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
+| Sky Sports Main Event FHD | HTTP Error (403) | `https://a1xs.vip/2000001` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 | pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
