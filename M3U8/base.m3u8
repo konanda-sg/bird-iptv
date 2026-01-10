@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/birdtwelve/bird-iptv/refs/heads/main/EPG/TV.xml"
 
+#EXTINF:-1 tvg-id="TVE.24h.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png" group-title="TV",24h
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png" group-title="TV",4seven
 http://173.229.4.245:5004/auto/v49
 
@@ -158,6 +161,9 @@ http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="TV", Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="BVN.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png",BVN
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 
 #EXTINF:-1 tvg-id="CSPAN.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="TV", C-SPAN
 http://fl1.moveonjoy.com/C-SPAN/index.m3u8
@@ -1196,6 +1202,9 @@ http://185.233.253.71:9981/stream/channelid/1749613619?ticket=40BFADF5E8CB95789B
 
 #EXTINF:-1 group-title="TV" tvg-id="TV3.dk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-dk.png",TV3 DK
 http://185.233.253.71:9981/stream/channelid/1242761804?ticket=5B8C6AE6630DB4AE3793BB7EFC0BAE457D030189&profile=pass
+
+#EXTINF:-1 group-title="TV" tvg-id="TVEi.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png",TVE Internacional 
+http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Television.Jamaica.jm" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="TV",TVJ
 https://fl5.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
