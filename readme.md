@@ -1,6 +1,6 @@
-## Base Log @ 2026-01-10 20:45 UTC
+## Base Log @ 2026-01-11 04:02 UTC
 
-### ✅ Working Streams: 201<br>❌ Dead Streams: 235
+### ✅ Working Streams: 202<br>❌ Dead Streams: 234
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -10,7 +10,6 @@
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
 | More True Crime | HTTP Error (403) | `https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
-| Pink Panther | HTTP Error (500) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Action | HTTP Error (403) | `https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8` |
 | Pluto TV Animals | HTTP Error (403) | `https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8` |
 | Pluto TV Animation | HTTP Error (403) | `https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8` |
@@ -37,8 +36,10 @@
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
-| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
+| Sky Atlantic FHD | HTTP Error (403) | `https://a1xs.vip/210001` |
+| Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
 | Sky Sports Football FHD | Unknown status (302) | `https://a1xs.vip/2000003` |
+| Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
 | Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 ---
