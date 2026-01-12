@@ -1,6 +1,6 @@
-## Base Log @ 2026-01-12 04:02 UTC
+## Base Log @ 2026-01-12 08:59 UTC
 
-### ✅ Working Streams: 198<br>❌ Dead Streams: 238
+### ✅ Working Streams: 203<br>❌ Dead Streams: 233
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -36,7 +36,6 @@
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
-| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
 | Sky Sports Football FHD | Unknown status (302) | `https://a1xs.vip/2000003` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 ---
