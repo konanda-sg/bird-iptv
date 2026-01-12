@@ -1,6 +1,6 @@
-## Base Log @ 2026-01-12 08:59 UTC
+## Base Log @ 2026-01-12 14:56 UTC
 
-### ✅ Working Streams: 203<br>❌ Dead Streams: 233
+### ✅ Working Streams: 205<br>❌ Dead Streams: 231
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -38,6 +38,7 @@
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
 | Sky Sports Football FHD | Unknown status (302) | `https://a1xs.vip/2000003` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
+| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
