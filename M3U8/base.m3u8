@@ -19,19 +19,19 @@ http://173.229.4.245:5004/auto/v21
 http://176.65.146.138:8047/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-id="7Sydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741",7 Network
-http://44.32.200.212:5004/auto/07
+http://44.32.200.132:5004/auto/v7
 
 #EXTINF:-1 tvg-id="7TWOSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516",7two
-http://44.32.200.212:5004/auto/v72
+http://44.32.200.132:5004/auto/v72
 
 #EXTINF:-1 tvg-id="7mateSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/7mate_2020.svg/revision/latest?cb=20200710160634",7mate
-http://44.32.200.212:5004/auto/v74
+http://44.32.200.132:5004/auto/v74
 
 #EXTINF:-1 tvg-id="7flixSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/7flix_2020.svg/revision/latest?cb=20200728124851",7flix
-http://44.32.200.212:5004/auto/v76
+http://44.32.200.132:5004/auto/v76
 
 #EXTINF:-1 tvg-id="7BravoSydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest?cb=20240508040002",7bravo
-http://44.32.200.212:5004/auto/v75
+http://44.32.200.132:5004/auto/v75
 
 #EXTINF:-1 tvg-id="9Sydney.au" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Nine_2023.svg/revision/latest?cb=20240111174930",9 Network
 http://115.69.40.212:55555/9HD%20Newcastle
