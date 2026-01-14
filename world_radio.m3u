@@ -1955,6 +1955,8 @@ https://kristal.media/kfm/
 https://play.thestreamtech.com:7038/
 #EXTINF:-1 group-title="Brunei Darussalam" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cc110ca7a1fbd0a3d2e824d/c14d6a3a-a7dd-413a-b54a-25df559c3ae5/KRISTALfm+Logo+%282023%29+144x600.png",BN | KRISTALfm
 https://play.thestreamtech.com:7038/index.html
+#EXTINF:-1 group-title="Brunei Darussalam" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",BN | Pelangi 91.4 FM Brunei
+https://www.rtbgo.bn/radio/6
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://shorturl.at/jfGEP",BG | &#1056;&#1072;&#1076;&#1080;&#1086; FM+
 http://31.13.223.148:8000/fmplus.ogg
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png",BG | 1 Rock Bulgaria
@@ -2741,8 +2743,8 @@ https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 https://stream.zeno.fm/qefuzz74kfhvv
 #EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/rn2H3o8.png",CN | CGTN - English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://radio-res.cgtn.com/image/2112/1639986367791.jpg",CN | CGTN Radio
-https://sk.cri.cn/am846.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CN | CGTN English
+https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/81111.v7.png",CO | ((La Reina Putumayo 106.3 Fm))
 https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://104florencia.co/wp-content/uploads/2021/09/104.1-sede-curiplaya-2048x996.jpg",CO | 104.1 Emisora Comunitaria - La Radio de Todos
@@ -3423,6 +3425,8 @@ https://stream.veblot.net/proxy/russianradio/stream/
 https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CY | 塞浦路斯中文广播
 https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://livecast2.soundofhope.org/soh-live",CY | 希望新声
+https://livecast2.soundofhope.org/soh-live
 #EXTINF:-1 group-title="Czechia" tvg-logo="https://radia.cz/static/favicon.ico",CZ | ABradio Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 #EXTINF:-1 group-title="Czechia" tvg-logo="https://bikersradiodoupe.cz/favicon.png",CZ | BIKERS RADIO DOUPE
@@ -4239,6 +4243,10 @@ https://radio95.radioca.st/;
 http://178.33.135.244:20095/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8
 #EXTINF:-1 group-title="Egypt" tvg-logo="https://stream.zeno.fm/n63xpx3o8imuv.pls",EG | X_X
 https://stream.zeno.fm/n63xpx3o8imuv
+#EXTINF:-1 group-title="Egypt" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483882.jpg",EG | إذاعة الأغاني
+https://live.eu-north-1b.cf.dmcdn.net/sec2(ZA3cg6qnFGHtfAMHKqCEXuHP_3AzXLzy_Jp26nnp6dv31Ubgr_xlomGanYOOUn7ZB0gHN7AWUzoTMxuewyZa4y-Xl7O_aIeYXQpR9MYPgPaCf4ikvaDYjlOWKep4nO-V)/dm/3/x8n6dyz/s/live-480.m3u8
+#EXTINF:-1 group-title="Egypt" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483882.jpg",EG | إذاعة الأغاني
+https://cdndirector.dailymotion.com/cdn/live/video/x8n6dyz.m3u8?sec=I2I8VrOW7KtsypfdK8ul1RJugVztml1CCiEehSUBCuC0MNrYsHh5Vmdh0p4MJ_59VCYt1Z0nIl6NKUnWybProg&dmTs=73156&dmV1st=86b4b26f-ece9-4081-af82-149a7ffee949
 #EXTINF:-1 group-title="Egypt" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",EG | إذاعة القرآن الكريم (القاهرة)
 https://stream.radiojar.com/8s5u5tpdtwzuv
 #EXTINF:-1 group-title="Egypt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDeG4UfceNKx39_KEr8RQhM3QX5kSdpK6zQ&usqp=CAU",EG | إذاعة القرآن الكريم من القاهرة

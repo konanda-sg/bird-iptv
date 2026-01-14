@@ -1353,6 +1353,8 @@ https://stream.veblot.net/proxy/russianradio/stream/
 https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CY | 塞浦路斯中文广播
 https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://livecast2.soundofhope.org/soh-live",CY | 希望新声
+https://livecast2.soundofhope.org/soh-live
 #EXTINF:-1 group-title="Czechia" tvg-logo="https://radia.cz/static/favicon.ico",CZ | ABradio Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 #EXTINF:-1 group-title="Czechia" tvg-logo="https://bikersradiodoupe.cz/favicon.png",CZ | BIKERS RADIO DOUPE
