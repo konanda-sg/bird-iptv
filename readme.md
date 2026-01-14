@@ -1,10 +1,10 @@
-## Base Log @ 2026-01-13 20:49 UTC
+## Base Log @ 2026-01-14 04:00 UTC
 
-### ✅ Working Streams: 190<br>❌ Dead Streams: 247
+### ✅ Working Streams: 188<br>❌ Dead Streams: 249
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| Animation+ | HTTP Error (404) | `https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8` |
+| 9 Story Presents: Garfield and Friends | Unknown status (302) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
@@ -19,7 +19,7 @@
 | Pluto TV Conspiracy | HTTP Error (403) | `https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | Pluto TV Crime Drama | HTTP Error (403) | `https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8` |
-| Pluto TV Crime | Connection timed out (000) | `https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8` |
+| Pluto TV Crime | HTTP Error (403) | `https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8` |
 | Pluto TV Cult Films | HTTP Error (403) | `https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8` |
 | Pluto TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8` |
 | Pluto TV Family Movie Club | HTTP Error (403) | `https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8` |
@@ -49,6 +49,7 @@
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 | Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
+| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
