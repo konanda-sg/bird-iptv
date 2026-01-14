@@ -286,7 +286,7 @@ http://nocable.cc:8080/91161088/91161088/46720
 https://a1xs.vip/1000033
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="TV", Discovery Family Channel
-http://nocable.cc:8080/91161088/91161088/10538
+http://35.91.87.110:5004/auto/v46.2
 
 #EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Argentina).ar" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/discovery-kids-lam.png",Discovery Kids
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=276219&extension=ts
