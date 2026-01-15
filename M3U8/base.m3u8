@@ -1216,7 +1216,7 @@ http://185.233.253.71:9981/stream/channelid/1749613619?ticket=40BFADF5E8CB95789B
 http://185.233.253.71:9981/stream/channelid/1242761804?ticket=5B8C6AE6630DB4AE3793BB7EFC0BAE457D030189&profile=pass
 
 #EXTINF:-1 group-title="TV" tvg-id="TVEi.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png",TVE Internacional 
-http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
 
 #EXTINF:-1 tvg-id="Television.Jamaica.jm" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="TV",TVJ
 http://mytvstream.net:8080/live/A1Jay5/362586/78918.m3u8
