@@ -276,6 +276,9 @@ http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
 #EXTINF:-1 group-title="TV" tvg-id="CTV.DRAMA.CHANNEL.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-drama-channel-ca.png",CTV Drama
 http://38.143.48.212:9981/stream/channelid/133843306?profile=pass
 
+#EXTINF:-1 tvg-id="cubby" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/cubby.png" group-title="TV",Cubby
+https://rhine.webchnl.live/memfs/857d48b9-8a6c-44a8-ae47-a064fe7dbda1.m3u8
+
 #EXTINF:-1 tvg-id="WKCF-DT.us_locals1" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="TV", CW
 http://nocable.cc:8080/91161088/91161088/120893
 
@@ -990,6 +993,9 @@ https://a1xs.vip/210005
 #EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png" group-title="TV",Sky Comedy
 http://portal5458.com:8080/live/DBeverly/2290061890/47825.ts
 
+#EXTINF:-1 tvg-id="Comedy.Central.nz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-comedy-nz.png" group-title="TV",Sky Comedy NZ
+http://121.74.22.14:62381/stream/channelid/2070625020?profile=pass
+
 #EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-crime-uk.png" group-title="TV",Sky Crime
 http://portal5458.com:8080/live/DBeverly/2290061890/47826.ts
 
@@ -998,6 +1004,9 @@ http://portal5458.com:8080/live/DBeverly/2290061890/47827.ts
 
 #EXTINF:-1 tvg-id="Sky.Kids.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-kids-uk.png" group-title="TV",Sky Kids
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=288701&extension=ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.nz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-kids-nz.png" group-title="TV",Sky Kids NZ
+http://121.74.22.14:62381/stream/channelid/1674944943?profile=pass
 
 #EXTINF:-1 tvg-id="Sky.Max.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-max-uk.png" group-title="TV",Sky Max
 http://portal5458.com:8080/live/DBeverly/2290061890/47829.ts
@@ -1207,7 +1216,7 @@ http://185.233.253.71:9981/stream/channelid/1749613619?ticket=40BFADF5E8CB95789B
 http://185.233.253.71:9981/stream/channelid/1242761804?ticket=5B8C6AE6630DB4AE3793BB7EFC0BAE457D030189&profile=pass
 
 #EXTINF:-1 group-title="TV" tvg-id="TVEi.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png",TVE Internacional 
-http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
 
 #EXTINF:-1 tvg-id="Television.Jamaica.jm" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="TV",TVJ
 http://mytvstream.net:8080/live/A1Jay5/362586/78918.m3u8
@@ -1292,6 +1301,9 @@ https://jmp2.uk/rok-6be3083b8ec2508495684e5087f8f86a.m3u8
 
 #EXTINF:-1 channel-id="60db737695c95b599dad50d2c5595fe3" tvg-id="60db737695c95b599dad50d2c5595fe3" tvg-chno="" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/60db737695c95b599dad50d2c5595fe3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113591743_Info_HUD_Logo_260X147_center_%25281%2529_%25281%2529.png" group-title="TV",Vevo Reggaeton & Trap
 https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8
+
+#EXTINF:-1 tvg-id="Vibe.nz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/vibe-nz.png" group-title="TV", Vibe
+http://121.74.22.14:62381/stream/channelid/227072710?profile=pass
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="TV", Vice TV
 http://nocable.cc:8080/91161088/91161088/46697
