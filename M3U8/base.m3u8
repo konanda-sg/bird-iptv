@@ -4,16 +4,16 @@
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png" group-title="TV",4seven
-http://173.229.4.245:5004/auto/v49
+http://92.118.251.84:8080/4seven/index.m3u8
 
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="TV",5ACTION
 http://173.229.4.245:5004/auto/v33
 
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-star-uk.png" group-title="TV",5STAR
-http://173.229.4.245:5004/auto/v32
+http://92.118.251.84:8080/5star/index.m3u8
 
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-usa-uk.png" group-title="TV",5USA
-http://173.229.4.245:5004/auto/v21
+http://92.118.251.84:8080/5usa/index.m3u8
 
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/6ter-fr.png" group-title="TV",6ter
 http://176.65.146.138:8047/play/a07m/index.m3u8
