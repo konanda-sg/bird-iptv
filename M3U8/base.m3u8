@@ -328,7 +328,7 @@ http://86.52.58.131:9981/stream/channelid/931180474?profile=pass
 http://185.233.253.71:9981/stream/channelid/605743331?ticket=754F2A0D14680CEC6B65AADE53515A6A9FE159DC&profile=pass
 
 #EXTINF:-1 tvg-id="DreamWorks.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dreamworks-tv-int.png" group-title="TV", Dreamworks
-http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=287836&extension=ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="TV", E! Entertainment
 http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
