@@ -912,6 +912,9 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2160/index.m3u8
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="TV", Premier Sports 2
 http://109.61.81.147:1935/cdn7/1275/mpegts?token=0abb07758b53c286d3b6b7943b7c5405
 
+#EXTINF:-1 tvg-id="quant" tvg-name="quant" tvg-logo="https://webchnl.com/assets/img/channelicons/quant.png?v=1762108419" group-title="TV",quant
+https://haus.webchnl.com/memfs/5363cc83-1baa-4dfa-a651-bed715736d6e.m3u8
+
 #EXTINF:-1 tvg-id="QUEST.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-uk.png" group-title="TV",Quest
 http://173.229.4.245:5004/auto/v12
 
