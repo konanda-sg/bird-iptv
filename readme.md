@@ -1,6 +1,6 @@
-## Base Log @ 2026-01-17 14:45 UTC
+## Base Log @ 2026-01-17 20:46 UTC
 
-### ✅ Working Streams: 213<br>❌ Dead Streams: 232
+### ✅ Working Streams: 230<br>❌ Dead Streams: 221
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -42,7 +42,6 @@
 | Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sports Football FHD | Unknown status (302) | `https://a1xs.vip/2000003` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
 | pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
