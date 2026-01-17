@@ -1017,6 +1017,21 @@ http://portal5458.com:8080/live/DBeverly/2290061890/47829.ts
 #EXTINF:-1 tvg-id="Sky.Mix.HD.uk" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png",Sky Mix
 http://173.229.4.245:5004/auto/v11
 
+#EXTINF:-1 tvg-id="Sky.Movies.Action.nz" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-movies-action-nz.png",Sky Movies Action NZ
+http://121.74.22.14:62381/stream/channelid/47641292?profile=pass
+
+#EXTINF:-1 tvg-id="Sky.Movies.Classics.nz" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-movies-classics-nz.png",Sky Movies Classics NZ
+http://121.74.22.14:62381/stream/channelid/1088335513?profile=pass
+
+#EXTINF:-1 tvg-id="Sky.Movies.Family.nz" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-movies-family-nz.png",Sky Movies Family NZ
+http://121.74.22.14:62381/stream/channelid/349297089?profile=pass
+
+#EXTINF:-1 tvg-id="Sky.Movies.Greats.nz" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-movies-greats-nz.png",Sky Movies Greats NZ
+http://121.74.22.14:62381/stream/channelid/215154573?profile=pass
+
+#EXTINF:-1 tvg-id="Sky.Movies.Premiere.nz" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-movies-premiere-nz.png",Sky Movies Premiere NZ
+http://121.74.22.14:62381/stream/channelid/584791990?profile=pass
+
 #EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-nature-uk.png" group-title="TV",Sky Nature
 http://portal5458.com:8080/live/DBeverly/2290061890/47830.ts
 
