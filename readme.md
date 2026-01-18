@@ -1,13 +1,10 @@
-## Base Log @ 2026-01-18 03:58 UTC
+## Base Log @ 2026-01-18 08:51 UTC
 
-### ✅ Working Streams: 216<br>❌ Dead Streams: 235
+### ✅ Working Streams: 227<br>❌ Dead Streams: 224
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Unknown status (302) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
-| FilmRise Creators | HTTP Error (404) | `https://jmp2.uk/rok-067e6b6fa36352ad8984a8d97c9a39d4.m3u8` |
-| FilmRise Horror | HTTP Error (404) | `https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8` |
-| FilmRise Mysteries | HTTP Error (404) | `https://jmp2.uk/rok-16722bc43ef05012afa2297def830266.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
@@ -38,15 +35,14 @@
 | Pluto TV Space | HTTP Error (403) | `https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8` |
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
-| SKY Sport 1 NZ | Unknown status (302) | `https://a1xs.vip/700031` |
-| SKY Sport 2 NZ | Unknown status (302) | `https://a1xs.vip/700032` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
-| SKY Sport 4 NZ | Unknown status (302) | `https://a1xs.vip/700034` |
-| SKY Sport 5 NZ | Unknown status (302) | `https://a1xs.vip/700035` |
-| SKY Sport 6 NZ | Unknown status (302) | `https://a1xs.vip/700036` |
-| SKY Sport 7 NZ | Unknown status (302) | `https://a1xs.vip/700037` |
+| Sky Atlantic FHD | HTTP Error (403) | `https://a1xs.vip/210001` |
+| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
+| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
 | Sky Sports Football FHD | Unknown status (302) | `https://a1xs.vip/2000003` |
+| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
+| Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
 | pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
