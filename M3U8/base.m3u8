@@ -601,7 +601,7 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=506578&exten
 https://tvh.cyn.cz/stream/channelid/1256887444?profile=pass
 
 #EXTINF:-1 group-title="TV" tvg-id="Nickelodeon.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/keedoo-gr.png",Keedoo
-http://2.84.42.107:9981/stream/channelid/1889795455?ticket=53B50BFFFAD86F309057E6513AD202E352653B71&profile=pass
+http://cdnhome.pro/live/C75V49V5/38087123/135777.m3u8
 
 #EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/kika-de.png" group-title="TV",KIKA
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
