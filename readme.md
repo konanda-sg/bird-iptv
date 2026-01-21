@@ -1,6 +1,6 @@
-## Base Log @ 2026-01-20 20:57 UTC
+## Base Log @ 2026-01-21 03:57 UTC
 
-### ✅ Working Streams: 204<br>❌ Dead Streams: 247
+### ✅ Working Streams: 223<br>❌ Dead Streams: 228
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -36,16 +36,14 @@
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
-| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
-| Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
-| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
+| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
 | Sky Sports Football FHD | Unknown status (302) | `https://a1xs.vip/2000003` |
 | Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
 | Sky Sports Main Event FHD | HTTP Error (403) | `https://a1xs.vip/2000001` |
+| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
 | Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
 ---
 #### Base Channels URL
