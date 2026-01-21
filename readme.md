@@ -1,15 +1,16 @@
-## Base Log @ 2026-01-21 08:58 UTC
+## Base Log @ 2026-01-21 14:59 UTC
 
-### ✅ Working Streams: 220<br>❌ Dead Streams: 231
+### ✅ Working Streams: 212<br>❌ Dead Streams: 239
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| 9 Story Presents: Garfield and Friends | Unknown status (302) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
+| 9 Story Presents: Garfield and Friends | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
 | More True Crime | HTTP Error (403) | `https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
+| Pink Panther | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Action | HTTP Error (403) | `https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8` |
 | Pluto TV Animals | HTTP Error (403) | `https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8` |
 | Pluto TV Animation | HTTP Error (403) | `https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8` |
@@ -36,14 +37,14 @@
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
+| Sky Atlantic FHD | HTTP Error (403) | `https://a1xs.vip/210001` |
 | Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
-| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
-| Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
-| Sky Sports Action FHD | HTTP Error (404) | `https://a1xs.vip/2000011` |
-| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
+| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
+| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
 | Sky Sports Football FHD | Unknown status (302) | `https://a1xs.vip/2000003` |
+| Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
+| Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
 ---
 #### Base Channels URL
 ```
