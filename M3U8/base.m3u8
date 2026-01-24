@@ -732,8 +732,8 @@ http://35.91.87.110:5004/auto/v45.3
 #EXTINF:-1 tvg-id="nick.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="TV",Nickelodeon/Comedy Central+1
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="TV", Nickelodeon Global
-http://46.149.191.219:9108/play/a00b
+#EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="TVviamotionhsi.netplus.c1
+http://84.232.241.140:9891/stream/channelid/1254476784?profile=pass
 
 #EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Nickelodeon.png" group-title="TV", Nickelodeon UK FHD
 https://a1xs.vip/1000051
