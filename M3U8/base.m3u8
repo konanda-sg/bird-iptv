@@ -1353,3 +1353,15 @@ https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="YTV.ca2" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV
 http://restream-live.realiptv.to:8080/live/19742329/27604387/647755.ts
 
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="TV",Ziggo Sport FHD
+https://a1xs.vip/140001
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2 FHD" tvg-logo="https://i.ibb.co/hxTy5fJw/Ziggo-Sport2.png" group-title="TV",Ziggo Sport 2 FHD
+https://a1xs.vip/140002
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="Ziggo Sport 3 FHD" tvg-logo="https://i.ibb.co/JF0cRyBQ/Ziggo-Sport3.png" group-title="TV",Ziggo Sport 3 FHD
+https://a1xs.vip/140003
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="Ziggo Sport 4 FHD" tvg-logo="https://i.ibb.co/tPJpwzqL/Ziggo-Sport4.png" group-title="TV",Ziggo Sport 4 FHD
+https://a1xs.vip/140004
+
