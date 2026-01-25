@@ -1,13 +1,10 @@
-## Base Log @ 2026-01-25 04:07 UTC
+## Base Log @ 2026-01-25 08:52 UTC
 
-### ✅ Working Streams: 197<br>❌ Dead Streams: 254
+### ✅ Working Streams: 218<br>❌ Dead Streams: 233
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Unknown status (302) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
-| FilmRise British TV | HTTP Error (404) | `https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8` |
-| FilmRise Classic TV | HTTP Error (404) | `https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8` |
-| FilmRise Horror | HTTP Error (404) | `https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
@@ -41,19 +38,11 @@
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
 | Sky Atlantic FHD | HTTP Error (403) | `https://a1xs.vip/210001` |
 | Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
-| Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
-| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
-| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
-| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
-| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
 | Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
-| Sky Sports Main Event FHD | HTTP Error (403) | `https://a1xs.vip/2000001` |
-| Sky Sports Main Event UHD | HTTP Error (404) | `https://a1xs.vip/2000015` |
-| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
+| Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
+| Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
