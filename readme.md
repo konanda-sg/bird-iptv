@@ -1,6 +1,6 @@
-## Base Log @ 2026-01-27 04:01 UTC
+## Base Log @ 2026-01-27 09:00 UTC
 
-### ✅ Working Streams: 208<br>❌ Dead Streams: 247
+### ✅ Working Streams: 210<br>❌ Dead Streams: 245
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -35,20 +35,17 @@
 | Pluto TV Space | HTTP Error (403) | `https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8` |
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
+| SKY Sport 1 NZ | HTTP Error (403) | `https://a1xs.vip/700031` |
+| SKY Sport 2 NZ | HTTP Error (403) | `https://a1xs.vip/700032` |
 | SKY Sport 3 NZ | HTTP Error (404) | `https://a1xs.vip/700033` |
-| Sky Atlantic FHD | Unknown status (302) | `https://a1xs.vip/210001` |
-| Sky Cinema Action FHD | Unknown status (302) | `https://a1xs.vip/210006` |
-| Sky Cinema Hits FHD | Unknown status (302) | `https://a1xs.vip/210002` |
-| Sky Cinema Premiere FHD | Unknown status (302) | `https://a1xs.vip/210003` |
-| Sky Cinema Select FHD | Unknown status (302) | `https://a1xs.vip/210004` |
-| Sky Sports Cricket FHD | Unknown status (302) | `https://a1xs.vip/2000006` |
-| Sky Sports F1 FHD | Unknown status (302) | `https://a1xs.vip/2000005` |
-| Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
-| Sky Sports Mix FHD | Unknown status (302) | `https://a1xs.vip/2000008` |
+| SKY Sport 4 NZ | HTTP Error (403) | `https://a1xs.vip/700034` |
+| SKY Sport 5 NZ | HTTP Error (403) | `https://a1xs.vip/700035` |
+| SKY Sport 6 NZ | HTTP Error (403) | `https://a1xs.vip/700036` |
+| SKY Sport 7 NZ | HTTP Error (403) | `https://a1xs.vip/700037` |
+| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
+| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
 | Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports Tennis FHD | Unknown status (302) | `https://a1xs.vip/2000013` |
-| Sky Sports+ FHD | Unknown status (302) | `https://a1xs.vip/2000012` |
 ---
 #### Base Channels URL
 ```
