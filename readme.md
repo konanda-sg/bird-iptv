@@ -1,6 +1,6 @@
-## Base Log @ 2026-01-28 03:57 UTC
+## Base Log @ 2026-01-28 09:01 UTC
 
-### ✅ Working Streams: 208<br>❌ Dead Streams: 247
+### ✅ Working Streams: 203<br>❌ Dead Streams: 252
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,6 +9,7 @@
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
 | More True Crime | HTTP Error (403) | `https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8` |
+| PBS Food | HTTP Error (404) | `https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pluto TV Action | HTTP Error (403) | `https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8` |
 | Pluto TV Animals | HTTP Error (403) | `https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8` |
@@ -42,12 +43,12 @@
 | SKY Sport 5 NZ | HTTP Error (403) | `https://a1xs.vip/700035` |
 | SKY Sport 6 NZ | HTTP Error (403) | `https://a1xs.vip/700036` |
 | SKY Sport 7 NZ | HTTP Error (403) | `https://a1xs.vip/700037` |
-| Sky Sports Action FHD | HTTP Error (404) | `https://a1xs.vip/2000011` |
-| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
+| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
+| Sky Cinema Family FHD | HTTP Error (407) | `https://a1xs.vip/210007` |
+| Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
 | Sky Sports Main Event FHD | HTTP Error (401) | `https://a1xs.vip/2000001` |
 | Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
