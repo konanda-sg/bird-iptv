@@ -309,6 +309,9 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychan
 #EXTINF:-1 group-title="TV" tvg-id="Disney.Channel.dk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/disney-channel-dk.png",Disney Channel Nordic
 http://185.233.253.71:9981/stream/channelid/57476629?ticket=49EC5B3EB9B3E059206A2189D2605A2A501DE3C1&profile=pass
 
+#EXTINF:-1 tvg-id="Disney.Junior.za" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/disney-jr-uk.png" group-title="TV",Disney Jr. UK
+http://proxpanel.pro/live/Pete/stopoulos/709670.ts
+
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV", Disney XD
 http://nocable.cc:8080/91161088/91161088/75621
 
