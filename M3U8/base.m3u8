@@ -1216,7 +1216,7 @@ https://a1xs.vip/2000024
 https://a1xs.vip/2000031
 
 #EXTINF:-1 group-title="TV" tvg-id="Treehouse.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png",Treehouse
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3057.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3057.ts
 
 #EXTINF:-1 tvg-id="TRT1.HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TV",TRT 1
 http://212.252.72.103:7070/play/a007
