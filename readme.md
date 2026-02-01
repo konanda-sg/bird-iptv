@@ -1,6 +1,6 @@
-## Base Log @ 2026-02-01 14:54 UTC
+## Base Log @ 2026-02-01 20:52 UTC
 
-### ✅ Working Streams: 194<br>❌ Dead Streams: 263
+### ✅ Working Streams: 192<br>❌ Dead Streams: 265
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -43,11 +43,13 @@
 | SKY Sport 5 NZ | HTTP Error (403) | `https://a1xs.vip/700035` |
 | SKY Sport 6 NZ | HTTP Error (403) | `https://a1xs.vip/700036` |
 | SKY Sport 7 NZ | HTTP Error (403) | `https://a1xs.vip/700037` |
-| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
 | Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
+| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
 | Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
 | Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
+| Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
+| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
