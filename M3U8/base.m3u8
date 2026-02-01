@@ -1357,7 +1357,7 @@ http://nocable.cc:8080/91161088/91161088/41979
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="YTV.ca2" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV
-http://restream-live.realiptv.to:8080/live/19742329/27604387/647755.ts
+http://38.22.17.91:14584/
 
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="TV",Ziggo Sport FHD
 https://a1xs.vip/140001
