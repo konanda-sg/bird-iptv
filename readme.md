@@ -1,6 +1,6 @@
-## Base Log @ 2026-02-02 09:11 UTC
+## Base Log @ 2026-02-02 15:09 UTC
 
-### ✅ Working Streams: 210<br>❌ Dead Streams: 247
+### ✅ Working Streams: 215<br>❌ Dead Streams: 242
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -43,8 +43,8 @@
 | SKY Sport 6 NZ | HTTP Error (403) | `https://a1xs.vip/700036` |
 | SKY Sport 7 NZ | HTTP Error (403) | `https://a1xs.vip/700037` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
-| Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
+| Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
+| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
 ---
 #### Base Channels URL
 ```
