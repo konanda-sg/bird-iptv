@@ -1,9 +1,10 @@
-## Base Log @ 2026-02-02 04:37 UTC
+## Base Log @ 2026-02-02 09:11 UTC
 
-### ✅ Working Streams: 197<br>❌ Dead Streams: 260
+### ✅ Working Streams: 210<br>❌ Dead Streams: 247
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| 9 Story Presents: Garfield and Friends | Unknown status (302) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
@@ -42,13 +43,8 @@
 | SKY Sport 6 NZ | HTTP Error (403) | `https://a1xs.vip/700036` |
 | SKY Sport 7 NZ | HTTP Error (403) | `https://a1xs.vip/700037` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
 | Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
-| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
-| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Vevo '70s | HTTP Error (404) | `https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8` |
-| Vevo 2K | HTTP Error (404) | `https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8` |
-| Vevo Pop | HTTP Error (404) | `https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8` |
+| Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
 ---
 #### Base Channels URL
 ```
