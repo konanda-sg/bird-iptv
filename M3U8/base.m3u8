@@ -940,7 +940,7 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=30522&ext
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=30521&extension=ts
 
 #EXTINF:-1 tvg-id="RTEjr.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/RTÉ_KIDSjr.svg/960px-RTÉ_KIDSjr.svg.png" group-title="TV",RTÈ KIDSjr
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=139649&extension=ts
+http://41.180.140.146:4200/bysid/2117
 
 #EXTINF:-1 tvg-id="SABC.1.HD.za" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-1-za.png",SABC 1
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=30377&extension=ts
