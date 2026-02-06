@@ -609,6 +609,9 @@ http://cdnhome.pro/live/C75V49V5/38087123/135777.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Ketnet.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/ketnet-be.png",Ketnet
 http://mtayeh.ottb.xyz:80/live/774710333494/659822672281/18691.ts
 
+#EXTINF:-1 group-title="TV" tvg-id="Kidzone.Max.HD.lv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/KidZone_Max.png",KidZone Max LV
+http://cynessa.ottb.xyz/live/793456282871/574640256572/22970.ts
+
 #EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/kika-de.png" group-title="TV",KIKA
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 
