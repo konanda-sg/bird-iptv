@@ -1,6 +1,6 @@
-## Base Log @ 2026-02-06 21:01 UTC
+## Base Log @ 2026-02-07 04:21 UTC
 
-### ✅ Working Streams: 205<br>❌ Dead Streams: 252
+### ✅ Working Streams: 210<br>❌ Dead Streams: 248
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -36,12 +36,10 @@
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | SKY Sport 3 NZ | Unknown status (302) | `https://a1xs.vip/700033` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
-| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
+| Sky Cinema Family FHD | Unknown status (302) | `https://a1xs.vip/210007` |
 | Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
-| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
-| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
+| Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
+| pocket.watch Game-On | HTTP Error (404) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 | quant | HTTP Error (404) | `https://haus.webchnl.com/memfs/5363cc83-1baa-4dfa-a651-bed715736d6e.m3u8` |
 ---
 #### Base Channels URL
