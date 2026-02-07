@@ -943,7 +943,7 @@ http://nocable.cc:8080/91161088/91161088/85232
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=30522&extension=ts
 
 #EXTINF:-1 tvg-id="RTE.Two.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-ie.png" group-title="TV",RTÉ2
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=30521&extension=ts
+http://84.203.199.78:9981/stream/channelid/966397051?profile=pass
 
 #EXTINF:-1 tvg-id="RTEjr.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/RTÉ_KIDSjr.svg/960px-RTÉ_KIDSjr.svg.png" group-title="TV",RTÈ KIDSjr
 http://41.180.140.146:4200/bysid/2117
