@@ -1203,6 +1203,21 @@ http://nocable.cc:8080/91161088/91161088/12734
 #EXTINF:-1 tvg-id="Canal.Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png" group-title="TV", Tooncast
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=276300&extension=ts
 
+#EXTINF:-1 tvg-name="Totalmusic" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic.png" group-title="TV",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="Totalmusic 80s" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic80s.png" group-title="TV",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="Totalmusic 00s" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic00s.png" group-title="TV",Totalmusic 00s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="Totalmusic Concerts" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicconcerts.png" group-title="TV",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="Totalmusic Dance" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicdance.png" group-title="TV",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="TV", TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
