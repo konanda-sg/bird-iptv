@@ -1,6 +1,6 @@
-## Base Log @ 2026-02-08 04:45 UTC
+## Base Log @ 2026-02-08 09:00 UTC
 
-### ✅ Working Streams: 219<br>❌ Dead Streams: 246
+### ✅ Working Streams: 218<br>❌ Dead Streams: 247
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -10,7 +10,7 @@
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
 | More True Crime | HTTP Error (403) | `https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8` |
-| POP UP | HTTP Error (500) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
+| POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pluto TV Action | HTTP Error (403) | `https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8` |
 | Pluto TV Animals | HTTP Error (403) | `https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8` |
 | Pluto TV Animation | HTTP Error (403) | `https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8` |
@@ -37,10 +37,11 @@
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Sports Action FHD | HTTP Error (404) | `https://a1xs.vip/2000011` |
-| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
-| Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
-| pocket.watch Game-On | HTTP Error (500) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
+| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
+| Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
+| Sky Sports Main Event FHD | HTTP Error (403) | `https://a1xs.vip/2000001` |
+| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
+| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
 | quant | HTTP Error (404) | `https://haus.webchnl.com/memfs/5363cc83-1baa-4dfa-a651-bed715736d6e.m3u8` |
 ---
 #### Base Channels URL
