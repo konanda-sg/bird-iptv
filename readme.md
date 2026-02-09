@@ -1,6 +1,6 @@
-## Base Log @ 2026-02-08 20:54 UTC
+## Base Log @ 2026-02-09 04:41 UTC
 
-### ✅ Working Streams: 215<br>❌ Dead Streams: 250
+### ✅ Working Streams: 218<br>❌ Dead Streams: 247
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -36,8 +36,6 @@
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
-| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
 | Sky Sports F1 FHD | HTTP Error (404) | `https://a1xs.vip/2000004` |
 | Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
 | Sky Sports Premier League FHD | HTTP Error (404) | `https://a1xs.vip/2000002` |
