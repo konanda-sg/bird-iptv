@@ -1,18 +1,19 @@
-## Base Log @ 2026-02-13 04:35 UTC
+## Base Log @ 2026-02-13 09:12 UTC
 
-### ✅ Working Streams: 152<br>❌ Dead Streams: 313
+### ✅ Working Streams: 154<br>❌ Dead Streams: 313
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| 9 Story Presents: Garfield and Friends | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
-| FilmRise British TV | HTTP Error (404) | `https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8` |
-| FilmRise Classic TV | HTTP Error (404) | `https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8` |
-| FilmRise Creators | HTTP Error (404) | `https://jmp2.uk/rok-067e6b6fa36352ad8984a8d97c9a39d4.m3u8` |
+| FilmRise Free Movies | HTTP Error (404) | `https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8` |
+| FilmRise Western | HTTP Error (404) | `https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
 | More True Crime | HTTP Error (403) | `https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
+| Pink Panther | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Action | HTTP Error (403) | `https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8` |
 | Pluto TV Animals | HTTP Error (403) | `https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8` |
 | Pluto TV Animation | HTTP Error (403) | `https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8` |
@@ -40,11 +41,8 @@
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
 | Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
-| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
 | Sky Sports F1 FHD | Unknown status (301) | `https://a1xs.vip/2000004` |
 | Sky Sports Main Event FHD | HTTP Error (403) | `https://a1xs.vip/2000001` |
-| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
 | Ziggo Sport 2 FHD | HTTP Error (406) | `https://a1xs.vip/140002` |
 | Ziggo Sport 3 FHD | HTTP Error (406) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | HTTP Error (406) | `https://a1xs.vip/140004` |
