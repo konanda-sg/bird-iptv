@@ -1374,6 +1374,12 @@ http://176.65.146.138:8047/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="Whakaata.MÄori.nz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/maori-television-nz.png" group-title="TV", Whakaata Māori
 https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/index_4.m3u8
 
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplash.png?v=1761887819" group-title="TV",Whiplash
+https://haus.webchnl.com/memfs/fe3e4302-97f6-44b1-b407-db8b59256cde.m3u8
+
+#EXTINF:-1 tvg-id="whiplashcinema" tvg-name="Whiplash Cinema" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashcinema.png?v=1761887820" group-title="TV",Whiplash Cinema
+https://haus.webchnl.com/memfs/fc30cd88-f7c3-4b06-b481-810939220ade.m3u8
+
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" group-title="TV", Willow Cricket
 http://nocable.cc:8080/91161088/91161088/41979
 
