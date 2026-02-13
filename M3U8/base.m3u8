@@ -312,6 +312,9 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychan
 #EXTINF:-1 group-title="TV" tvg-id="Disney.Channel.dk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/disney-channel-dk.png",Disney Channel Nordic
 http://185.233.253.71:9981/stream/channelid/57476629?ticket=49EC5B3EB9B3E059206A2189D2605A2A501DE3C1&profile=pass
 
+#EXTINF:-1 tvg-id="none" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="TV",Disney Jr. IT
+http://91.146.94.234:10001/play/a0f6
+
 #EXTINF:-1 tvg-id="Disney.Junior.za" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/disney-jr-uk.png" group-title="TV",Disney Jr. UK
 http://proxpanel.pro/live/Pete/stopoulos/709670.ts
 
@@ -1203,6 +1206,9 @@ http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=13622&
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="TV", TLC
 http://nocable.cc:8080/91161088/91161088/12734
 
+#EXTINF:-1 tvg-id="TLC.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-uk.png" group-title="TV",TLC UK
+http://cynessa.ottb.xyz/live/793456282871/574640256572/17604.ts
+
 #EXTINF:-1 tvg-id="Canal.Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png" group-title="TV", Tooncast
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=276300&extension=ts
 
@@ -1383,11 +1389,17 @@ https://haus.webchnl.com/memfs/fc30cd88-f7c3-4b06-b481-810939220ade.m3u8
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" group-title="TV", Willow Cricket
 http://nocable.cc:8080/91161088/91161088/41979
 
+#EXTINF:-1 tvg-id="windowtv" tvg-name="Window TV" tvg-logo="https://webchnl.com/assets/img/channelicons/windowtv.png?v=1768140412" group-title="TV",Window TV
+https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8
+
 #EXTINF:-1 tvg-id="Yes.Network.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV", YES Network
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="YTV.ca2" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV
 http://38.22.17.91:14584/
+
+#EXTINF:-1 tvg-id="zenith" tvg-name="zén!th" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png?v=1770242745" group-title="TV",zén!th
+https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
 
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="TV",Ziggo Sport FHD
 https://a1xs.vip/140001
