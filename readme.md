@@ -1,10 +1,11 @@
-## Base Log @ 2026-02-14 04:23 UTC
+## Base Log @ 2026-02-14 09:00 UTC
 
 ### ✅ Working Streams: 161<br>❌ Dead Streams: 310
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
+| FilmRise British TV | HTTP Error (404) | `https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
@@ -37,7 +38,15 @@
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
 | Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
-| Sky Sports F1 FHD | Unknown status (301) | `https://a1xs.vip/2000004` |
+| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
+| Sky Sports Golf FHD | Unknown status (301) | `https://a1xs.vip/2000009` |
+| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
+| Sky Sports Premier League FHD | Unknown status (301) | `https://a1xs.vip/2000002` |
+| Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
+| Vevo '80s | Connection timed out (000) | `https://jmp2.uk/rok-fd8d765f98605129914b581147e7e8b2.m3u8` |
+| Vevo '90s | Connection timed out (000) | `https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8` |
+| Vevo Hip-Hop | Connection timed out (000) | `https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8` |
+| Vevo Reggaeton & Trap | Connection timed out (000) | `https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8` |
 | Ziggo Sport 2 FHD | HTTP Error (406) | `https://a1xs.vip/140002` |
 | Ziggo Sport 3 FHD | HTTP Error (406) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | HTTP Error (406) | `https://a1xs.vip/140004` |
