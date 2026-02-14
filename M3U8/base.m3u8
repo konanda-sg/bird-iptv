@@ -606,6 +606,9 @@ http://173.229.4.245:5004/auto/v28
 #EXTINF:-1 tvg-id="J-One.fr tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/J-One.png" group-title="TV",J-One
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=506578&extension=ts
 
+#EXTINF:-1 group-title="TV" tvg-id="jetixonline" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/TheJetixLogo.svg/500px-TheJetixLogo.svg.png",Jetix Online
+https://vs20.live.opencaster.com/jetixonlinetv_86368752/index.m3u8
+
 #EXTINF:-1 tvg-id="Jim.Jam.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/jimjam-int.png" group-title="TV",JimJam 
 https://tvh.cyn.cz/stream/channelid/1256887444?profile=pass
 
