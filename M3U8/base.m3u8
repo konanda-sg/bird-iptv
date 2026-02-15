@@ -1398,6 +1398,12 @@ https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8
 #EXTINF:-1 tvg-id="Yes.Network.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV", YES Network
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="YLE.TV1.fi" tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="TV",Yle TV1
+https://live-fi.tvkaista.net/yle-tv1/live.m3u8?hd=true
+
+#EXTINF:-1 tvg-id="YLE.TV2.fi" tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="TV",Yle TV2
+https://live-fi.tvkaista.net/yle-tv2/live.m3u8?hd=true
+
 #EXTINF:-1 group-title="TV" tvg-id="YTV.ca2" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV
 http://38.22.17.91:14584/
 
