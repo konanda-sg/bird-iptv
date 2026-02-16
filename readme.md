@@ -1,11 +1,9 @@
-## Base Log @ 2026-02-15 20:54 UTC
+## Base Log @ 2026-02-16 04:40 UTC
 
-### ✅ Working Streams: 167<br>❌ Dead Streams: 307
+### ✅ Working Streams: 159<br>❌ Dead Streams: 315
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
-| FilmRise Black TV | HTTP Error (404) | `https://jmp2.uk/rok-885d5897052b53709a83c4947174cd09.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
@@ -38,6 +36,7 @@
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
 | Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
+| Sky Sports F1 FHD | Unknown status (301) | `https://a1xs.vip/2000004` |
 | Ziggo Sport 2 FHD | HTTP Error (406) | `https://a1xs.vip/140002` |
 | Ziggo Sport 3 FHD | HTTP Error (406) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | HTTP Error (406) | `https://a1xs.vip/140004` |
