@@ -1,12 +1,10 @@
-## Base Log @ 2026-02-17 15:15 UTC
+## Base Log @ 2026-02-17 21:05 UTC
 
-### ✅ Working Streams: 159<br>❌ Dead Streams: 316
+### ✅ Working Streams: 154<br>❌ Dead Streams: 321
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
-| Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
 | More True Crime | HTTP Error (403) | `https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8` |
@@ -36,7 +34,6 @@
 | Pluto TV Space | HTTP Error (403) | `https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8` |
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
-| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
 | Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
 | Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
