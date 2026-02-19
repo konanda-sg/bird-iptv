@@ -1,9 +1,10 @@
-## Base Log @ 2026-02-18 21:07 UTC
+## Base Log @ 2026-02-19 04:34 UTC
 
-### ✅ Working Streams: 166<br>❌ Dead Streams: 309
+### ✅ Working Streams: 170<br>❌ Dead Streams: 305
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
@@ -34,11 +35,10 @@
 | Pluto TV Space | HTTP Error (403) | `https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8` |
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
-| Sky Atlantic FHD | HTTP Error (403) | `https://a1xs.vip/210001` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Sports F1 FHD | Unknown status (301) | `https://a1xs.vip/2000004` |
 | Sky Sports Golf FHD | Unknown status (301) | `https://a1xs.vip/2000009` |
 | Sky Sports Premier League FHD | Unknown status (301) | `https://a1xs.vip/2000002` |
+| Vevo '70s | HTTP Error (404) | `https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8` |
 | Ziggo Sport 2 FHD | HTTP Error (406) | `https://a1xs.vip/140002` |
 | Ziggo Sport 3 FHD | HTTP Error (406) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | HTTP Error (406) | `https://a1xs.vip/140004` |
