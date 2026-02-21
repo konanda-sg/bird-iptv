@@ -1,6 +1,6 @@
-## Base Log @ 2026-02-21 08:58 UTC
+## Base Log @ 2026-02-21 14:56 UTC
 
-### ✅ Working Streams: 156<br>❌ Dead Streams: 319
+### ✅ Working Streams: 135<br>❌ Dead Streams: 340
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -35,19 +35,26 @@
 | Pluto TV Space | HTTP Error (403) | `https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8` |
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
-| Sky Atlantic FHD | HTTP Error (403) | `https://a1xs.vip/210001` |
-| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
+| Sky Atlantic FHD | Unknown status (302) | `https://a1xs.vip/210001` |
+| Sky Cinema Action FHD | Unknown status (302) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
-| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
-| Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
-| Sky Sports Premier League FHD | Unknown status (301) | `https://a1xs.vip/2000002` |
-| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
+| Sky Cinema Hits FHD | Unknown status (302) | `https://a1xs.vip/210002` |
+| Sky Cinema Premiere FHD | Unknown status (302) | `https://a1xs.vip/210003` |
+| Sky Cinema Select FHD | Unknown status (302) | `https://a1xs.vip/210004` |
+| Sky Sports Cricket FHD | Unknown status (302) | `https://a1xs.vip/2000006` |
+| Sky Sports F1 FHD | Unknown status (301) | `https://a1xs.vip/2000004` |
+| Sky Sports F1 FHD | Unknown status (302) | `https://a1xs.vip/2000005` |
+| Sky Sports Main Event FHD | Unknown status (302) | `https://a1xs.vip/2000001` |
+| Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
+| Sky Sports Mix FHD | Unknown status (302) | `https://a1xs.vip/2000008` |
+| Sky Sports Racing FHD | Unknown status (302) | `https://a1xs.vip/2000010` |
+| Sky Sports Tennis FHD | Unknown status (302) | `https://a1xs.vip/2000013` |
+| Sky Sports+ FHD | Unknown status (302) | `https://a1xs.vip/2000012` |
 | Ziggo Sport 2 FHD | HTTP Error (406) | `https://a1xs.vip/140002` |
 | Ziggo Sport 3 FHD | HTTP Error (406) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | HTTP Error (406) | `https://a1xs.vip/140004` |
 | Ziggo Sport FHD | HTTP Error (406) | `https://a1xs.vip/140001` |
+| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
