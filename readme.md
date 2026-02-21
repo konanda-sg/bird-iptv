@@ -1,6 +1,6 @@
-## Base Log @ 2026-02-21 14:56 UTC
+## Base Log @ 2026-02-21 20:52 UTC
 
-### ✅ Working Streams: 135<br>❌ Dead Streams: 340
+### ✅ Working Streams: 144<br>❌ Dead Streams: 331
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -44,8 +44,8 @@
 | Sky Sports Cricket FHD | Unknown status (302) | `https://a1xs.vip/2000006` |
 | Sky Sports F1 FHD | Unknown status (301) | `https://a1xs.vip/2000004` |
 | Sky Sports F1 FHD | Unknown status (302) | `https://a1xs.vip/2000005` |
+| Sky Sports Golf FHD | Unknown status (301) | `https://a1xs.vip/2000009` |
 | Sky Sports Main Event FHD | Unknown status (302) | `https://a1xs.vip/2000001` |
-| Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
 | Sky Sports Mix FHD | Unknown status (302) | `https://a1xs.vip/2000008` |
 | Sky Sports Racing FHD | Unknown status (302) | `https://a1xs.vip/2000010` |
 | Sky Sports Tennis FHD | Unknown status (302) | `https://a1xs.vip/2000013` |
@@ -54,7 +54,6 @@
 | Ziggo Sport 3 FHD | HTTP Error (406) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | HTTP Error (406) | `https://a1xs.vip/140004` |
 | Ziggo Sport FHD | HTTP Error (406) | `https://a1xs.vip/140001` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
