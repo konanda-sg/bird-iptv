@@ -1,11 +1,10 @@
-## Base Log @ 2026-02-24 15:34 UTC
+## Base Log @ 2026-02-24 21:06 UTC
 
-### ✅ Working Streams: 154<br>❌ Dead Streams: 321
+### ✅ Working Streams: 148<br>❌ Dead Streams: 327
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | HTTP Error (459) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
-| DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
@@ -38,12 +37,11 @@
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | Sky Atlantic FHD | HTTP Error (403) | `https://a1xs.vip/210001` |
-| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
+| Sky Cinema Action FHD | Unknown status (302) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
 | Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
 | Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
-| Sky Sports Golf FHD | Unknown status (301) | `https://a1xs.vip/2000009` |
-| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
+| Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
 ---
 #### Base Channels URL
 ```
