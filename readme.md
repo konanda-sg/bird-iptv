@@ -1,10 +1,11 @@
-## Base Log @ 2026-02-25 09:30 UTC
+## Base Log @ 2026-02-25 15:35 UTC
 
-### ✅ Working Streams: 159<br>❌ Dead Streams: 316
+### ✅ Working Streams: 156<br>❌ Dead Streams: 319
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | HTTP Error (459) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
+| DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
@@ -36,12 +37,16 @@
 | Pluto TV Space | HTTP Error (403) | `https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8` |
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
-| SKY Sport 2 NZ | Unknown status (302) | `https://a1xs.vip/700032` |
-| SKY Sport 4 NZ | Unknown status (302) | `https://a1xs.vip/700034` |
+| SKY Sport 3 NZ | HTTP Error (403) | `https://a1xs.vip/700033` |
+| SKY Sport 4 NZ | HTTP Error (403) | `https://a1xs.vip/700034` |
+| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
 | Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
+| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
+| Sky Sports F1 UHD | HTTP Error (403) | `https://a1xs.vip/2000016` |
+| Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
+| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 ---
 #### Base Channels URL
 ```
