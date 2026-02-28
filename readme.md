@@ -1,6 +1,6 @@
-## Base Log @ 2026-02-27 20:56 UTC
+## Base Log @ 2026-02-28 04:09 UTC
 
-### ✅ Working Streams: 159<br>❌ Dead Streams: 316
+### ✅ Working Streams: 161<br>❌ Dead Streams: 314
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -10,7 +10,6 @@
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
 | More True Crime | HTTP Error (403) | `https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8` |
-| PBS Food | HTTP Error (404) | `https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | HTTP Error (459) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Action | HTTP Error (403) | `https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8` |
@@ -39,17 +38,9 @@
 | Pluto TV Thrillers | HTTP Error (403) | `https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8` |
 | Pluto TV Westerns | HTTP Error (403) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | SKY Sport 4 NZ | HTTP Error (403) | `https://a1xs.vip/700034` |
-| Sky Atlantic FHD | HTTP Error (403) | `https://a1xs.vip/210001` |
-| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
-| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
-| Sky Sport PL NZ | HTTP Error (403) | `https://a1xs.vip/700008` |
-| Sky Sports F1 UHD | HTTP Error (403) | `https://a1xs.vip/2000016` |
+| Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
 | Sky Sports Golf FHD | Unknown status (301) | `https://a1xs.vip/2000009` |
-| Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
-| Sky Sports Tennis FHD | HTTP Error (403) | `https://a1xs.vip/2000013` |
-| Sky Sports+ FHD | HTTP Error (403) | `https://a1xs.vip/2000012` |
 ---
 #### Base Channels URL
 ```
