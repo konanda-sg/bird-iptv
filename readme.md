@@ -1,6 +1,6 @@
-## Base Log @ 2026-02-28 20:51 UTC
+## Base Log @ 2026-03-01 04:37 UTC
 
-### ✅ Working Streams: 170<br>❌ Dead Streams: 303
+### ✅ Working Streams: 187<br>❌ Dead Streams: 286
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -39,11 +39,7 @@
 | Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
 | Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
-| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
-| Sky Sports Golf FHD | Unknown status (301) | `https://a1xs.vip/2000009` |
-| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Window TV | HTTP Error (404) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
+| Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
 ---
 #### Base Channels URL
 ```
