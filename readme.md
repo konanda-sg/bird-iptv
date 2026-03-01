@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-01 04:37 UTC
+## Base Log @ 2026-03-01 08:57 UTC
 
-### ✅ Working Streams: 187<br>❌ Dead Streams: 286
+### ✅ Working Streams: 180<br>❌ Dead Streams: 293
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -38,8 +38,10 @@
 | SKY Sport 4 NZ | HTTP Error (403) | `https://a1xs.vip/700034` |
 | Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
-| Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
+| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
+| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
+| Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
+| Window TV | HTTP Error (404) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
 ---
 #### Base Channels URL
 ```
