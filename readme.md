@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-02 04:29 UTC
+## Base Log @ 2026-03-02 09:11 UTC
 
-### ✅ Working Streams: 181<br>❌ Dead Streams: 292
+### ✅ Working Streams: 192<br>❌ Dead Streams: 281
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -38,7 +38,6 @@
 | SKY Sport 4 NZ | HTTP Error (403) | `https://a1xs.vip/700034` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
 | Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
