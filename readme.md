@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-05 04:26 UTC
+## Base Log @ 2026-03-05 09:10 UTC
 
-### ✅ Working Streams: 193<br>❌ Dead Streams: 280
+### ✅ Working Streams: 199<br>❌ Dead Streams: 274
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -12,9 +12,10 @@
 | Sky Cinema Hits FHD | HTTP Error (404) | `https://a1xs.vip/210002` |
 | Sky Cinema Premiere FHD | HTTP Error (404) | `https://a1xs.vip/210003` |
 | Sky Cinema Select FHD | HTTP Error (404) | `https://a1xs.vip/210004` |
-| Sky Sports F1 UHD | HTTP Error (403) | `https://a1xs.vip/2000016` |
+| Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
 | Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
 | Sky Sports Racing FHD | HTTP Error (404) | `https://a1xs.vip/2000010` |
+| Vevo Pop | HTTP Error (404) | `https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8` |
 ---
 #### Base Channels URL
 ```
