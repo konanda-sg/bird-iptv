@@ -1,20 +1,20 @@
-## Base Log @ 2026-03-04 21:00 UTC
+## Base Log @ 2026-03-05 04:26 UTC
 
-### ✅ Working Streams: 195<br>❌ Dead Streams: 278
+### ✅ Working Streams: 193<br>❌ Dead Streams: 280
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | SKY Sport 4 NZ | HTTP Error (403) | `https://a1xs.vip/700034` |
-| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
+| Sky Cinema Action FHD | HTTP Error (404) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
-| Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
-| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
-| Sky Sports Golf FHD | Unknown status (301) | `https://a1xs.vip/2000009` |
-| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
-| Window TV | HTTP Error (404) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
+| Sky Cinema Hits FHD | HTTP Error (404) | `https://a1xs.vip/210002` |
+| Sky Cinema Premiere FHD | HTTP Error (404) | `https://a1xs.vip/210003` |
+| Sky Cinema Select FHD | HTTP Error (404) | `https://a1xs.vip/210004` |
+| Sky Sports F1 UHD | HTTP Error (403) | `https://a1xs.vip/2000016` |
+| Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
+| Sky Sports Racing FHD | HTTP Error (404) | `https://a1xs.vip/2000010` |
 ---
 #### Base Channels URL
 ```
