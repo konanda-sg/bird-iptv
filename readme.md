@@ -1,21 +1,22 @@
-## Base Log @ 2026-03-05 09:10 UTC
+## Base Log @ 2026-03-05 15:15 UTC
 
-### ✅ Working Streams: 199<br>❌ Dead Streams: 274
+### ✅ Working Streams: 198<br>❌ Dead Streams: 275
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| 9 Story Presents: Garfield and Friends | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
+| Pink Panther | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | SKY Sport 4 NZ | HTTP Error (403) | `https://a1xs.vip/700034` |
-| Sky Cinema Action FHD | HTTP Error (404) | `https://a1xs.vip/210006` |
+| Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (404) | `https://a1xs.vip/210005` |
-| Sky Cinema Hits FHD | HTTP Error (404) | `https://a1xs.vip/210002` |
-| Sky Cinema Premiere FHD | HTTP Error (404) | `https://a1xs.vip/210003` |
-| Sky Cinema Select FHD | HTTP Error (404) | `https://a1xs.vip/210004` |
+| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
+| Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
+| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sports Action FHD | Unknown status (301) | `https://a1xs.vip/2000011` |
-| Sky Sports Main Event UHD | HTTP Error (403) | `https://a1xs.vip/2000015` |
-| Sky Sports Racing FHD | HTTP Error (404) | `https://a1xs.vip/2000010` |
-| Vevo Pop | HTTP Error (404) | `https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8` |
+| Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
+| Window TV | HTTP Error (404) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
 ---
 #### Base Channels URL
 ```
