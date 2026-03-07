@@ -1062,6 +1062,9 @@ http://portal5458.com:8080/live/DBeverly/2290061890/47830.ts
 #EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="TV",Sky News
 http://173.229.4.245:5004/auto/v233
 
+#EXTINF:-1 tvg-id="Sky.Showcase.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-one-uk.png" group-title="TV",Sky One
+http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:24:1B:38&stream=780566&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-witness-uk.png" group-title="TV",Sky Witness
 http://cynessa.ottb.xyz/live/793456282871/574640256572/17650.ts
 
