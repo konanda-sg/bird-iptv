@@ -640,7 +640,7 @@ http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1349&e
 http://45.95.78.232:8001/udp/239.106.80.1:5000
 
 #EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png" group-title="TV", La 2
-http://45.90.106.85:9090/278841_.m3u8
+http://45.95.78.232:8001/udp/239.106.80.2:5000
 
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="TV", Lifetime
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
