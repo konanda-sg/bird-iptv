@@ -517,7 +517,7 @@ http://nocable.cc:8080/91161088/91161088/46699
 http://fl1.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 tvg-id="Game.One.fr tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Game_One_2024.jpg" group-title="TV",Game One
-http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
+https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="TV", Game Show Network
 http://nocable.cc:8080/91161088/91161088/120633
@@ -610,7 +610,7 @@ https://a1xs.vip/1000014
 http://173.229.4.245:5004/auto/v28
 
 #EXTINF:-1 tvg-id="J-One.fr tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/J-One.png" group-title="TV",J-One
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=506578&extension=ts
+https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
 
 #EXTINF:-1 group-title="TV" tvg-id="jetixonline" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/TheJetixLogo.svg/500px-TheJetixLogo.svg.png",Jetix Online
 https://vs20.live.opencaster.com/jetixonlinetv_86368752/index.m3u8
