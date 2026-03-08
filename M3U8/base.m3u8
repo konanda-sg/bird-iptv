@@ -285,6 +285,9 @@ https://rhine.webchnl.live/memfs/857d48b9-8a6c-44a8-ae47-a064fe7dbda1.m3u8
 #EXTINF:-1 tvg-id="WKCF-DT.us_locals1" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="TV", CW
 http://nocable.cc:8080/91161088/91161088/120893
 
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dea-kids-it.png" group-title="TV",DeAKids
+http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:24:1B:38&stream=821388&extension=ts
+
 #EXTINF:-1 tvg-id="dijit" tvg-name="DIJIT / Joy.Rebel" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/2/26/Dijit_Logo.png/600px-Dijit_Logo.png" group-title="TV",DIJIT / Joy.Rebel
 https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8
 
