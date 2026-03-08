@@ -637,10 +637,10 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1349&extension=ts
 
 #EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png" group-title="TV", La 1
-http://176.65.146.237:8401/play/a095/index.m3u8
+http://45.95.78.232:8001/udp/239.106.80.1:5000
 
 #EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png" group-title="TV", La 2
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+http://45.90.106.85:9090/278841_.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="TV", Lifetime
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
