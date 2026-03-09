@@ -1,15 +1,15 @@
-## Base Log @ 2026-03-09 04:32 UTC
+## Base Log @ 2026-03-09 09:11 UTC
 
-### ✅ Working Streams: 203<br>❌ Dead Streams: 272
+### ✅ Working Streams: 208<br>❌ Dead Streams: 267
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
+| Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
-| Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
-| Sky Sports F1 UHD | HTTP Error (403) | `https://a1xs.vip/2000016` |
-| Sky Sports Golf FHD | Unknown status (301) | `https://a1xs.vip/2000009` |
+| Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
+| Ziggo Sport 2 FHD | Unknown status (302) | `https://a1xs.vip/140002` |
 ---
 #### Base Channels URL
 ```
