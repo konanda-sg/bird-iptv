@@ -48,7 +48,7 @@ http://115.69.40.212:55555/9Life%20Newcastle
 #EXTINF:-1 tvg-id="9RushSydney.au" group-title="TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/9-rush-au.png",9Rush
 http://44.32.200.212:5004/auto/v96
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-chno="" tvg-name="9 Story Presents: Garfield and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87269d0e-0209-4bae-b5bc-aa42e2ba7aa5/Garfield_Friends_LogoColorRDX.png" group-title="TV",9 Story Presents: Garfield and Friends
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-chno="4701" tvg-name="9 Story Presents: Garfield and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87269d0e-0209-4bae-b5bc-aa42e2ba7aa5/Garfield_Friends_LogoColorRDX.png" group-title="TV",9 Story Presents: Garfield and Friends
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts
 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV", A&E TV
@@ -87,7 +87,7 @@ http://nocable.cc:8080/91161088/91161088/18925
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="TV", Animal Planet
 http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 channel-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-chno="" tvg-name="Animation+" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b54188672a6acb8d3e4c6b9e71a3a7c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731519594723_AnimationPlus_Hud_Logo_260x147_no_frame_alpha.png" group-title="TV",Animation+
+#EXTINF:-1 channel-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-chno="4734" tvg-name="Animation+" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b54188672a6acb8d3e4c6b9e71a3a7c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731519594723_AnimationPlus_Hud_Logo_260x147_no_frame_alpha.png" group-title="TV",Animation+
 https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8
 
 #EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="TV", Aspire
@@ -241,7 +241,7 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/19.m3u8
 http://iptv.kilas7.com/live/kaukia/asdfrewq/21.m3u8
 
 #EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clan-es.png" group-title="TV", Clan
-https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+http://45.95.78.232:8001/udp/239.106.80.3:5000
 
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="TV", CMT
 https://fl1.moveonjoy.com/CMT/index.m3u8
@@ -284,6 +284,9 @@ https://rhine.webchnl.live/memfs/857d48b9-8a6c-44a8-ae47-a064fe7dbda1.m3u8
 
 #EXTINF:-1 tvg-id="WKCF-DT.us_locals1" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="TV", CW
 http://nocable.cc:8080/91161088/91161088/120893
+
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dea-kids-it.png" group-title="TV",DeAKids
+http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:24:1B:38&stream=821388&extension=ts
 
 #EXTINF:-1 tvg-id="dijit" tvg-name="DIJIT / Joy.Rebel" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/2/26/Dijit_Logo.png/600px-Dijit_Logo.png" group-title="TV",DIJIT / Joy.Rebel
 https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8
@@ -402,49 +405,49 @@ https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://i.ibb.co/dwLfJ590/film4.png" group-title="TV", Film4 FHD
 https://a1xs.vip/1000035
 
-#EXTINF:-1 channel-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-chno="" tvg-name="FilmRise Action" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0abef49cfd6759b18f2ce64290cbdda3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001245461_RokuChannel_FilmRiseAction_HUD_Logo_260x147.png" group-title="TV",FilmRise Action
+#EXTINF:-1 channel-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-chno="4001" tvg-name="FilmRise Action" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0abef49cfd6759b18f2ce64290cbdda3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001245461_RokuChannel_FilmRiseAction_HUD_Logo_260x147.png" group-title="TV",FilmRise Action
 https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8
 
-#EXTINF:-1 channel-id="885d5897052b53709a83c4947174cd09" tvg-id="885d5897052b53709a83c4947174cd09" tvg-chno="" tvg-name="FilmRise Black TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/885d5897052b53709a83c4947174cd09/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158148154_RokuChannel_FilmRiseBlackTV_HUD_Logo_260x147.png" group-title="TV",FilmRise Black TV
+#EXTINF:-1 channel-id="885d5897052b53709a83c4947174cd09" tvg-id="885d5897052b53709a83c4947174cd09" tvg-chno="4002" tvg-name="FilmRise Black TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/885d5897052b53709a83c4947174cd09/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158148154_RokuChannel_FilmRiseBlackTV_HUD_Logo_260x147.png" group-title="TV",FilmRise Black TV
 https://jmp2.uk/rok-885d5897052b53709a83c4947174cd09.m3u8
 
-#EXTINF:-1 channel-id="dead0e7a46da533c94c61c8710ef3418" tvg-id="dead0e7a46da533c94c61c8710ef3418" tvg-chno="" tvg-name="FilmRise British TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001306928_RokuChannel_FilmRiseBritishTV_HUD_Logo_260x147.png" group-title="TV",FilmRise British TV
+#EXTINF:-1 channel-id="dead0e7a46da533c94c61c8710ef3418" tvg-id="dead0e7a46da533c94c61c8710ef3418" tvg-chno="4003" tvg-name="FilmRise British TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001306928_RokuChannel_FilmRiseBritishTV_HUD_Logo_260x147.png" group-title="TV",FilmRise British TV
 https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8
 
-#EXTINF:-1 channel-id="e2e10d08139b56aba73a448f5555b6fd" tvg-id="e2e10d08139b56aba73a448f5555b6fd" tvg-chno="" tvg-name="FilmRise Classic TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2e10d08139b56aba73a448f5555b6fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450928764_FilmRise-ClassicTV_260x147_copy.png" group-title="TV",FilmRise Classic TV
+#EXTINF:-1 channel-id="e2e10d08139b56aba73a448f5555b6fd" tvg-id="e2e10d08139b56aba73a448f5555b6fd" tvg-chno="4004" tvg-name="FilmRise Classic TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2e10d08139b56aba73a448f5555b6fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450928764_FilmRise-ClassicTV_260x147_copy.png" group-title="TV",FilmRise Classic TV
 https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8
 
-#EXTINF:-1 channel-id="067e6b6fa36352ad8984a8d97c9a39d4" tvg-id="067e6b6fa36352ad8984a8d97c9a39d4" tvg-chno="" tvg-name="FilmRise Creators" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/067e6b6fa36352ad8984a8d97c9a39d4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158180785_RokuChannel_FilmRiseCreators_HUD_Logo_260x147.png" group-title="TV",FilmRise Creators
+#EXTINF:-1 channel-id="067e6b6fa36352ad8984a8d97c9a39d4" tvg-id="067e6b6fa36352ad8984a8d97c9a39d4" tvg-chno="4007" tvg-name="FilmRise Creators" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/067e6b6fa36352ad8984a8d97c9a39d4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158180785_RokuChannel_FilmRiseCreators_HUD_Logo_260x147.png" group-title="TV",FilmRise Creators
 https://jmp2.uk/rok-067e6b6fa36352ad8984a8d97c9a39d4.m3u8
 
-#EXTINF:-1 channel-id="22d9d1cb36e855a2b40ba752313a50d9" tvg-id="22d9d1cb36e855a2b40ba752313a50d9" tvg-chno="" tvg-name="FilmRise Food" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/22d9d1cb36e855a2b40ba752313a50d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158215733_RokuChannel_FilmRiseFood_HUD_Logo_260x147.png" group-title="TV",FilmRise Food
+#EXTINF:-1 channel-id="22d9d1cb36e855a2b40ba752313a50d9" tvg-id="22d9d1cb36e855a2b40ba752313a50d9" tvg-chno="4035" tvg-name="FilmRise Food" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/22d9d1cb36e855a2b40ba752313a50d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158215733_RokuChannel_FilmRiseFood_HUD_Logo_260x147.png" group-title="TV",FilmRise Food
 https://jmp2.uk/rok-22d9d1cb36e855a2b40ba752313a50d9.m3u8
 
-#EXTINF:-1 channel-id="62945e18ab825bfd8b4995d9bd14917b" tvg-id="62945e18ab825bfd8b4995d9bd14917b" tvg-chno="" tvg-name="FilmRise Forensic Files" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62945e18ab825bfd8b4995d9bd14917b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451317145_FilmRise-ForensicFiles_260x147_copy.png" group-title="TV",FilmRise Forensic Files
+#EXTINF:-1 channel-id="62945e18ab825bfd8b4995d9bd14917b" tvg-id="62945e18ab825bfd8b4995d9bd14917b" tvg-chno="4051" tvg-name="FilmRise Forensic Files" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62945e18ab825bfd8b4995d9bd14917b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451317145_FilmRise-ForensicFiles_260x147_copy.png" group-title="TV",FilmRise Forensic Files
 https://jmp2.uk/rok-62945e18ab825bfd8b4995d9bd14917b.m3u8
 
-#EXTINF:-1 channel-id="d6f71998860459eca1bed73db5988330" tvg-id="d6f71998860459eca1bed73db5988330" tvg-chno="" tvg-name="FilmRise Free Movies" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="TV",FilmRise Free Movies
+#EXTINF:-1 channel-id="d6f71998860459eca1bed73db5988330" tvg-id="d6f71998860459eca1bed73db5988330" tvg-chno="4052" tvg-name="FilmRise Free Movies" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="TV",FilmRise Free Movies
 https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
 
-#EXTINF:-1 channel-id="6a0629e467b5502c906136dadac290a0" tvg-id="6a0629e467b5502c906136dadac290a0" tvg-chno="" tvg-name="FilmRise Horror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001400459_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png" group-title="TV",FilmRise Horror
+#EXTINF:-1 channel-id="6a0629e467b5502c906136dadac290a0" tvg-id="6a0629e467b5502c906136dadac290a0" tvg-chno="4053" tvg-name="FilmRise Horror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001400459_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png" group-title="TV",FilmRise Horror
 https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8
 
-#EXTINF:-1 channel-id="16722bc43ef05012afa2297def830266" tvg-id="16722bc43ef05012afa2297def830266" tvg-chno="" tvg-name="FilmRise Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/16722bc43ef05012afa2297def830266/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001466359_RokuChannel_FilmRiseMysteries_HUD_Logo_260x147.png" group-title="TV",FilmRise Mysteries
+#EXTINF:-1 channel-id="16722bc43ef05012afa2297def830266" tvg-id="16722bc43ef05012afa2297def830266" tvg-chno="4054" tvg-name="FilmRise Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/16722bc43ef05012afa2297def830266/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001466359_RokuChannel_FilmRiseMysteries_HUD_Logo_260x147.png" group-title="TV",FilmRise Mysteries
 https://jmp2.uk/rok-16722bc43ef05012afa2297def830266.m3u8
 
-#EXTINF:-1 channel-id="5b4b59af18ff5686916ef5eb3574de46" tvg-id="5b4b59af18ff5686916ef5eb3574de46" tvg-chno="" tvg-name="FilmRise Películas Gratis" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b4b59af18ff5686916ef5eb3574de46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158247861_RokuChannel_FilmRisePeliculasGratis_HUD_Logo_260x147.png" group-title="TV",FilmRise Películas Gratis
+#EXTINF:-1 channel-id="5b4b59af18ff5686916ef5eb3574de46" tvg-id="5b4b59af18ff5686916ef5eb3574de46" tvg-chno="4055" tvg-name="FilmRise Películas Gratis" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b4b59af18ff5686916ef5eb3574de46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158247861_RokuChannel_FilmRisePeliculasGratis_HUD_Logo_260x147.png" group-title="TV",FilmRise Películas Gratis
 https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
 
-#EXTINF:-1 channel-id="c423f0f050355a6fb8bcf7644af61852" tvg-id="c423f0f050355a6fb8bcf7644af61852" tvg-chno="" tvg-name="FilmRise Sci-Fi" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c423f0f050355a6fb8bcf7644af61852/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158273703_RokuChannel_FilmRiseSciFI_HUD_Logo_260x147.png" group-title="TV",FilmRise Sci-Fi
+#EXTINF:-1 channel-id="c423f0f050355a6fb8bcf7644af61852" tvg-id="c423f0f050355a6fb8bcf7644af61852" tvg-chno="4061" tvg-name="FilmRise Sci-Fi" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c423f0f050355a6fb8bcf7644af61852/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158273703_RokuChannel_FilmRiseSciFI_HUD_Logo_260x147.png" group-title="TV",FilmRise Sci-Fi
 https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8
 
-#EXTINF:-1 channel-id="4010582bb66b58a69151a4f552de0823" tvg-id="4010582bb66b58a69151a4f552de0823" tvg-chno="" tvg-name="FilmRise Series Gratis" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4010582bb66b58a69151a4f552de0823/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158322228_RokuChannel_FilmRiseSeriesGratis_HUD_Logo_260x147.png" group-title="TV",FilmRise Series Gratis
+#EXTINF:-1 channel-id="4010582bb66b58a69151a4f552de0823" tvg-id="4010582bb66b58a69151a4f552de0823" tvg-chno="4062" tvg-name="FilmRise Series Gratis" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4010582bb66b58a69151a4f552de0823/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158322228_RokuChannel_FilmRiseSeriesGratis_HUD_Logo_260x147.png" group-title="TV",FilmRise Series Gratis
 https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8
 
-#EXTINF:-1 channel-id="ebb810a8868251f18ac64056834c749a" tvg-id="ebb810a8868251f18ac64056834c749a" tvg-chno="" tvg-name="FilmRise True Crime" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ebb810a8868251f18ac64056834c749a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001493945_RokuChannel_FilmRiseTrueCrime_HUD_Logo_260x147.png" group-title="TV",FilmRise True Crime
+#EXTINF:-1 channel-id="ebb810a8868251f18ac64056834c749a" tvg-id="ebb810a8868251f18ac64056834c749a" tvg-chno="4067" tvg-name="FilmRise True Crime" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ebb810a8868251f18ac64056834c749a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001493945_RokuChannel_FilmRiseTrueCrime_HUD_Logo_260x147.png" group-title="TV",FilmRise True Crime
 https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8
 
-#EXTINF:-1 channel-id="c5a72a598a355db4b1781ca075280773" tvg-id="c5a72a598a355db4b1781ca075280773" tvg-chno="" tvg-name="FilmRise Western" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5a72a598a355db4b1781ca075280773/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453694643_FilmRiseWestern_HUDlogo_260x147_copy.png" group-title="TV",FilmRise Western
+#EXTINF:-1 channel-id="c5a72a598a355db4b1781ca075280773" tvg-id="c5a72a598a355db4b1781ca075280773" tvg-chno="4081" tvg-name="FilmRise Western" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5a72a598a355db4b1781ca075280773/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453694643_FilmRiseWestern_HUDlogo_260x147_copy.png" group-title="TV",FilmRise Western
 https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8
 
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="TV", Food Network
@@ -495,7 +498,7 @@ http://176.65.146.138:8047/play/a07l/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="TV", Freeform TV
 http://35.91.87.110:5004/auto/v35.3
 
-#EXTINF:-1 channel-id="65a6a5e90c7ff50008cb9815" tvg-id="65a6a5e90c7ff50008cb9815" tvg-chno="" tvg-name="Funny AF" tvg-logo="https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/colorLogoPNG.png" group-title="TV",Funny AF
+#EXTINF:-1 channel-id="65a6a5e90c7ff50008cb9815" tvg-id="65a6a5e90c7ff50008cb9815" tvg-chno="4036" tvg-name="Funny AF" tvg-logo="https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/colorLogoPNG.png" group-title="TV",Funny AF
 https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
 
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="TV", FUSE
@@ -514,7 +517,7 @@ http://nocable.cc:8080/91161088/91161088/46699
 http://fl1.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 tvg-id="Game.One.fr tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Game_One_2024.jpg" group-title="TV",Game One
-http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
+https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="TV", Game Show Network
 http://nocable.cc:8080/91161088/91161088/120633
@@ -607,7 +610,7 @@ https://a1xs.vip/1000014
 http://173.229.4.245:5004/auto/v28
 
 #EXTINF:-1 tvg-id="J-One.fr tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/J-One.png" group-title="TV",J-One
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=506578&extension=ts
+https://github.com/birdtwelve/bird-iptv/raw/refs/heads/main/channel_unavailable.mp4
 
 #EXTINF:-1 group-title="TV" tvg-id="jetixonline" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/TheJetixLogo.svg/500px-TheJetixLogo.svg.png",Jetix Online
 https://vs20.live.opencaster.com/jetixonlinetv_86368752/index.m3u8
@@ -634,10 +637,10 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1349&extension=ts
 
 #EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png" group-title="TV", La 1
-http://176.65.146.237:8401/play/a095/index.m3u8
+http://45.95.78.232:8001/udp/239.106.80.1:5000
 
 #EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png" group-title="TV", La 2
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+http://45.95.78.232:8001/udp/239.106.80.2:5000
 
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="TV", Lifetime
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
@@ -648,7 +651,7 @@ https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Living.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Livingchannelnz.png" group-title="TV", Living
 http://121.74.22.14:62381/stream/channelid/1264034291?profile=pass
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310" tvg-id="5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310" tvg-chno="" tvg-name="LOL! Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ccac86b4-f8b8-445a-89ce-1b79927b857c/1500_x_1000_Color_Logo_PLEX.png" group-title="TV",LOL! Network
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310" tvg-id="5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310" tvg-chno="4101" tvg-name="LOL! Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ccac86b4-f8b8-445a-89ce-1b79927b857c/1500_x_1000_Color_Logo_PLEX.png" group-title="TV",LOL! Network
 https://jmp2.uk/stvp-USBC1300009VM
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="TV",M6 HD
@@ -675,10 +678,10 @@ https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://i.ibb.co/JW60xfTZ/more4.png" group-title="TV", More4 FHD
 https://a1xs.vip/1000034
 
-#EXTINF:-1 channel-id="6532e6a9bdf3cf000887ab29" tvg-id="6532e6a9bdf3cf000887ab29" tvg-chno="" tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="TV",More True Crime
+#EXTINF:-1 channel-id="6532e6a9bdf3cf000887ab29" tvg-id="6532e6a9bdf3cf000887ab29" tvg-chno="4102" tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="TV",More True Crime
 https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 
-#EXTINF:-1 channel-id="613260e4bdb71c00070d63fa" tvg-id="613260e4bdb71c00070d63fa" tvg-chno="" tvg-name="More TV Drama" tvg-logo="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png" group-title="TV",More TV Drama
+#EXTINF:-1 channel-id="613260e4bdb71c00070d63fa" tvg-id="613260e4bdb71c00070d63fa" tvg-chno="4103" tvg-name="More TV Drama" tvg-logo="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png" group-title="TV",More TV Drama
 https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 
 #EXTINF:-1 channel-id="6132619f9ddaa50007e7dd86" tvg-id="6132619f9ddaa50007e7dd86" tvg-chno="" tvg-name="More TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="TV",More TV Sitcoms
@@ -757,7 +760,7 @@ http://35.91.87.110:5004/auto/v45.3
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="TV", Nickelodeon Global
-http://84.232.241.140:9891/stream/channelid/1254476784?profile=pass
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Nickelodeon.png" group-title="TV", Nickelodeon UK FHD
 https://a1xs.vip/1000051
@@ -828,85 +831,85 @@ https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8
 #EXTINF:-1 channel-id="94598743eeb76f0dae3caf86ed026deb" tvg-id="94598743eeb76f0dae3caf86ed026deb" tvg-chno="" tvg-name="PBS Travel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/94598743eeb76f0dae3caf86ed026deb/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763400079857_260x147_CenterAligned.png" group-title="TV",PBS Travel
 https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6876f76054325376973fd314" tvg-id="5e20b730f2f8d5003d739db7-6876f76054325376973fd314" tvg-chno="" tvg-name="Pink Panther" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c31975b-e818-4f3b-bbe2-7e433a07d5f0/PinkPanther_logo_dark_-_Carl_HoffeldercolorwhittexteREX.png" group-title="TV",Pink Panther
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6876f76054325376973fd314" tvg-id="5e20b730f2f8d5003d739db7-6876f76054325376973fd314" tvg-chno="4713" tvg-name="Pink Panther" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c31975b-e818-4f3b-bbe2-7e433a07d5f0/PinkPanther_logo_dark_-_Carl_HoffeldercolorwhittexteREX.png" group-title="TV",Pink Panther
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts
 
-#EXTINF:-1 channel-id="5dbfeb961b411c00090b52b3" tvg-id="5dbfeb961b411c00090b52b3" tvg-chno="" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" group-title="TV",Pluto TV Action
+#EXTINF:-1 channel-id="5dbfeb961b411c00090b52b3" tvg-id="5dbfeb961b411c00090b52b3" tvg-chno="4308" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" group-title="TV",Pluto TV Action
 https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
 
-#EXTINF:-1 channel-id="5ddf8ea0d000120009bcad83" tvg-id="5ddf8ea0d000120009bcad83" tvg-chno="" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="TV",Pluto TV Animals
+#EXTINF:-1 channel-id="5ddf8ea0d000120009bcad83" tvg-id="5ddf8ea0d000120009bcad83" tvg-chno="4309" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="TV",Pluto TV Animals
 https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
 
-#EXTINF:-1 channel-id="612f761008a9e50007984ba0" tvg-id="612f761008a9e50007984ba0" tvg-chno="" tvg-name="Pluto TV Animation" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="TV",Pluto TV Animation
+#EXTINF:-1 channel-id="612f761008a9e50007984ba0" tvg-id="612f761008a9e50007984ba0" tvg-chno="4524" tvg-name="Pluto TV Animation" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="TV",Pluto TV Animation
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
 
-#EXTINF:-1 channel-id="625e8cb585ef320007806caf" tvg-id="625e8cb585ef320007806caf" tvg-chno="" tvg-name="Pluto TV Britain at War" tvg-logo="https://images.pluto.tv/channels/625e8cb585ef320007806caf/colorLogoPNG.png" group-title="TV",Pluto TV Britain at War
+#EXTINF:-1 channel-id="625e8cb585ef320007806caf" tvg-id="625e8cb585ef320007806caf" tvg-chno="4310" tvg-name="Pluto TV Britain at War" tvg-logo="https://images.pluto.tv/channels/625e8cb585ef320007806caf/colorLogoPNG.png" group-title="TV",Pluto TV Britain at War
 https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
 
-#EXTINF:-1 channel-id="5d134a74ca91eedee1630faa" tvg-id="5d134a74ca91eedee1630faa" tvg-chno="" tvg-name="Pluto TV Classic TV" tvg-logo="https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png" group-title="TV",Pluto TV Classic TV
+#EXTINF:-1 channel-id="5d134a74ca91eedee1630faa" tvg-id="5d134a74ca91eedee1630faa" tvg-chno="4311" tvg-name="Pluto TV Classic TV" tvg-logo="https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png" group-title="TV",Pluto TV Classic TV
 https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
 
-#EXTINF:-1 channel-id="5c363c2411c5ca053f198f97" tvg-id="5c363c2411c5ca053f198f97" tvg-chno="" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" group-title="TV",Pluto TV Comedy Movies
+#EXTINF:-1 channel-id="5c363c2411c5ca053f198f97" tvg-id="5c363c2411c5ca053f198f97" tvg-chno="4312" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" group-title="TV",Pluto TV Comedy Movies
 https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
 
-#EXTINF:-1 channel-id="5d4ae94ef1a1bbb350ca41bb" tvg-id="5d4ae94ef1a1bbb350ca41bb" tvg-chno="" tvg-name="Pluto TV Conspiracy" tvg-logo="https://images.pluto.tv/channels/5d4ae94ef1a1bbb350ca41bb/colorLogoPNG.png" group-title="TV",Pluto TV Conspiracy
+#EXTINF:-1 channel-id="5d4ae94ef1a1bbb350ca41bb" tvg-id="5d4ae94ef1a1bbb350ca41bb" tvg-chno="4313" tvg-name="Pluto TV Conspiracy" tvg-logo="https://images.pluto.tv/channels/5d4ae94ef1a1bbb350ca41bb/colorLogoPNG.png" group-title="TV",Pluto TV Conspiracy
 https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 
-#EXTINF:-1 channel-id="67f4ffda8ddd60c57dc24e35" tvg-id="67f4ffda8ddd60c57dc24e35" tvg-chno="" tvg-name="Pluto TV Creature Features" tvg-logo="https://images.pluto.tv/channels/67f4ffda8ddd60c57dc24e35/colorLogoPNG_1747213241493.png" group-title="TV",Pluto TV Creature Features
+#EXTINF:-1 channel-id="67f4ffda8ddd60c57dc24e35" tvg-id="67f4ffda8ddd60c57dc24e35" tvg-chno="4314" tvg-name="Pluto TV Creature Features" tvg-logo="https://images.pluto.tv/channels/67f4ffda8ddd60c57dc24e35/colorLogoPNG_1747213241493.png" group-title="TV",Pluto TV Creature Features
 https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8
 
-#EXTINF:-1 channel-id="5d767790d0438aceb41d03ae" tvg-id="5d767790d0438aceb41d03ae" tvg-chno="" tvg-name="Pluto TV Crime" tvg-logo="https://images.pluto.tv/channels/5d767790d0438aceb41d03ae/colorLogoPNG.png" group-title="TV",Pluto TV Crime
+#EXTINF:-1 channel-id="5d767790d0438aceb41d03ae" tvg-id="5d767790d0438aceb41d03ae" tvg-chno="4315" tvg-name="Pluto TV Crime" tvg-logo="https://images.pluto.tv/channels/5d767790d0438aceb41d03ae/colorLogoPNG.png" group-title="TV",Pluto TV Crime
 https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8
 
-#EXTINF:-1 channel-id="65a6a7a00c7ff50008cba07b" tvg-id="65a6a7a00c7ff50008cba07b" tvg-chno="" tvg-name="Pluto TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/65a6a7a00c7ff50008cba07b/colorLogoPNG_1754296852868.png" group-title="TV",Pluto TV Crime Drama
+#EXTINF:-1 channel-id="65a6a7a00c7ff50008cba07b" tvg-id="65a6a7a00c7ff50008cba07b" tvg-chno="4316" tvg-name="Pluto TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/65a6a7a00c7ff50008cba07b/colorLogoPNG_1754296852868.png" group-title="TV",Pluto TV Crime Drama
 https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
 
-#EXTINF:-1 channel-id="5c5c31f2f21b553c1f673fb0" tvg-id="5c5c31f2f21b553c1f673fb0" tvg-chno="" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" group-title="TV",Pluto TV Cult Films
+#EXTINF:-1 channel-id="5c5c31f2f21b553c1f673fb0" tvg-id="5c5c31f2f21b553c1f673fb0" tvg-chno="4319" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" group-title="TV",Pluto TV Cult Films
 https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 
-#EXTINF:-1 channel-id="5ddf91149880d60009d35d27" tvg-id="5ddf91149880d60009d35d27" tvg-chno="" tvg-name="Pluto TV Drama" tvg-logo="https://images.pluto.tv/channels/5ddf91149880d60009d35d27/colorLogoPNG_1764596004853.png" group-title="TV",Pluto TV Drama
+#EXTINF:-1 channel-id="5ddf91149880d60009d35d27" tvg-id="5ddf91149880d60009d35d27" tvg-chno="4321" tvg-name="Pluto TV Drama" tvg-logo="https://images.pluto.tv/channels/5ddf91149880d60009d35d27/colorLogoPNG_1764596004853.png" group-title="TV",Pluto TV Drama
 https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 
-#EXTINF:-1 channel-id="5dc3fc6b9133f500099c7d98" tvg-id="5dc3fc6b9133f500099c7d98" tvg-chno="" tvg-name="Pluto TV Family Movie Club" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="TV",Pluto TV Family Movie Club
+#EXTINF:-1 channel-id="5dc3fc6b9133f500099c7d98" tvg-id="5dc3fc6b9133f500099c7d98" tvg-chno="4322" tvg-name="Pluto TV Family Movie Club" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="TV",Pluto TV Family Movie Club
 https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
 
-#EXTINF:-1 channel-id="5ddf930548ff9b00090d5686" tvg-id="5ddf930548ff9b00090d5686" tvg-chno="" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5ddf930548ff9b00090d5686/colorLogoPNG.png" group-title="TV",Pluto TV Food
+#EXTINF:-1 channel-id="5ddf930548ff9b00090d5686" tvg-id="5ddf930548ff9b00090d5686" tvg-chno="4325" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5ddf930548ff9b00090d5686/colorLogoPNG.png" group-title="TV",Pluto TV Food
 https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
 #
-#EXTINF:-1 channel-id="5d4af1803e7983b391d73b13" tvg-id="5d4af1803e7983b391d73b13" tvg-chno="" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="TV",Pluto TV History
+#EXTINF:-1 channel-id="5d4af1803e7983b391d73b13" tvg-id="5d4af1803e7983b391d73b13" tvg-chno="4326" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="TV",Pluto TV History
 https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
 
-#EXTINF:-1 channel-id="612cda102f5f18000705e0bf" tvg-id="612cda102f5f18000705e0bf" tvg-chno="" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/612cda102f5f18000705e0bf/colorLogoPNG.png" group-title="TV",Pluto TV Horror
+#EXTINF:-1 channel-id="612cda102f5f18000705e0bf" tvg-id="612cda102f5f18000705e0bf" tvg-chno="4328" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/612cda102f5f18000705e0bf/colorLogoPNG.png" group-title="TV",Pluto TV Horror
 https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
 
-#EXTINF:-1 channel-id="5ad8d54be738977e2c310940" tvg-id="5ad8d54be738977e2c310940" tvg-chno="" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" group-title="TV",Pluto TV Kids
+#EXTINF:-1 channel-id="5ad8d54be738977e2c310940" tvg-id="5ad8d54be738977e2c310940" tvg-chno="4705" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" group-title="TV",Pluto TV Kids
 https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
 
-#EXTINF:-1 channel-id="5c5c2b9d8002db3c3e0b1c6d" tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-chno="" tvg-name="Pluto TV Retro Toons" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="TV",Pluto TV Retro Toons
+#EXTINF:-1 channel-id="5c5c2b9d8002db3c3e0b1c6d" tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-chno="4706" tvg-name="Pluto TV Retro Toons" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="TV",Pluto TV Retro Toons
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 
-#EXTINF:-1 channel-id="5dc02a44a9518600094273ac" tvg-id="5dc02a44a9518600094273ac" tvg-chno="" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" group-title="TV",Pluto TV Sci-Fi
+#EXTINF:-1 channel-id="5dc02a44a9518600094273ac" tvg-id="5dc02a44a9518600094273ac" tvg-chno="4331" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" group-title="TV",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
 
-#EXTINF:-1 channel-id="619247c34a270700077c8415" tvg-id="619247c34a270700077c8415" tvg-chno="" tvg-name="Pluto TV Sci-fi Series" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" group-title="TV",Pluto TV Sci-fi Series
+#EXTINF:-1 channel-id="619247c34a270700077c8415" tvg-id="619247c34a270700077c8415" tvg-chno="4333" tvg-name="Pluto TV Sci-fi Series" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" group-title="TV",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 
-#EXTINF:-1 channel-id="62f53dc6ee9a0400071dc22b" tvg-id="62f53dc6ee9a0400071dc22b" tvg-chno="" tvg-name="Pluto TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png" group-title="TV",Pluto TV Sitcoms
+#EXTINF:-1 channel-id="62f53dc6ee9a0400071dc22b" tvg-id="62f53dc6ee9a0400071dc22b" tvg-chno="4336" tvg-name="Pluto TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png" group-title="TV",Pluto TV Sitcoms
 https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
 
-#EXTINF:-1 channel-id="655b7cbb2c46f300086f0afa" tvg-id="655b7cbb2c46f300086f0afa" tvg-chno="" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png" group-title="TV",Pluto TV Snooker 900
+#EXTINF:-1 channel-id="655b7cbb2c46f300086f0afa" tvg-id="655b7cbb2c46f300086f0afa" tvg-chno="4342" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png" group-title="TV",Pluto TV Snooker 900
 https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 
-#EXTINF:-1 channel-id="5dbc2f98777f2e0009934ae7" tvg-id="5dbc2f98777f2e0009934ae7" tvg-chno="" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/colorLogoPNG.png" group-title="TV",Pluto TV Space
+#EXTINF:-1 channel-id="5dbc2f98777f2e0009934ae7" tvg-id="5dbc2f98777f2e0009934ae7" tvg-chno="4343" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/colorLogoPNG.png" group-title="TV",Pluto TV Space
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 
-#EXTINF:-1 channel-id="5dbfedccc563080009b60f4a" tvg-id="5dbfedccc563080009b60f4a" tvg-chno="" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" group-title="TV",Pluto TV Thrillers
+#EXTINF:-1 channel-id="5dbfedccc563080009b60f4a" tvg-id="5dbfedccc563080009b60f4a" tvg-chno="4344" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" group-title="TV",Pluto TV Thrillers
 https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 
-#EXTINF:-1 channel-id="5d4bdb635ce813b38639e6a3" tvg-id="5d4bdb635ce813b38639e6a3" tvg-chno="" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="TV",Pluto TV Westerns
+#EXTINF:-1 channel-id="5d4bdb635ce813b38639e6a3" tvg-id="5d4bdb635ce813b38639e6a3" tvg-chno="4345" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="TV",Pluto TV Westerns
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-chno="" tvg-name="pocket.watch Game-On" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png" group-title="TV",pocket.watch Game-On
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-chno="4707" tvg-name="pocket.watch Game-On" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png" group-title="TV",pocket.watch Game-On
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Polsat.1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png",Polsat
@@ -1061,6 +1064,9 @@ http://portal5458.com:8080/live/DBeverly/2290061890/47830.ts
 
 #EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="TV",Sky News
 http://173.229.4.245:5004/auto/v233
+
+#EXTINF:-1 tvg-id="Sky.Showcase.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-one-uk.png" group-title="TV",Sky One
+http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:24:1B:38&stream=780566&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-witness-uk.png" group-title="TV",Sky Witness
 http://cynessa.ottb.xyz/live/793456282871/574640256572/17650.ts
@@ -1420,134 +1426,164 @@ https://a1xs.vip/140003
 https://a1xs.vip/140004
 
 
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[AFL Aussie Rules] Gold Coast Suns vs Geelong Cats (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[AFL Aussie Rules] Gold Coast Suns vs Geelong Cats (FAWA)
+#EXTINF:-1 tvg-chno="4735" tvg-id="Live.Event.us" tvg-name="[AFC Champions League II] Ratchaburi vs Gamba Osaka (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[AFC Champions League II] Ratchaburi vs Gamba Osaka (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.2/hls/FHHHQQ.m3u8
+http://195.178.110.37/hls/DUUU.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Bulgaria efbet League] Slavia Sofia vs Spartak Varna (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Bulgaria efbet League] Slavia Sofia vs Spartak Varna (FAWA)
+#EXTINF:-1 tvg-chno="4736" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Sanfrecce Hiroshima vs Johor DT (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="Live Events",[AFC Champions League] Sanfrecce Hiroshima vs Johor DT (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UUUUQQQQQQQ.m3u8
+http://195.178.110.37/hls/FVVV.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[China Super League] Chengdu Rongcheng vs Shenzhen Xinpengcheng (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[China Super League] Chengdu Rongcheng vs Shenzhen Xinpengcheng (FAWA)
+#EXTINF:-1 tvg-chno="4737" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Vissel Kobe vs FC Seoul (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="Live Events",[AFC Champions League] Vissel Kobe vs FC Seoul (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/VVVVQQQ.m3u8
+http://195.178.110.37/hls/FVVVQ.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Cricket] Australia W vs India W (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket] Australia W vs India W (FAWA)
+#EXTINF:-1 tvg-chno="4738" tvg-id="Live.Event.us" tvg-name="[Basketball FIBA Europe Cup] PAOK vs Peristeri (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Basketball FIBA Europe Cup] PAOK vs Peristeri (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.2/hls/KGGGQ.m3u8
+http://195.178.110.37/hls/ggggQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Darts] Darts UK Open (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Darts] Darts UK Open (FAWA)
+#EXTINF:-1 tvg-chno="4739" tvg-id="Live.Event.us" tvg-name="[Bosnia and Herzegovina Cup] Zrinjski vs GOSK Gabela (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Bosnia and Herzegovina Cup] Zrinjski vs GOSK Gabela (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/VVVVQ.m3u8
+http://195.178.110.37/hls/ggggQQ.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Golf PGA] Golf PGA Arnold Palmer Invitational (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Golf PGA] Golf PGA Arnold Palmer Invitational (FAWA)
+#EXTINF:-1 tvg-chno="4740" tvg-id="Live.Event.us" tvg-name="[Cricket] Bangladesh vs Pakistan (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket] Bangladesh vs Pakistan (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/DDDDD.m3u8
+http://195.178.110.27/hls/siii.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Golf DP World Tour Joburg Open (FAWA)" tvg-logo="https://i.gyazo.com/14a883f22796f631e6f97c34dbeb6ada.png" group-title="Live Events",[Golf] Golf DP World Tour Joburg Open (FAWA)
+#EXTINF:-1 tvg-chno="4741" tvg-id="Live.Event.us" tvg-name="[Cycling] Cycling Paris (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cycling] Cycling Paris (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/tlllQQQ.m3u8
+http://195.178.110.37/hls/FFFFXQ.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTINF:-1 tvg-chno="4742" tvg-id="Live.Event.us" tvg-name="[Cycling] Cycling Tirreno Adriatico (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cycling] Cycling Tirreno Adriatico (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.37/hls/FFFFX.m3u8
+
+#EXTINF:-1 tvg-chno="4743" tvg-id="Live.Event.us" tvg-name="[France Premiere Ligue Women] PSG W vs Marseille W (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[France Premiere Ligue Women] PSG W vs Marseille W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.37/hls/ggggQ.m3u8
+
+#EXTINF:-1 tvg-chno="4744" tvg-id="Live.Event.us" tvg-name="[France Premiere Ligue Women] Paris FC W vs Strasbourg W (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[France Premiere Ligue Women] Paris FC W vs Strasbourg W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.37/hls/gggg.m3u8
+
+#EXTINF:-1 tvg-chno="4745" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/KOKOKOQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTINF:-1 tvg-chno="4746" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/KOKOKOQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[India ISL] Jamshedpur vs Inter Kashi (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[India ISL] Jamshedpur vs Inter Kashi (FAWA)
+#EXTINF:-1 tvg-chno="4747" tvg-id="Live.Event.us" tvg-name="[Indonesia Liga 1] PSIM Yogyakarta vs Persijap Jepara (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Indonesia Liga 1] PSIM Yogyakarta vs Persijap Jepara (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UUUUQQQQQ.m3u8
+http://195.178.110.37/hls/DUUUQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[India ISL] Mohun Bagan vs Odisha FC (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[India ISL] Mohun Bagan vs Odisha FC (FAWA)
+#EXTINF:-1 tvg-chno="4748" tvg-id="Live.Event.us" tvg-name="[Lithuania Toplyga] Hegelmann vs Siauliai FA (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Lithuania Toplyga] Hegelmann vs Siauliai FA (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/VVVVQQ.m3u8
+http://195.178.110.37/hls/FVVVQQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Live.Event.us" tvg-name="[Indonesia Liga 1] Arema FC vs Bali United (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Indonesia Liga 1] Arema FC vs Bali United (FAWA)
+#EXTINF:-1 tvg-chno="4749" tvg-id="Live.Event.us" tvg-name="[Lithuania Toplyga] Transinvest vs Banga (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Lithuania Toplyga] Transinvest vs Banga (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UUUUQQQ.m3u8
+http://195.178.110.37/hls/DUUUQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="[Japan J League] Osaka vs Nara Club (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Japan J League] Osaka vs Nara Club (FAWA)
+#EXTINF:-1 tvg-chno="4750" tvg-id="Live.Event.us" tvg-name="[Malaysia Cup] Penang vs Kelantan The Real Warriors (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Malaysia Cup] Penang vs Kelantan The Real Warriors (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.2/hls/FHHHQQQ.m3u8
+http://195.178.110.37/hls/DUUUQQQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[Malaysia Super League] Kelantan The Real Warriors vs Terengganu (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Malaysia Super League] Kelantan The Real Warriors vs Terengganu (FAWA)
+#EXTINF:-1 tvg-chno="4751" tvg-id="Live.Event.us" tvg-name="[Malaysia Cup] Sabah vs Perak (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Malaysia Cup] Sabah vs Perak (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UUUUQQQQ.m3u8
+http://195.178.110.37/hls/DUUUQQ.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Live.Event.us" tvg-name="[Romania Liga 2] FC Voluntari vs FC Bacau (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Romania Liga 2] FC Voluntari vs FC Bacau (FAWA)
+#EXTINF:-1 tvg-chno="4752" tvg-id="Live.Event.us" tvg-name="[Slovenia Cup] Fuzinar vs Aluminij (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Slovenia Cup] Fuzinar vs Aluminij (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UUUUQQQQQQ.m3u8
+http://195.178.110.37/hls/DUUUQQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[Singapore Premier League] Tanjong Pagar vs Albirex Niigata (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Singapore Premier League] Tanjong Pagar vs Albirex Niigata (FAWA)
+#EXTINF:-1 tvg-chno="4753" tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] Dodoma Jiji vs Azam (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Tanzania Ligi Kuu Bara] Dodoma Jiji vs Azam (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UUUU.m3u8
+http://195.178.110.25/hls/YYYY.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[Thailand Thai league 1] Port MTI FC vs Lamphun Warrior (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Thailand Thai league 1] Port MTI FC vs Lamphun Warrior (FAWA)
+#EXTINF:-1 tvg-chno="4754" tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] Singida Black Stars vs Simba (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Tanzania Ligi Kuu Bara] Singida Black Stars vs Simba (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/VVVVQQQQ.m3u8
+http://195.178.110.25/hls/YYYY.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Turkey Lig 1] Sariyer vs Umraniyespor (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Turkey Lig 1] Sariyer vs Umraniyespor (FAWA)
+#EXTINF:-1 tvg-chno="4755" tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] TRA United vs Namungo (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Tanzania Ligi Kuu Bara] TRA United vs Namungo (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UUUUQQ.m3u8
+http://195.178.110.25/hls/YYYY.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Ukraine Premier League] Oleksandriya vs Shakhtar Donetsk (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Ukraine Premier League] Oleksandriya vs Shakhtar Donetsk (FAWA)
+#EXTINF:-1 tvg-chno="4756" tvg-id="Live.Event.us" tvg-name="[Turkey Lig 1] Hatayspor vs Sivasspor (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Turkey Lig 1] Hatayspor vs Sivasspor (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/VVVV.m3u8
+http://195.178.110.37/hls/FVVVQQ.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="[Vietnam V League] Thanh Hoa vs Hong Linh Ha Tinh (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Vietnam V League] Thanh Hoa vs Hong Linh Ha Tinh (FAWA)
+#EXTINF:-1 tvg-chno="4757" tvg-id="Live.Event.us" tvg-name="[Turkey Lig 1] Istanbulspor AS vs Amedspor (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Turkey Lig 1] Istanbulspor AS vs Amedspor (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/VVVVX.m3u8
+http://195.178.110.37/hls/FVVVQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[World Baseball Classic] Chinese Taipei vs Japan (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[World Baseball Classic] Chinese Taipei vs Japan (FAWA)
+#EXTINF:-1 tvg-chno="4758" tvg-id="Live.Event.us" tvg-name="[Turkey Lig 1] Umraniyespor vs Erzurumspor (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Turkey Lig 1] Umraniyespor vs Erzurumspor (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.2/hls/FHHHQQQQ.m3u8
+http://195.178.110.37/hls/DUUUQ.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[World Baseball Classic] Panama vs Cuba (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[World Baseball Classic] Panama vs Cuba (FAWA)
+#EXTINF:-1 tvg-chno="4759" tvg-id="Live.Event.us" tvg-name="[Uzbekistan Super League] Buxoro vs Xorazm Urganch (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Uzbekistan Super League] Buxoro vs Xorazm Urganch (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UUUUU.m3u8
+http://195.178.110.37/hls/HBBBQ.m3u8
+
+#EXTINF:-1 tvg-chno="4760" tvg-id="Live.Event.us" tvg-name="[Uzbekistan Super League] Lokomotiv Tashkent vs Kokand 1912 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Uzbekistan Super League] Lokomotiv Tashkent vs Kokand 1912 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.37/hls/HBBB.m3u8
+
+#EXTINF:-1 tvg-chno="4761" tvg-id="Live.Event.us" tvg-name="[Uzbekistan Super League] Termez Surkhon vs Bunyodkor (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Uzbekistan Super League] Termez Surkhon vs Bunyodkor (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.37/hls/FVVVQQQQ.m3u8
