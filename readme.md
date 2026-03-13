@@ -1,11 +1,13 @@
-## Base Log @ 2026-03-13 09:08 UTC
+## Base Log @ 2026-03-13 15:11 UTC
 
-### ✅ Working Streams: 191<br>❌ Dead Streams: 284
+### ✅ Working Streams: 192<br>❌ Dead Streams: 283
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
+| SKY Sport 4 NZ | HTTP Error (403) | `https://a1xs.vip/700034` |
 | Sky Atlantic FHD | HTTP Error (401) | `https://a1xs.vip/210001` |
 | Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
 | Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
@@ -17,7 +19,6 @@
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 | Sky Sports Tennis FHD | HTTP Error (401) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (401) | `https://a1xs.vip/2000012` |
-| Ziggo Sport 2 FHD | Unknown status (302) | `https://a1xs.vip/140002` |
 ---
 #### Base Channels URL
 ```
