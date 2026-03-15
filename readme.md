@@ -1,14 +1,11 @@
-## Base Log @ 2026-03-14 20:56 UTC
+## Base Log @ 2026-03-15 04:46 UTC
 
 ### ✅ Working Streams: 192<br>❌ Dead Streams: 283
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| 9 Story Presents: Garfield and Friends | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
-| FilmRise Forensic Files | HTTP Error (404) | `https://jmp2.uk/rok-62945e18ab825bfd8b4995d9bd14917b.m3u8` |
-| FilmRise True Crime | HTTP Error (404) | `https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8` |
+| DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
-| Pink Panther | HTTP Error (458) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | Sky Atlantic FHD | HTTP Error (401) | `https://a1xs.vip/210001` |
 | Sky Cinema Action FHD | HTTP Error (401) | `https://a1xs.vip/210006` |
@@ -18,6 +15,7 @@
 | Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sport PL NZ | HTTP Error (401) | `https://a1xs.vip/700008` |
 | Sky Sports Action FHD | HTTP Error (404) | `https://a1xs.vip/2000011` |
+| Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
 | Sky Sports F1 UHD | HTTP Error (401) | `https://a1xs.vip/2000016` |
 | Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
 | Sky Sports Main Event FHD | HTTP Error (401) | `https://a1xs.vip/2000001` |
