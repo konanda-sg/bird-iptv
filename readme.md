@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-15 14:58 UTC
+## Base Log @ 2026-03-15 20:57 UTC
 
-### ✅ Working Streams: 196<br>❌ Dead Streams: 279
+### ✅ Working Streams: 191<br>❌ Dead Streams: 284
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -15,14 +15,18 @@
 | Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sport PL NZ | HTTP Error (401) | `https://a1xs.vip/700008` |
 | Sky Sports Action FHD | HTTP Error (404) | `https://a1xs.vip/2000011` |
+| Sky Sports Cricket FHD | HTTP Error (403) | `https://a1xs.vip/2000006` |
 | Sky Sports F1 FHD | HTTP Error (403) | `https://a1xs.vip/2000005` |
 | Sky Sports F1 UHD | HTTP Error (401) | `https://a1xs.vip/2000016` |
+| Sky Sports Football FHD | HTTP Error (403) | `https://a1xs.vip/2000003` |
 | Sky Sports Golf FHD | HTTP Error (404) | `https://a1xs.vip/2000009` |
-| Sky Sports Main Event FHD | HTTP Error (401) | `https://a1xs.vip/2000001` |
 | Sky Sports Main Event UHD | HTTP Error (401) | `https://a1xs.vip/2000015` |
+| Sky Sports Mix FHD | HTTP Error (403) | `https://a1xs.vip/2000008` |
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 | Sky Sports Tennis FHD | HTTP Error (401) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (401) | `https://a1xs.vip/2000012` |
+| Window TV | HTTP Error (404) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
+| Ziggo Sport 2 FHD | Unknown status (302) | `https://a1xs.vip/140002` |
 ---
 #### Base Channels URL
 ```
