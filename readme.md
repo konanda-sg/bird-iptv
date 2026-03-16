@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-15 20:57 UTC
+## Base Log @ 2026-03-16 05:06 UTC
 
-### ✅ Working Streams: 191<br>❌ Dead Streams: 284
+### ✅ Working Streams: 185<br>❌ Dead Streams: 290
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -25,8 +25,6 @@
 | Sky Sports Racing FHD | HTTP Error (403) | `https://a1xs.vip/2000010` |
 | Sky Sports Tennis FHD | HTTP Error (401) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (401) | `https://a1xs.vip/2000012` |
-| Window TV | HTTP Error (404) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
-| Ziggo Sport 2 FHD | Unknown status (302) | `https://a1xs.vip/140002` |
 ---
 #### Base Channels URL
 ```
