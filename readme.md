@@ -1,10 +1,11 @@
-## Base Log @ 2026-03-16 09:42 UTC
+## Base Log @ 2026-03-16 15:42 UTC
 
-### ✅ Working Streams: 185<br>❌ Dead Streams: 290
+### ✅ Working Streams: 182<br>❌ Dead Streams: 293
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
+| FilmRise Free Movies | HTTP Error (404) | `https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | Sky Atlantic FHD | HTTP Error (401) | `https://a1xs.vip/210001` |
