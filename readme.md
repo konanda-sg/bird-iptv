@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-19 21:06 UTC
+## Base Log @ 2026-03-20 04:28 UTC
 
-### ✅ Working Streams: 191<br>❌ Dead Streams: 284
+### ✅ Working Streams: 198<br>❌ Dead Streams: 277
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,15 +9,14 @@
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
-| SKY Sport 3 NZ | Unknown status (302) | `https://a1xs.vip/700033` |
 | Sky Atlantic FHD | HTTP Error (401) | `https://a1xs.vip/210001` |
 | Sky Cinema Action FHD | HTTP Error (403) | `https://a1xs.vip/210006` |
 | Sky Cinema Comedy FHD | HTTP Error (401) | `https://a1xs.vip/210005` |
+| Sky Cinema Family FHD | Unknown status (302) | `https://a1xs.vip/210007` |
 | Sky Cinema Hits FHD | HTTP Error (403) | `https://a1xs.vip/210002` |
 | Sky Cinema Premiere FHD | HTTP Error (403) | `https://a1xs.vip/210003` |
 | Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sport PL NZ | HTTP Error (401) | `https://a1xs.vip/700008` |
-| Ziggo Sport 2 FHD | Unknown status (302) | `https://a1xs.vip/140002` |
 ---
 #### Base Channels URL
 ```
