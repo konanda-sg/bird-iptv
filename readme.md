@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-24 09:31 UTC
+## Base Log @ 2026-03-24 15:45 UTC
 
-### ✅ Working Streams: 198<br>❌ Dead Streams: 277
+### ✅ Working Streams: 201<br>❌ Dead Streams: 274
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -14,10 +14,6 @@
 | Sky Sport PL NZ | HTTP Error (401) | `https://a1xs.vip/700008` |
 | Sky Sports Tennis FHD | HTTP Error (401) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (401) | `https://a1xs.vip/2000012` |
-| Whiplash Cinema | HTTP Error (404) | `https://haus.webchnl.com/memfs/fc30cd88-f7c3-4b06-b481-810939220ade.m3u8` |
-| Whiplash | HTTP Error (404) | `https://haus.webchnl.com/memfs/fe3e4302-97f6-44b1-b407-db8b59256cde.m3u8` |
-| Window TV | HTTP Error (404) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
-| Ziggo Sport 2 FHD | Unknown status (302) | `https://a1xs.vip/140002` |
 ---
 #### Base Channels URL
 ```
