@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-27 04:58 UTC
+## Base Log @ 2026-03-27 09:17 UTC
 
-### ✅ Working Streams: 200<br>❌ Dead Streams: 275
+### ✅ Working Streams: 202<br>❌ Dead Streams: 273
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -11,12 +11,10 @@
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | SKY Sport 6 NZ | HTTP Error (453) | `https://a1xs.vip/700036` |
 | Sky Cinema Family FHD | HTTP Error (458) | `https://a1xs.vip/210007` |
-| Sky Cinema Hits FHD | Unknown status (302) | `https://a1xs.vip/210002` |
 | Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sport PL NZ | HTTP Error (401) | `https://a1xs.vip/700008` |
 | Sky Sports Tennis FHD | HTTP Error (401) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (401) | `https://a1xs.vip/2000012` |
-| Whiplash | HTTP Error (404) | `https://haus.webchnl.com/memfs/fe3e4302-97f6-44b1-b407-db8b59256cde.m3u8` |
 ---
 #### Base Channels URL
 ```
