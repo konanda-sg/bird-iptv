@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-28 09:07 UTC
+## Base Log @ 2026-03-28 15:01 UTC
 
-### ✅ Working Streams: 201<br>❌ Dead Streams: 274
+### ✅ Working Streams: 203<br>❌ Dead Streams: 272
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -13,11 +13,9 @@
 | Sky Cinema Family FHD | HTTP Error (458) | `https://a1xs.vip/210007` |
 | Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sport PL NZ | HTTP Error (401) | `https://a1xs.vip/700008` |
+| Sky Sports Golf FHD | HTTP Error (403) | `https://a1xs.vip/2000009` |
 | Sky Sports Tennis FHD | HTTP Error (401) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (401) | `https://a1xs.vip/2000012` |
-| Whiplash Cinema | HTTP Error (404) | `https://haus.webchnl.com/memfs/fc30cd88-f7c3-4b06-b481-810939220ade.m3u8` |
-| Whiplash | HTTP Error (404) | `https://haus.webchnl.com/memfs/fe3e4302-97f6-44b1-b407-db8b59256cde.m3u8` |
-| Window TV | HTTP Error (404) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
 ---
 #### Base Channels URL
 ```
