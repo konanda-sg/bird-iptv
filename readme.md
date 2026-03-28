@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-28 04:35 UTC
+## Base Log @ 2026-03-28 09:07 UTC
 
-### ✅ Working Streams: 196<br>❌ Dead Streams: 279
+### ✅ Working Streams: 201<br>❌ Dead Streams: 274
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -11,16 +11,13 @@
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | SKY Sport 6 NZ | HTTP Error (455) | `https://a1xs.vip/700036` |
 | Sky Cinema Family FHD | HTTP Error (458) | `https://a1xs.vip/210007` |
-| Sky Cinema Hits FHD | Unknown status (302) | `https://a1xs.vip/210002` |
 | Sky Cinema Select FHD | HTTP Error (403) | `https://a1xs.vip/210004` |
 | Sky Sport PL NZ | HTTP Error (401) | `https://a1xs.vip/700008` |
 | Sky Sports Tennis FHD | HTTP Error (401) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (401) | `https://a1xs.vip/2000012` |
-| Vevo '90s | HTTP Error (404) | `https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8` |
 | Whiplash Cinema | HTTP Error (404) | `https://haus.webchnl.com/memfs/fc30cd88-f7c3-4b06-b481-810939220ade.m3u8` |
 | Whiplash | HTTP Error (404) | `https://haus.webchnl.com/memfs/fe3e4302-97f6-44b1-b407-db8b59256cde.m3u8` |
 | Window TV | HTTP Error (404) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
-| Ziggo Sport 2 FHD | Unknown status (302) | `https://a1xs.vip/140002` |
 ---
 #### Base Channels URL
 ```
