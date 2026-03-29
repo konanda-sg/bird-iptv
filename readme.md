@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-29 05:02 UTC
+## Base Log @ 2026-03-29 09:08 UTC
 
-### ✅ Working Streams: 193<br>❌ Dead Streams: 282
+### ✅ Working Streams: 201<br>❌ Dead Streams: 274
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -16,7 +16,6 @@
 | Sky Sport PL NZ | HTTP Error (401) | `https://a1xs.vip/700008` |
 | Sky Sports Tennis FHD | HTTP Error (401) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | HTTP Error (401) | `https://a1xs.vip/2000012` |
-| Ziggo Sport 2 FHD | Unknown status (302) | `https://a1xs.vip/140002` |
 ---
 #### Base Channels URL
 ```
