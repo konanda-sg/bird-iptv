@@ -3727,8 +3727,6 @@ https://netradio.classicfm.dk/cla12a
 https://netradio.classicfm.dk/classicrock
 #EXTINF:-1 group-title="Denmark" tvg-logo="https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png",DK | Classic.fm
 http://netradio.classicfm.dk/cla8d
-#EXTINF:-1 group-title="Denmark" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",DK | Dance100
-https://dance100.dk/
 #EXTINF:-1 group-title="Denmark" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg",DK | Danmarks Radio p2
 https://live-icy.dr.dk/A/A04L.mp3
 #EXTINF:-1 group-title="Denmark" tvg-logo="https://www.dr.dk/favicon.ico",DK | Danmarks Radio P2
@@ -5103,6 +5101,8 @@ http://smeuh.org:8000/booster-tlse.mp3
 http://str20.creacast.com/bpm
 #EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | Brend Radio
 http://brendradio.com:8008/;stream.nsv?1687286261195
+#EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | Bréniges FM
+https://stream.rcs.revma.com/uzz0fgg64zcwv
 #EXTINF:-1 group-title="France" tvg-logo="http://www.bretagne5.fr/sites/default/files/favicon.png",FR | Bretagne 5
 http://bretagne5.streamakaci.com/bretagne5.mp3
 #EXTINF:-1 group-title="France" tvg-logo="https://www.vip-radios.fm/favicon.ico",FR | Buddha Beach
@@ -6403,8 +6403,6 @@ https://radio.lagrandeevasion.fr/evasion
 https://cast.lagrandeourse.radio.fm/listen/radio/live.mp3
 #EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | La Grosse Radio Métal
 http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
-#EXTINF:-1 group-title="France" tvg-logo="https://www.lagrosseradio.com/wp-content/uploads/2025/03/LGR_Metal_carre-3.png",FR | La Grosse Radio METAL
-https://www.lagrosseradio.com/son/stream-metal/192.m3u
 #EXTINF:-1 group-title="Georgia" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/43916.png",GE | Hereti FM
 http://iis.ge:8000/hereti.mp3
 #EXTINF:-1 group-title="Georgia" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GE | LF Radio
@@ -8652,6 +8650,8 @@ https://solid48.streamupsolutions.com/proxy/qcnwnozj?mp=/stream
 http://radio.lancom.gr:8006/stream1
 #EXTINF:-1 group-title="Greece" tvg-logo="http://www.ble.fm/images/925_130x52_2.png",GR | Ble 92.5
 http://radio.lancom.gr:8006/stream2
+#EXTINF:-1 group-title="Greece" tvg-logo="https://www.ble.fm/images/logo-ble-web.png",GR | Ble 93
+https://ice.greekstream.net/diavlos93
 #EXTINF:-1 group-title="Greece" tvg-logo="http://www.ble.fm/images/logo-ble-web.png",GR | Ble 93.1
 http://radio.lancom.gr:8006/stream1
 #EXTINF:-1 group-title="Greece" tvg-logo="https://resources.live24.gr/resources/images/stations/bd0f2136-2606-47a1-b702-273144447c15.jpg",GR | Ble 93.1 Θεσσαλονίκη
@@ -8768,6 +8768,8 @@ https://server.el1.info:37027/stream
 https://radio.lancom.gr:9012/stream5?1700927157379
 #EXTINF:-1 group-title="Greece" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GR | City 106.1
 https://radio.lancom.gr:9012/stream5
+#EXTINF:-1 group-title="Greece" tvg-logo="https://resources.live24.gr/resources/images/stations/90b2abf1-9661-4859-aeff-f8ca88f13e8a.jpg",GR | City 92
+https://tls-chrome.live24.gr/613?http://84.254.32.49:9200/
 #EXTINF:-1 group-title="Greece" tvg-logo="http://resources.live24.gr/resources/images/stations/3f527734-575e-43d1-9984-92936db9d2e2.png",GR | City 93
 http://radio.city93.gr:9996/stream?type=http&nocache=89
 #EXTINF:-1 group-title="Greece" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GR | City International
@@ -9956,8 +9958,6 @@ http://eco.onestreaming.com:8105/stream?type=http&nocache=117604
 http://radio.lts-group.eu:52390/ANS
 #EXTINF:-1 group-title="Greece" tvg-logo="http://www.facebook.com/favicon.ico",GR | Oscar 90.9
 http://mediacp.32bit.gr:8008/stream
-#EXTINF:-1 group-title="Greece" tvg-logo="https://resources.live24.gr/resources/images/stations/1f32b408-1318-4a3c-8dc0-51563a4fceeb.jpg",GR | Oxygen 95.3
-https://uk6freenew.listen2myradio.com/live.mp3?typeportmount=s1_32520_stream_214133505
 #EXTINF:-1 group-title="Greece" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GR | Oxygen Web Radio
 https://i8.streams.ovh:18039/stream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://www.paidaki975.gr/wp-content/uploads/2023/11/logo.jpeg",GR | Paidaki 97.5
@@ -10200,8 +10200,6 @@ http://air-tunein.radioart.com/fAura.mp3
 http://air.radioart.com/fAura.mp3
 #EXTINF:-1 group-title="Greece" tvg-logo="https://cdn.radioart.com/images/channels/140_baby_sleep-600x400.jpg",GR | Radio Art - Baby Sleep
 https://air.radioart.online/fBaby_sleep.mp3
-#EXTINF:-1 group-title="Greece" tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/029_bach_RadioArt.com.webp",GR | Radio Art - Bach
-http://air.radioart.com/fBach.mp3
 #EXTINF:-1 group-title="Hungary" tvg-logo="https://www.gyorplusz.hu/wp-content/themes/gyorplusz/static/images/favicons/apple-icon-144x144.png",HU | Győr+ Rádió
 https://stream.42netmedia.com:8443/sc_gyor1
 #EXTINF:-1 group-title="Hungary" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",HU | 103.9 rock
@@ -17534,6 +17532,10 @@ http://s1.slotex.pl:7178/listen.xtl?sid=1
 https://radio7.pl/listen.m3u
 #EXTINF:-1 group-title="Poland" tvg-logo="https://radiobest.pl/images/max_400_400/langs/pl/logo/logo_www-1.png",PL | RadioBEST.pl
 https://stream.rcs.revma.com/k7z0hu129s3vv
+#EXTINF:-1 group-title="Poland" tvg-logo="https://radiocmp3.eu/img/av-app.png",PL | RadioCmp3.eu - Kanał EDM - Electronic Dance Music
+https://s1.cmp3.eu/edm
+#EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | RadioCmp3.eu - Kanał Główny
+https://s1.cmp3.eu/stream128
 #EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | RadioFEST
 https://play.radiofest.pl:8443/fest
 #EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | radiokultura.pl
@@ -17986,12 +17988,6 @@ https://ic1.smcdn.pl/1070-2.aac
 https://radio.stream.smcdn.pl/icradio-p/6040-1.aac/playlist.m3u8
 #EXTINF:-1 group-title="Poland" tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png",PL | supernova Gdańsk
 http://ic1.smcdn.pl/1170-1.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png",PL | supernova Jelenia Góra
-http://ic1.smcdn.pl/1480-1.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png",PL | supernova Kielce
-http://ic1.smcdn.pl/1050-1.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | Supernova Party
-https://ic2.smcdn.pl/6160-1.mp3#Supernova_Party
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://webradiodirectory.com/wp-content/uploads/2021/01/fe90a6d0b5158acae63737fe4b9b204f.jpg",PT | M80 Rádio – 60s
 https://stream-icy.bauermedia.pt/m8060.aac
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://webradiodirectory.com/wp-content/uploads/2021/01/cc9443f16e2af31ba205ac82214760c9.jpg",PT | M80 Rádio – 80s
@@ -23294,6 +23290,12 @@ https://cadena100-cope.flumotion.com/chunks.m3u8
 https://cadena100bcn-cope.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://cadena-azul.es/wp-content/uploads/2023/04/cadena-azul-lorca-lorca-comunicaicon-256.jpg",ES | Cadena Azul Radio
 https://azura5.emisiononline.es/public/cadena_azul_radio/playlist.pls
+#EXTINF:-1 group-title="Spain" tvg-logo="https://www.cope.es/favicon/cope/favicon.ico",ES | Cadena Cope Madrid
+https://flucast-rb02-01.flumotion.com/cope/madrid.mp3
+#EXTINF:-1 group-title="Spain" tvg-logo="https://www.cope.es/favicon/cope/favicon.ico",ES | Cadena Cope Mas Madrid
+https://flucast20-h-cloud.flumotion.com/cope/net4.mp3
+#EXTINF:-1 group-title="Spain" tvg-logo="https://www.cope.es/favicon/cope/favicon.ico",ES | Cadena Cope Nacional
+https://flucast-rb04-02.flumotion.com/cope/net1.mp3
 #EXTINF:-1 group-title="Spain" tvg-logo="https://www.cadenadial.com/wp-content/uploads/2024/03/cropped-512x512_favicon_dial-180x180.png",ES | Cadena Dial
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
 #EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Cadena Dial - Arahal
@@ -24932,10 +24934,6 @@ https://sonic.mediatelekom.net/8096/stream
 http://streaming.enacast.com:8000/radiosilenci56.mp3
 #EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Radio sin barreras
 https://live.radiosinbarreras.com/radio/8020/stream
-#EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Radio Sintonia
-https://eu1.lhdserver.es:8055/stream
-#EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Radio Sitges
-https://s2.radio.co/s8e5dffe5e/listen
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",SE | . Al quran radio
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SE | 106 7 Rockklassiker
