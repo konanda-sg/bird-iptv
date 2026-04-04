@@ -1,13 +1,12 @@
-## Base Log @ 2026-04-03 21:05 UTC
+## Base Log @ 2026-04-04 04:31 UTC
 
-### ✅ Working Streams: 148<br>❌ Dead Streams: 327
+### ✅ Working Streams: 157<br>❌ Dead Streams: 318
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | DIJIT / Joy.Rebel | HTTP Error (404) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
-| PBS Retro | HTTP Error (404) | `https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8` |
-| POP UP | HTTP Error (429) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
+| POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
