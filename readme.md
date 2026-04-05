@@ -1,6 +1,6 @@
-## Base Log @ 2026-04-05 09:09 UTC
+## Base Log @ 2026-04-05 15:03 UTC
 
-### ✅ Working Streams: 155<br>❌ Dead Streams: 320
+### ✅ Working Streams: 156<br>❌ Dead Streams: 319
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -43,7 +43,6 @@
 | Ziggo Sport 3 FHD | Connection timed out (000) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | Connection timed out (000) | `https://a1xs.vip/140004` |
 | Ziggo Sport FHD | Connection timed out (000) | `https://a1xs.vip/140001` |
-| zén!th | HTTP Error (404) | `https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8` |
 ---
 #### Base Channels URL
 ```
